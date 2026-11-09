@@ -1,105 +1,71 @@
-import asyncio
-import logging
-from aiogram import Bot, Dispatcher, F
-from aiogram.filters import CommandStart, Command
-from aiogram.types import Message
+import os
+import re
+import sys
+import subprocess
 
-# Данные бота drray rpbot
-BOT_TOKEN = "8797648192:AAH0hZ-YCbJNbpd3fUjEGnpLyOiYh4lxF3c"
-GROUP_ID = -1004321575272
+# Автоматическая установка библиотеки, если её нет в образе
+try:
+    import telebot
+except ImportError:
+    subprocess.check_call([sys.executable, "-m", "pip", "install", "pyTelegramBotAPI"])
+    import telebot
 
-bot = Bot(token=BOT_TOKEN)
-dp = Dispatcher()
+# Получаем данные из переменных окружения хостинга
+TOKEN = os.getenv("BOT_TOKEN") or os.getenv("TOKEN")
+GROUP_ID_RAW = os.getenv("GROUP_ID")
+CHANNEL_ID = os.getenv("CHANNEL_ID")
 
+if not TOKEN or not GROUP_ID_RAW or not CHANNEL_ID:
+    raise ValueError("Ошибка: Не заданы переменные окружения BOT_TOKEN, GROUP_ID или CHANNEL_ID!")
 
-# 0. Команда /id в группе
-@dp.message(Command("id"))
-async def get_chat_id(message: Message):
-    await message.answer(
-        f"ID этого чата: `{message.chat.id}`",
-        parse_mode="Markdown"
-    )
+GROUP_ID = int(GROUP_ID_RAW)
 
+bot = telebot.TeleBot(TOKEN)
 
-# 1. Приветствие и анкета при старте
-@dp.message(CommandStart(), F.chat.type == "private")
-async def cmd_start(message: Message):
-    user = message.from_user
-    username = f"@{user.username}" if user.username else "скрыт"
+def is_otpravka_command(text):
+    if not text:
+        return False
+    return bool(re.match(r'^/otpravka(@\w+)?(\s|$)', text, flags=re.IGNORECASE))
 
-    # Текст анкеты для клиента
-    form_text = (
-        "Здравствуйте! Вы обратились в **drray rpbot**.\n\n"
-        "Пожалуйста, заполните анкету и отправьте ответы ответным сообщением:\n\n"
-        "**Анкета**\n"
-        "1. Возраст:\n"
-        "2. Где узнали о проекте:\n"
-        "3. Был ли опыт в этой сфере:\n"
-        "4. Ознакомились ли вы с правилами:\n"
-        "5. Что собираетесь делать на проекте:"
-    )
-    await message.answer(form_text, parse_mode="Markdown")
+def clean_command(text):
+    if not text:
+        return ""
+    return re.sub(r'^/otpravka(@\w+)?\s*', '', text, count=1, flags=re.IGNORECASE)
 
-    # Уведомление в вашу группу о новом клиенте
-    group_alert = (
-        f"🔔 **Клиент запустил бота (drray rpbot)!**\n"
-        f"👤 Имя: {user.full_name}\n"
-        f"🔗 Юзернейм: {username}\n"
-        f"🆔 ID: `{user.id}`"
-    )
-    await bot.send_message(GROUP_ID, group_alert, parse_mode="Markdown")
+@bot.message_handler(
+    func=lambda m: m.chat.id == GROUP_ID and is_otpravka_command(m.text),
+    content_types=['text']
+)
+def handle_text(message):
+    text_to_send = clean_command(message.text)
+    if not text_to_send:
+        bot.reply_to(message, "⚠️ Напишите текст после команды /otpravka или прикрепите файл.")
+        return
 
+    try:
+        bot.send_message(CHANNEL_ID, text_to_send)
+        bot.reply_to(message, "✅ Сообщение отправлено в канал.")
+    except Exception as e:
+        bot.reply_to(message, f"❌ Ошибка при отправке: {e}")
 
-# 2. Пересылка сообщений и ответов на анкету от клиента в группу
-@dp.message(F.chat.type == "private")
-async def forward_to_group(message: Message):
-    user = message.from_user
-    username = f"@{user.username}" if user.username else "без юзернейма"
+@bot.message_handler(
+    func=lambda m: m.chat.id == GROUP_ID and is_otpravka_command(m.caption),
+    content_types=['photo', 'video', 'document', 'audio', 'animation', 'voice']
+)
+def handle_media(message):
+    caption_to_send = clean_command(message.caption)
 
-    # Карточка клиента для группы
-    header = f"📩 **Сообщение от:** {user.full_name} ({username})\n🆔 ID: `{user.id}`"
-    await bot.send_message(GROUP_ID, header, parse_mode="Markdown")
-
-    # Пересылка текста анкеты или вложенных файлов
-    await message.forward(GROUP_ID)
-
-    # Подтверждение клиенту
-    await message.answer("✅ Ваша анкета принята и отправлена администрации!")
-
-
-# 3. Ответ клиенту прямо из группы через Reply (Ответить)
-@dp.message(F.chat.id == GROUP_ID, F.reply_to_message)
-async def reply_from_group(message: Message):
-    reply = message.reply_to_message
-    client_id = None
-
-    if reply.forward_from:
-        client_id = reply.forward_from.id
-    elif reply.text and "🆔 ID:" in reply.text:
-        try:
-            client_id = int(reply.text.split("🆔 ID:")[1].strip().split()[0])
-        except ValueError:
-            pass
-
-    if client_id:
-        try:
-            await message.copy_to(client_id)
-            await message.reply("📤 Ответ отправлен клиенту.")
-        except Exception as e:
-            await message.reply(f"❌ Ошибка отправки: {e}")
-    else:
-        if reply.from_user.id == bot.id:
-            await message.reply(
-                "⚠️ Профиль клиента скрыт настройками приватности.\n"
-                "Сделайте **Ответить (Reply)** на сообщение выше с `🆔 ID: ...`",
-                parse_mode="Markdown"
-            )
-
-
-async def main():
-    logging.basicConfig(level=logging.INFO)
-    print("Бот drray rpbot запущен с обновленной анкетой!")
-    await dp.start_polling(bot)
+    try:
+        bot.copy_message(
+            chat_id=CHANNEL_ID,
+            from_chat_id=message.chat.id,
+            message_id=message.message_id,
+            caption=caption_to_send
+        )
+        bot.reply_to(message, "✅ Сообщение отправлено в канал.")
+    except Exception as e:
+        bot.reply_to(message, f"❌ Ошибка при отправке: {e}")
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    print("Бот запущен...")
+    bot.infinity_polling()

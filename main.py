@@ -1,26 +1,31 @@
 import os
 import re
-import sys
-import subprocess
+import time
+import json
+import urllib.request
+import urllib.parse
 
-# Автоматическая установка библиотеки, если её нет в образе
-try:
-    import telebot
-except ImportError:
-    subprocess.check_call([sys.executable, "-m", "pip", "install", "pyTelegramBotAPI"])
-    import telebot
-
-# Получаем данные из переменных окружения хостинга
+# Получаем данные из настроек хостинга (Переменные окружения)
 TOKEN = os.getenv("BOT_TOKEN") or os.getenv("TOKEN")
-GROUP_ID_RAW = os.getenv("GROUP_ID")
-CHANNEL_ID = os.getenv("CHANNEL_ID")
+GROUP_ID_RAW = os.getenv("GROUP_ID", "-1003852400870")
+CHANNEL_ID = os.getenv("CHANNEL_ID", "@ArchangelRP1")
 
-if not TOKEN or not GROUP_ID_RAW or not CHANNEL_ID:
-    raise ValueError("Ошибка: Не заданы переменные окружения BOT_TOKEN, GROUP_ID или CHANNEL_ID!")
+if not TOKEN:
+    raise ValueError("Ошибка: Не задан BOT_TOKEN в переменных окружения хостинга!")
 
 GROUP_ID = int(GROUP_ID_RAW)
+API_URL = f"https://api.telegram.org/bot{TOKEN}/"
 
-bot = telebot.TeleBot(TOKEN)
+def api_call(method, params=None):
+    url = API_URL + method
+    data = None
+    headers = {}
+    if params:
+        data = json.dumps(params).encode("utf-8")
+        headers["Content-Type"] = "application/json"
+    req = urllib.request.Request(url, data=data, headers=headers)
+    with urllib.request.urlopen(req, timeout=35) as resp:
+        return json.loads(resp.read().decode("utf-8"))
 
 def is_otpravka_command(text):
     if not text:
@@ -32,40 +37,61 @@ def clean_command(text):
         return ""
     return re.sub(r'^/otpravka(@\w+)?\s*', '', text, count=1, flags=re.IGNORECASE)
 
-@bot.message_handler(
-    func=lambda m: m.chat.id == GROUP_ID and is_otpravka_command(m.text),
-    content_types=['text']
-)
-def handle_text(message):
-    text_to_send = clean_command(message.text)
-    if not text_to_send:
-        bot.reply_to(message, "⚠️ Напишите текст после команды /otpravka или прикрепите файл.")
+def reply(chat_id, message_id, text):
+    api_call("sendMessage", {
+        "chat_id": chat_id,
+        "text": text,
+        "reply_to_message_id": message_id
+    })
+
+def process_message(msg):
+    chat = msg.get("chat", {})
+    if chat.get("id") != GROUP_ID:
         return
 
-    try:
-        bot.send_message(CHANNEL_ID, text_to_send)
-        bot.reply_to(message, "✅ Сообщение отправлено в канал.")
-    except Exception as e:
-        bot.reply_to(message, f"❌ Ошибка при отправке: {e}")
+    msg_id = msg.get("message_id")
+    text = msg.get("text")
+    caption = msg.get("caption")
 
-@bot.message_handler(
-    func=lambda m: m.chat.id == GROUP_ID and is_otpravka_command(m.caption),
-    content_types=['photo', 'video', 'document', 'audio', 'animation', 'voice']
-)
-def handle_media(message):
-    caption_to_send = clean_command(message.caption)
+    # Если это обычное текстовое сообщение
+    if text is not None and is_otpravka_command(text):
+        text_to_send = clean_command(text)
+        if not text_to_send:
+            reply(GROUP_ID, msg_id, "⚠️ Напишите текст после команды /otpravka или прикрепите файл.")
+            return
+        try:
+            api_call("sendMessage", {"chat_id": CHANNEL_ID, "text": text_to_send})
+            reply(GROUP_ID, msg_id, "✅ Сообщение отправлено в канал.")
+        except Exception as e:
+            reply(GROUP_ID, msg_id, f"❌ Ошибка при отправке (проверьте, добавлен ли бот в админы ТГК): {e}")
 
-    try:
-        bot.copy_message(
-            chat_id=CHANNEL_ID,
-            from_chat_id=message.chat.id,
-            message_id=message.message_id,
-            caption=caption_to_send
-        )
-        bot.reply_to(message, "✅ Сообщение отправлено в канал.")
-    except Exception as e:
-        bot.reply_to(message, f"❌ Ошибка при отправке: {e}")
+    # Если это фото, видео, документ, GIF или голосовое с подписью /otpravka
+    elif caption is not None and is_otpravka_command(caption):
+        caption_to_send = clean_command(caption)
+        try:
+            api_call("copyMessage", {
+                "chat_id": CHANNEL_ID,
+                "from_chat_id": GROUP_ID,
+                "message_id": msg_id,
+                "caption": caption_to_send
+            })
+            reply(GROUP_ID, msg_id, "✅ Сообщение отправлено в канал.")
+        except Exception as e:
+            reply(GROUP_ID, msg_id, f"❌ Ошибка при отправке (проверьте, добавлен ли бот в админы ТГК): {e}")
+
+def main():
+    print("Бот успешно запущен и ждет сообщений...")
+    offset = 0
+    while True:
+        try:
+            res = api_call("getUpdates", {"offset": offset, "timeout": 25})
+            for item in res.get("result", []):
+                offset = item["update_id"] + 1
+                if "message" in item:
+                    process_message(item["message"])
+        except Exception as e:
+            print(f"Ошибка соединения: {e}")
+            time.sleep(3)
 
 if __name__ == "__main__":
-    print("Бот запущен...")
-    bot.infinity_polling()
+    main()

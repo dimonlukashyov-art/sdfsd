@@ -1,0 +1,23 @@
+{
+  "type": "palladium:default",
+  "max_stack_size": 1,
+  "rarity": "rare",
+  "creative_mode_tab": "project_edgerunner:cyberpunk",
+  "tooltip": [
+    {
+      "color": "#AAAAAA",
+      "translate": "tooltip.project_edgerunner.item.sandevistan_falcon.line_0",
+      "fallback": "Sandevistan Falcon (OS)"
+    },
+    {
+      "color": "#BF40BF",
+      "translate": "tooltip.project_edgerunner.item.sandevistan_falcon.tier_load",
+      "fallback": "Tier: 4 | Load: 68"
+    },
+    {
+      "color": "#66CCFF",
+      "translate": "tooltip.project_edgerunner.item.sandevistan_falcon.line_2",
+      "fallback": "Operating System implant. Slows personal perception while active."
+    }
+  ]
+}

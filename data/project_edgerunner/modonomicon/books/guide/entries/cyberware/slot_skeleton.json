@@ -1,0 +1,40 @@
+{
+  "category": "project_edgerunner:cyberware",
+  "name": "book.edgerunner.guide.cyberware.slot_skeleton.name",
+  "description": "book.edgerunner.guide.cyberware.slot_skeleton.description",
+  "icon": {
+    "item": "project_edgerunner:titanium_bones"
+  },
+  "x": 7,
+  "y": 2,
+  "sort_number": 7,
+  "hide_while_locked": false,
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_0",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.cyberware.slot_skeleton.r5b.page0.title",
+      "show_title_separator": true,
+      "text": "book.edgerunner.guide.cyberware.slot_skeleton.r5b.page0.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_1",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.cyberware.slot_skeleton.r5b.page1.title",
+      "show_title_separator": true,
+      "text": "book.edgerunner.guide.cyberware.slot_skeleton.r5b.page1.text"
+    }
+  ],
+  "parents": [
+    {
+      "draw_arrow": true,
+      "entry": "project_edgerunner:cyberware/hub"
+    }
+  ]
+}

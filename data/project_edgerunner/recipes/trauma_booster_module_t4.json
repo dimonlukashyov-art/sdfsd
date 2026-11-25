@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "project_edgerunner:coagulation_mesh_t2"
+    },
+    {
+      "item": "project_edgerunner:hemo_chamber_t2"
+    },
+    {
+      "item": "palladium:lead_circuit"
+    },
+    {
+      "item": "minecraft:glistering_melon_slice"
+    },
+    {
+      "item": "minecraft:glistering_melon_slice"
+    },
+    {
+      "item": "minecraft:glistering_melon_slice"
+    },
+    {
+      "item": "minecraft:redstone"
+    }
+  ],
+  "result": {
+    "item": "project_edgerunner:trauma_booster_module_t4",
+    "count": 1
+  }
+}

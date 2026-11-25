@@ -1,0 +1,25 @@
+{
+  "category": "project_edgerunner:cyberware",
+  "name": "book.edgerunner.guide.water.thermal.name",
+  "description": "book.edgerunner.guide.water.thermal.description",
+  "icon": {
+    "item": "minecraft:water_bucket"
+  },
+  "x": 0,
+  "y": 15,
+  "sort_number": 92,
+  "hide_while_locked": true,
+  "condition": {
+    "type": "modonomicon:advancement",
+    "advancement_id": "project_edgerunner:water/thermal"
+  },
+  "parents": [],
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "anchor": "conduction_idea1",
+      "title": "book.edgerunner.guide.water.thermal.name",
+      "text": "book.edgerunner.guide.water.thermal.text.book2.0"
+    }
+  ]
+}

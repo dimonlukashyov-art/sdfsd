@@ -1,0 +1,28 @@
+{
+  "type": "palladium:default",
+  "max_stack_size": 1,
+  "rarity": "rare",
+  "creative_mode_tab": "project_edgerunner:cyberpunk",
+  "tooltip": [
+    {
+      "color": "#AAAAAA",
+      "translate": "tooltip.project_edgerunner.item.gorilla_arms.line_0",
+      "fallback": "Gorilla Arms (Arms Slot)"
+    },
+    {
+      "color": "#BF40BF",
+      "translate": "tooltip.project_edgerunner.item.gorilla_arms.tier_load",
+      "fallback": "Tier: 4 | Load: 35"
+    },
+    {
+      "color": "#66CCFF",
+      "translate": "tooltip.project_edgerunner.item.gorilla_arms.line_2",
+      "fallback": "Toggle to deploy both arms. Melee damage and bleed chance scale with upgrades."
+    },
+    {
+      "color": "#66CCFF",
+      "translate": "tooltip.project_edgerunner.item.gorilla_arms.line_3",
+      "fallback": "Finisher: hold use to grab low-health targets, release to throw."
+    }
+  ]
+}

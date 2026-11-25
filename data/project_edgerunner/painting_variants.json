@@ -1,0 +1,14 @@
+{
+  "variants": [
+    {
+      "id": "night_city",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "id": "david_grave",
+      "width": 16,
+      "height": 32
+    }
+  ]
+}

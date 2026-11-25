@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "project_edgerunner:os_frame_t1"
+    },
+    {
+      "item": "project_edgerunner:temporal_microdriver_t1"
+    },
+    {
+      "item": "palladium:quartz_flux_capacitor"
+    },
+    {
+      "item": "palladium:lead_circuit"
+    }
+  ],
+  "result": {
+    "item": "project_edgerunner:os_core_t2",
+    "count": 1
+  }
+}

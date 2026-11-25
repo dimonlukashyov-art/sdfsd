@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "project_edgerunner:item/apogee_overdrive_kernel_t5_item"
+  }
+}

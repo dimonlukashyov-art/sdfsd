@@ -1,0 +1,15 @@
+{
+  "type": "palladium:item_tailoring",
+  "title": { "translate": "tailoring.project_edgerunner.kinetic_frame" },
+  "tool": { "item": "project_edgerunner:soldering_iron" },
+  "tool_icon": "project_edgerunner:item/soldering_iron_tool_icon_bw",
+  "category": "project_edgerunner:cyberware_tailoring",
+  "requires_unlocking": false,
+  "ingredients": [
+    { "ingredient": { "item": "project_edgerunner:kinetic_damper_frame_t3" }, "count": 1 },
+    { "ingredient": { "item": "project_edgerunner:kinetic_actuator_t1" }, "count": 1 },
+    { "ingredient": { "item": "palladium:lead_flux_capacitor" }, "count": 1 },
+    { "ingredient": { "item": "minecraft:redstone" }, "count": 4 }
+  ],
+  "results": { "chest": "project_edgerunner:kinetic_frame" }
+}

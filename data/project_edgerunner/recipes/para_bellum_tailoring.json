@@ -1,0 +1,16 @@
+{
+  "type": "palladium:item_tailoring",
+  "title": { "translate": "tailoring.project_edgerunner.para_bellum" },
+  "tool": { "item": "project_edgerunner:soldering_iron" },
+  "tool_icon": "project_edgerunner:item/soldering_iron_tool_icon_bw",
+  "category": "project_edgerunner:cyberware_tailoring",
+  "requires_unlocking": false,
+  "ingredients": [
+    { "ingredient": { "item": "project_edgerunner:ballistic_spine_plate_t3" }, "count": 1 },
+    { "ingredient": { "item": "project_edgerunner:scarab_shell_plate_t2" }, "count": 1 },
+    { "ingredient": { "item": "palladium:quartz_flux_capacitor" }, "count": 1 },
+    { "ingredient": { "item": "minecraft:iron_ingot" }, "count": 2 },
+    { "ingredient": { "item": "minecraft:obsidian" }, "count": 3 }
+  ],
+  "results": { "chest": "project_edgerunner:para_bellum" }
+}

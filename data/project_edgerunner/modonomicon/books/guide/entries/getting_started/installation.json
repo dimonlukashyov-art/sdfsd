@@ -1,0 +1,47 @@
+{
+  "category": "project_edgerunner:getting_started",
+  "name": "book.edgerunner.guide.getting_started.installation.name",
+  "description": "book.edgerunner.guide.getting_started.installation.description",
+  "icon": {
+    "item": "minecraft:paper"
+  },
+  "x": -6,
+  "y": 4,
+  "sort_number": 2,
+  "hide_while_locked": false,
+  "parents": [
+    {
+      "entry": "project_edgerunner:getting_started/ripperdoc",
+      "draw_arrow": true
+    }
+  ],
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "anchor": "op9_0",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.getting_started.installation.op9.p0.title",
+      "text": "book.edgerunner.guide.getting_started.installation.op9.p0.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "op9_1",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.getting_started.installation.op9.p1.title",
+      "text": "book.edgerunner.guide.getting_started.installation.op9.p1.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "op9_2",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.getting_started.installation.op9.p2.title",
+      "text": "book.edgerunner.guide.getting_started.installation.op9.p2.text"
+    }
+  ]
+}

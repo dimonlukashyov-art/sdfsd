@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "palladium:lead_circuit"
+    },
+    {
+      "item": "palladium:lead_circuit"
+    },
+    {
+      "item": "palladium:titanium_ingot"
+    },
+    {
+      "item": "palladium:titanium_ingot"
+    },
+    {
+      "item": "palladium:titanium_ingot"
+    },
+    {
+      "item": "project_edgerunner:os_core_t3"
+    }
+  ],
+  "result": {
+    "item": "project_edgerunner:latency_shunt_t4",
+    "count": 1
+  }
+}

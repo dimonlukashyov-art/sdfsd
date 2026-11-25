@@ -1,0 +1,23 @@
+{
+  "type": "palladium:default",
+  "max_stack_size": 1,
+  "rarity": "uncommon",
+  "creative_mode_tab": "project_edgerunner:cyberpunk",
+  "tooltip": [
+    {
+      "color": "#AAAAAA",
+      "translate": "tooltip.project_edgerunner.item.berserk_moore_tech.line_0",
+      "fallback": "Moore Tech Berserk (OS)"
+    },
+    {
+      "color": "#BF40BF",
+      "translate": "tooltip.project_edgerunner.item.berserk_moore_tech.tier_load",
+      "fallback": "Tier: 2 | Load: 24"
+    },
+    {
+      "color": "#66CCFF",
+      "translate": "tooltip.project_edgerunner.item.berserk_moore_tech.line_2",
+      "fallback": "Industrial damage control with Bastion and Breach specialization paths."
+    }
+  ]
+}

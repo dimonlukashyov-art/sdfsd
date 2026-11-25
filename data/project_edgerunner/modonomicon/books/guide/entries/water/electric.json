@@ -1,0 +1,25 @@
+{
+  "category": "project_edgerunner:cyberware",
+  "name": "book.edgerunner.guide.water.electric.name",
+  "description": "book.edgerunner.guide.water.electric.description",
+  "icon": {
+    "item": "minecraft:water_bucket"
+  },
+  "x": -6,
+  "y": 15,
+  "sort_number": 90,
+  "hide_while_locked": true,
+  "condition": {
+    "type": "modonomicon:advancement",
+    "advancement_id": "project_edgerunner:water/electric"
+  },
+  "parents": [],
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "anchor": "conduction_idea1",
+      "title": "book.edgerunner.guide.water.electric.name",
+      "text": "book.edgerunner.guide.water.electric.text.book2.0"
+    }
+  ]
+}

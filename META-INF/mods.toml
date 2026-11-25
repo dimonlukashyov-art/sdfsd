@@ -1,0 +1,77 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved - Modpack use permitted"
+
+[[mods]]
+modId="project_edgerunner"
+version="${file.jarVersion}"
+displayName="Project: Edgerunner"
+displayTest="NONE"
+logoFile="logo.png"
+authors="A24-N22"
+description='''
+Augment your body with cyberware — OS implants, Gorilla Arms, optics and more.
+Install and upgrade implants through a Ripper Doc villager. Push your load too far and face Cyberpsychosis.
+
+Includes an in-game guide book covering all cyberware, crafting progression, and survival tips.
+'''
+
+[[dependencies.project_edgerunner]]
+modId="forge"
+mandatory=true
+# EntityRenderersEvent.AddLayers#getPlayerSkin was added in Forge 47.4.1.
+# processResources injects this range from forge_min_version in gradle.properties.
+versionRange="[47.4.1,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.project_edgerunner]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1]"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.project_edgerunner]]
+modId="palladium"
+mandatory=true
+versionRange="[4.4.0,)"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.project_edgerunner]]
+modId="kubejs"
+mandatory=true
+versionRange="[2001.6.3-build.64,)"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.project_edgerunner]]
+modId="geckolib"
+mandatory=true
+versionRange="[4.7.2,)"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.project_edgerunner]]
+modId="epicfight"
+mandatory=false
+versionRange="[20.0,)"
+ordering="AFTER"
+side="BOTH"
+
+# Optional. Any version: the compatibility layer is reflection-only and switches itself off
+# when it does not recognise ParCool's API, so a ParCool update can never block loading.
+[[dependencies.project_edgerunner]]
+modId="parcool"
+mandatory=false
+versionRange="*"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.project_edgerunner]]
+modId="modonomicon"
+mandatory=true
+versionRange="[1.38.4,)"
+ordering="AFTER"
+side="BOTH"

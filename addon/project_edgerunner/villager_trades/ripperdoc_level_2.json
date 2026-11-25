@@ -1,0 +1,38 @@
+{
+  "villager_profession": "project_edgerunner:ripperdoc",
+  "level": 2,
+  "trades": [
+    {
+      "price": {
+        "item": "minecraft:emerald",
+        "count": 8
+      },
+      "price_2": {
+        "item": "minecraft:redstone",
+        "count": 16
+      },
+      "for_sale": {
+        "item": "project_edgerunner:cyberware_internal_parts_t1",
+        "count": 1
+      },
+      "xp": 5,
+      "max_trades": 8
+    },
+    {
+      "price": {
+        "item": "minecraft:emerald",
+        "count": 12
+      },
+      "price_2": {
+        "item": "minecraft:quartz",
+        "count": 8
+      },
+      "for_sale": {
+        "item": "project_edgerunner:cyberware_internal_parts_t2",
+        "count": 1
+      },
+      "xp": 5,
+      "max_trades": 8
+    }
+  ]
+}

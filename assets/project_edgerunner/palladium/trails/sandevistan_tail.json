@@ -1,0 +1,53 @@
+{
+    "type": "palladium:compound",
+    "trails": [
+        {
+            "type": "palladium:after_image",
+            "color": "#ff1b1b",
+            "mimic_player": true,
+            "spacing": 0.5,
+            "lifetime": 10,
+            "opacity": 1.0
+        },
+        {
+            "type": "palladium:after_image",
+            "color": "#ff3c1b",
+            "mimic_player": true,
+            "spacing": 0.8,
+            "lifetime": 12,
+            "opacity": 0.9
+        },
+        {
+            "type": "palladium:after_image",
+            "color": "#ff6a3c",
+            "mimic_player": true,
+            "spacing": 1.1,
+            "lifetime": 14,
+            "opacity": 0.75
+        },
+        {
+            "type": "palladium:after_image",
+            "color": "#5f7dd6",
+            "mimic_player": true,
+            "spacing": 1.6,
+            "lifetime": 22,
+            "opacity": 0.55
+        },
+        {
+            "type": "palladium:after_image",
+            "color": "#3d8be9",
+            "mimic_player": true,
+            "spacing": 2.0,
+            "lifetime": 32,
+            "opacity": 0.45
+        },
+        {
+            "type": "palladium:after_image",
+            "color": "#2c94ee",
+            "mimic_player": true,
+            "spacing": 2.4,
+            "lifetime": 42,
+            "opacity": 0.35
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "project_edgerunner:item/trauma_team_diagnostic_item"
+  }
+}

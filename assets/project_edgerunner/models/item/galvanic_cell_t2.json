@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "project_edgerunner:item/galvanic_cell_t2_item"
+  }
+}

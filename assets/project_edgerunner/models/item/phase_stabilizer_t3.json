@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "project_edgerunner:item/phase_stabilizer_t3_item"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "category": "project_edgerunner:cyberware",
+  "name": "book.edgerunner.guide.cyberware.os_sandevistan.name",
+  "description": "book.edgerunner.guide.cyberware.os_sandevistan.description",
+  "icon": {
+    "item": "project_edgerunner:sandevistan_warp_dancer"
+  },
+  "x": -30,
+  "y": 4,
+  "sort_number": 0,
+  "hide_while_locked": false,
+  "parents": [
+    {
+      "entry": "project_edgerunner:cyberware/slot_os",
+      "draw_arrow": true
+    }
+  ],
+  "pages": [
+    {
+      "type": "modonomicon:spotlight",
+      "anchor": "r5b_intro",
+      "item": {
+        "item": "project_edgerunner:sandevistan_warp_dancer"
+      },
+      "title": "book.edgerunner.guide.cyberware.os_sandevistan.r5b.intro.title",
+      "text": "book.edgerunner.guide.cyberware.os_sandevistan.r5b.intro.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_0",
+      "title": "book.edgerunner.guide.cyberware.os_sandevistan.r5b.page0.title",
+      "text": "book.edgerunner.guide.cyberware.os_sandevistan.r5b.page0.text"
+    },
+    {
+      "type": "modonomicon:crafting_recipe",
+      "anchor": "p2",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title1": "book.edgerunner.guide.cyberware.os_sandevistan.page8.title1",
+      "title2": "book.edgerunner.guide.cyberware.os_sandevistan.page8.title2",
+      "recipe_id_1": "project_edgerunner:temporal_microdriver_t1",
+      "recipe_id_2": "project_edgerunner:os_core_t2"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_2",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.cyberware.os_sandevistan.r5b.page2.title",
+      "show_title_separator": true,
+      "text": "book.edgerunner.guide.cyberware.os_sandevistan.r5b.page2.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_3",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.cyberware.os_sandevistan.r5b.page3.title",
+      "show_title_separator": true,
+      "text": "book.edgerunner.guide.cyberware.os_sandevistan.r5b.page3.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_4",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.cyberware.os_sandevistan.r5b.page4.title",
+      "show_title_separator": true,
+      "text": "book.edgerunner.guide.cyberware.os_sandevistan.r5b.page4.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_5",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.cyberware.os_sandevistan.r5b.page5.title",
+      "show_title_separator": true,
+      "text": "book.edgerunner.guide.cyberware.os_sandevistan.r5b.page5.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_6",
+      "title": "book.edgerunner.guide.cyberware.os_sandevistan.r5b.page6.title",
+      "text": "book.edgerunner.guide.cyberware.os_sandevistan.r5b.page6.text"
+    }
+  ]
+}

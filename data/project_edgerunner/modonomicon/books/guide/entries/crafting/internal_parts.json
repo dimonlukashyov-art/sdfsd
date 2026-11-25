@@ -1,0 +1,38 @@
+{
+  "category": "project_edgerunner:getting_started",
+  "name": "book.edgerunner.guide.crafting.internal_parts.name",
+  "description": "book.edgerunner.guide.crafting.internal_parts.description",
+  "icon": {
+    "item": "project_edgerunner:cyberware_internal_parts_t4"
+  },
+  "x": 4,
+  "y": 6,
+  "sort_number": 12,
+  "hide_while_locked": false,
+  "parents": [
+    {
+      "entry": "project_edgerunner:crafting/soldering_iron",
+      "draw_arrow": true
+    }
+  ],
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "anchor": "op9_0",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.crafting.internal_parts.op9.p0.title",
+      "text": "book.edgerunner.guide.crafting.internal_parts.op9.p0.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "op9_1",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.crafting.internal_parts.op9.p1.title",
+      "text": "book.edgerunner.guide.crafting.internal_parts.op9.p1.text"
+    }
+  ]
+}

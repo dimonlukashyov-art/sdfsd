@@ -1,0 +1,25 @@
+{
+  "category": "project_edgerunner:cyberware",
+  "name": "book.edgerunner.guide.water.cryo.name",
+  "description": "book.edgerunner.guide.water.cryo.description",
+  "icon": {
+    "item": "minecraft:ice"
+  },
+  "x": -2,
+  "y": 15,
+  "sort_number": 93,
+  "hide_while_locked": true,
+  "condition": {
+    "type": "modonomicon:advancement",
+    "advancement_id": "project_edgerunner:water/cryo"
+  },
+  "parents": [],
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "anchor": "conduction_idea1",
+      "title": "book.edgerunner.guide.water.cryo.name",
+      "text": "book.edgerunner.guide.water.cryo.text.book2.0"
+    }
+  ]
+}

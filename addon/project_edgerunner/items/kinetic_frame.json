@@ -1,0 +1,23 @@
+{
+  "type": "palladium:default",
+  "max_stack_size": 1,
+  "rarity": "rare",
+  "creative_mode_tab": "project_edgerunner:cyberpunk",
+  "tooltip": [
+    {
+      "color": "#AAAAAA",
+      "translate": "tooltip.project_edgerunner.item.kinetic_frame.line_0",
+      "fallback": "Kinetic Frame (Skeleton)"
+    },
+    {
+      "color": "#BF40BF",
+      "translate": "tooltip.project_edgerunner.item.kinetic_frame.tier_load",
+      "fallback": "Tier: 3 | Load: 16"
+    },
+    {
+      "color": "#66CCFF",
+      "translate": "tooltip.project_edgerunner.item.kinetic_frame.line_2",
+      "fallback": "Mobile defense skeleton implant. Sandevistan active always counts as high movement."
+    }
+  ]
+}

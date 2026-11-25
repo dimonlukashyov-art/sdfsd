@@ -1,0 +1,56 @@
+{
+  "category": "project_edgerunner:cyberware",
+  "name": "book.edgerunner.guide.cyberware.axolotl.name",
+  "description": "book.edgerunner.guide.cyberware.axolotl.description",
+  "icon": {
+    "item": "project_edgerunner:axolotl"
+  },
+  "x": -26,
+  "y": 4,
+  "sort_number": 4,
+  "hide_while_locked": false,
+  "parents": [
+    {
+      "entry": "project_edgerunner:cyberware/slot_cortex",
+      "draw_arrow": true
+    }
+  ],
+  "pages": [
+    {
+      "type": "modonomicon:spotlight",
+      "anchor": "r5b_0",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "item": {
+        "item": "project_edgerunner:axolotl"
+      },
+      "title": "book.edgerunner.guide.cyberware.axolotl.r5b.page0.title",
+      "text": "book.edgerunner.guide.cyberware.axolotl.r5b.page0.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_1",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.cyberware.axolotl.r5b.page1.title",
+      "text": "book.edgerunner.guide.cyberware.axolotl.r5b.page1.text"
+    },
+    {
+      "type": "modonomicon:crafting_recipe",
+      "anchor": "p2",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title1": "book.edgerunner.guide.cyberware.axolotl.page2.title1",
+      "recipe_id_1": "project_edgerunner:cooldown_optimizer_t4"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_3",
+      "title": "book.edgerunner.guide.cyberware.axolotl.r5b.page3.title",
+      "text": "book.edgerunner.guide.cyberware.axolotl.r5b.page3.text"
+    }
+  ]
+}

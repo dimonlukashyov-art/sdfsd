@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "project_edgerunner:scarab_shell_plate_t2"
+    },
+    {
+      "item": "palladium:titanium_ingot"
+    },
+    {
+      "item": "palladium:titanium_ingot"
+    },
+    {
+      "item": "minecraft:obsidian"
+    },
+    {
+      "item": "minecraft:obsidian"
+    },
+    {
+      "item": "palladium:lead_flux_capacitor"
+    }
+  ],
+  "result": {
+    "item": "project_edgerunner:ballistic_spine_plate_t3",
+    "count": 1
+  }
+}

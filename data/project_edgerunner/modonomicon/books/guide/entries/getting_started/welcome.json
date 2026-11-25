@@ -1,0 +1,50 @@
+{
+  "category": "project_edgerunner:getting_started",
+  "name": "book.edgerunner.guide.getting_started.welcome.name",
+  "description": "book.edgerunner.guide.getting_started.welcome.description",
+  "icon": {
+    "item": "minecraft:book"
+  },
+  "x": 0,
+  "y": 0,
+  "sort_number": 0,
+  "hide_while_locked": false,
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "anchor": "op9_0",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.getting_started.welcome.op9.p0.title",
+      "text": "book.edgerunner.guide.getting_started.welcome.op9.p0.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "op9_1",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.getting_started.welcome.op9.p1.title",
+      "text": "book.edgerunner.guide.getting_started.welcome.op9.p1.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "op9_2",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.getting_started.welcome.op9.p2.title",
+      "text": "book.edgerunner.guide.getting_started.welcome.op9.p2.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "op9_3",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.getting_started.welcome.op9.p3.title",
+      "text": "book.edgerunner.guide.getting_started.welcome.op9.p3.text"
+    }
+  ]
+}

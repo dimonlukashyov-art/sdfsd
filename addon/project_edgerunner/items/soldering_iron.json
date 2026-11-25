@@ -1,0 +1,23 @@
+{
+  "type": "palladium:default",
+  "max_stack_size": 1,
+  "rarity": "uncommon",
+  "creative_mode_tab": "project_edgerunner:cyberpunk",
+  "tooltip": [
+    {
+      "color": "#AAAAAA",
+      "translate": "tooltip.project_edgerunner.item.soldering_iron.line_0",
+      "fallback": "Cyberware workshop tool."
+    },
+    {
+      "color": "#66CCFF",
+      "translate": "tooltip.project_edgerunner.item.soldering_iron.line_1",
+      "fallback": "Used as the required tool in Tailoring Bench recipes."
+    },
+    {
+      "color": "#66CCFF",
+      "translate": "tooltip.project_edgerunner.item.soldering_iron.line_2",
+      "fallback": "Allows assembly and upgrade of cyberware parts."
+    }
+  ]
+}

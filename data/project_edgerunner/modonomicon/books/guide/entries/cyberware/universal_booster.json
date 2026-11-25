@@ -1,0 +1,49 @@
+{
+  "category": "project_edgerunner:cyberware",
+  "name": "book.edgerunner.guide.cyberware.universal_booster.name",
+  "description": "book.edgerunner.guide.cyberware.universal_booster.description",
+  "icon": {
+    "item": "project_edgerunner:universal_booster"
+  },
+  "x": 16,
+  "y": 6,
+  "sort_number": 21,
+  "hide_while_locked": false,
+  "parents": [
+    {
+      "draw_arrow": true,
+      "entry": "project_edgerunner:cyberware/skeleton_defense_frame"
+    }
+  ],
+  "pages": [
+    {
+      "type": "modonomicon:spotlight",
+      "anchor": "r5b_0",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "item": {
+        "item": "project_edgerunner:universal_booster"
+      },
+      "title": "book.edgerunner.guide.cyberware.universal_booster.r5b.page0.title",
+      "text": "book.edgerunner.guide.cyberware.universal_booster.r5b.page0.text"
+    },
+    {
+      "type": "modonomicon:crafting_recipe",
+      "anchor": "p3",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title1": "item.project_edgerunner.trauma_booster_module_t4",
+      "title2": "item.project_edgerunner.hemo_chamber_t2",
+      "recipe_id_1": "project_edgerunner:trauma_booster_module_t4",
+      "recipe_id_2": "project_edgerunner:hemo_chamber_t2"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_2",
+      "title": "book.edgerunner.guide.cyberware.universal_booster.r5b.page2.title",
+      "text": "book.edgerunner.guide.cyberware.universal_booster.r5b.page2.text"
+    }
+  ]
+}

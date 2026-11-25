@@ -1,0 +1,14 @@
+{
+  "type": "geckolib:default",
+  "model": "project_edgerunner:geo/inmunosupresion.geo.json",
+  "texture": "project_edgerunner:textures/models/inmusupresion_texture.png",
+  "render_type": "cutout",
+  "bones": {
+    "head": "armorHead",
+    "body": "armorBody",
+    "right_arm": "armorRightArm",
+    "left_arm": "armorLeftArm",
+    "right_leg": "armorRightLeg",
+    "left_leg": "armorLeftLeg"
+  }
+}

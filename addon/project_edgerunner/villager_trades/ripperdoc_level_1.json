@@ -1,0 +1,22 @@
+{
+  "villager_profession": "project_edgerunner:ripperdoc",
+  "level": 1,
+  "trades": [
+    {
+      "price": {
+        "item": "minecraft:emerald",
+        "count": 18
+      },
+      "price_2": {
+        "item": "minecraft:iron_ingot",
+        "count": 12
+      },
+      "for_sale": {
+        "item": "project_edgerunner:soldering_iron",
+        "count": 1
+      },
+      "xp": 20,
+      "max_trades": 8
+    }
+  ]
+}

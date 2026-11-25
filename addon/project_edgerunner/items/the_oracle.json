@@ -1,0 +1,28 @@
+{
+  "type": "palladium:default",
+  "max_stack_size": 1,
+  "rarity": "epic",
+  "creative_mode_tab": "project_edgerunner:cyberpunk",
+  "tooltip": [
+    {
+      "color": "#AAAAAA",
+      "translate": "tooltip.project_edgerunner.item.the_oracle.line_0",
+      "fallback": "The Oracle (Face Slot)"
+    },
+    {
+      "color": "#BF40BF",
+      "translate": "tooltip.project_edgerunner.item.the_oracle.tier_load",
+      "fallback": "Tier: 5 | Load: 26"
+    },
+    {
+      "color": "#66CCFF",
+      "translate": "tooltip.project_edgerunner.item.the_oracle.line_2",
+      "fallback": "Legendary scan suite: enemies, piston traps, hazards and trails in one 60-second scan."
+    },
+    {
+      "color": "#66CCFF",
+      "translate": "tooltip.project_edgerunner.item.the_oracle.line_3",
+      "fallback": "Cooldown: 30 seconds after scan. Zoom: 2x / 4x / 6x / 8x / 10x / 12x."
+    }
+  ]
+}

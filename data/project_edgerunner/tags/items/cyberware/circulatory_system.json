@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "project_edgerunner:blood_pump",
+    "project_edgerunner:threatevac",
+    "project_edgerunner:heal_on_kill",
+    "project_edgerunner:biomonitor"
+  ]
+}

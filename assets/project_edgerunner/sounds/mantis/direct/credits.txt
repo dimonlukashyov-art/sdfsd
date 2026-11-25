@@ -1,0 +1,430 @@
+MANTIS DIRECT BANK — CYBERPUNK 2077 / SOUNDDB
+CD PROJEKT RED audio; not CC0.
+https://sounddb.redmodding.org/sfx
+Public 16 kHz mono Opus previews converted to 48 kHz Vorbis.
+One source per variant; no additional layers, EQ or time stretching.
+Per-asset URLs/checksums/edits: assets/project_edgerunner/mantis/direct_audio.json
+
+1003784073 | w_cyb_mantis_special_attack
+https://sounddb.redmodding.org/sfx/1003784073
+742860f6ce1c24725cafaec381c9c91a6654a85f8a586a2cd4331caf45ec420b
+1005423796 | w_cyb_mantis_mechanicals_short
+https://sounddb.redmodding.org/sfx/1005423796
+b834baeb0f21c7007b6e8bd072e3521262e123261de0c1706f00e42574b1b5ba
+1010943296 | w_cyb_mantis_whoosh_fast
+https://sounddb.redmodding.org/sfx/1010943296
+c3f1444c2e7708e6be13ea1d91caa6bb0e2f8f1d954c5c6f19525103db4a311e
+1021467820 | w_cyb_mantis_whoosh_medium
+https://sounddb.redmodding.org/sfx/1021467820
+426b67a7b6d5e466e988e94c8186a1ac82db9e1995e3cb72b5cad35dfe59aa57
+1023488055 | w_cyb_mantis_mechanicals_long
+https://sounddb.redmodding.org/sfx/1023488055
+ad579a216fea06ab7ae22d2333e2a11abb17b684d57edd9731133ec355de37a7
+1024497036 | w_cyb_mantis_mechanicals_short
+https://sounddb.redmodding.org/sfx/1024497036
+5d238d5c01ddf158793c304f0bfbc2c8c9d86d12a1cae3cbd2bb2475d74d46f0
+1034158262 | w_cyb_mantis_impact_flesh
+https://sounddb.redmodding.org/sfx/1034158262
+0aa01c840516eb334ef2548ce9d80e9a0af70eb091cbfc83ea50ee4246691527
+1040147441 | w_cyb_mantis_robotic
+https://sounddb.redmodding.org/sfx/1040147441
+aa53cb868fdbef17fef3af23aeaa05044867f616319767dffbb1ca835df903eb
+1069050650 | w_cyb_finisher_mantis01_hit_final
+https://sounddb.redmodding.org/sfx/1069050650
+53f9608db6dd4b883e483bf37b60b1c3c3ef90046eee444642153d1e7942c645
+107783262 | w_cyb_mantis_servo
+https://sounddb.redmodding.org/sfx/107783262
+18981f9844410d854819d4341a777d9316b160229b3d055667192545e811fb8d
+117241924 | w_cyb_mantis_whoosh
+https://sounddb.redmodding.org/sfx/117241924
+592cf66364aef0fd9982c3b658ebce843d59e2fd79c4246959844ee581599050
+130295741 | amb_g_fx_electr_spark_robots_hand
+https://sounddb.redmodding.org/sfx/130295741
+ebdddf096b93c56a86d4dcb5455778f40f351f0ea48a914b7d6fea7ffe53e911
+14286124 | w_cyb_mantis_whoosh_fast
+https://sounddb.redmodding.org/sfx/14286124
+c7ee85f98760fbead21e4e9e7e57ca3505de6748a3ad98066c454832a6bd45f6
+146316601 | w_cyb_mantis_ring
+https://sounddb.redmodding.org/sfx/146316601
+73a1b359c7bb776dd0b1748e4cfbd5f65a032745def01afcc02a70efdceef6db
+149792555 | w_melee_gore_bones_break
+https://sounddb.redmodding.org/sfx/149792555
+248b0e7cc1fc7f071e721961a014de14007770837f5e434d67c143baf241321f
+159948400 | w_cyb_mantis_robotic
+https://sounddb.redmodding.org/sfx/159948400
+76f7ea9c6ef8472be3012d8569fc91a783b06d3cb61316b545f4995a92191643
+161479115 | amb_g_fx_electr_spark_robots_hand
+https://sounddb.redmodding.org/sfx/161479115
+b53a3068864c814aeaf10046dba0d253292d9b5c2d433773e8a33e118536a58d
+170755113 | w_cyb_mantis_impact_metal
+https://sounddb.redmodding.org/sfx/170755113
+f41e2aad1babce073575a80b3169f2ee80b3d68bb5e7b5a16f192160c93972b2
+174878283 | w_cyb_mantis_whoosh_fast
+https://sounddb.redmodding.org/sfx/174878283
+3e174fd60f7604cbef159ec976b9ecacc6f1cf32257d7d056003b9ab4440cc62
+176446949 | nme_fx_burning_start
+https://sounddb.redmodding.org/sfx/176446949
+bdbb755c7d9a678a4dad6758790d47fceb3b0daab12f00975c26abc68cb54f4d
+188452656 | w_cyb_mantis_robotic
+https://sounddb.redmodding.org/sfx/188452656
+088c0b0b44befdc190e6a8a60ffa6075208af84ca819e9884677a61063f33337
+190392613 | w_cyb_mantis_scrape_medium
+https://sounddb.redmodding.org/sfx/190392613
+baf82c35db524e840277d7f6cda1f385a25bf3f32eb4b75b275a600df1b09c45
+191635142 | w_cyb_mantis_whoosh_fast
+https://sounddb.redmodding.org/sfx/191635142
+a41fd14fd155af94706694b91406c0eed503be0b81a530868ca73413dc5f548d
+201462227 | w_cyb_mantis_whoosh
+https://sounddb.redmodding.org/sfx/201462227
+6bacd74425d30a8a7bbdc5abf5356aa4bbd928ec9db84ba956579e8cb7ca3160
+202296471 | w_cyb_mantis_whoosh_medium
+https://sounddb.redmodding.org/sfx/202296471
+009e3001f87ca0b880ebad2483116bd9dd6c7cc186276ae5e672e50a9ab92615
+204232501 | w_cyb_mantis_special_attack
+https://sounddb.redmodding.org/sfx/204232501
+ae832b0fc8fea228c8ec48dd11347ef83db8f3b05ccc59976e3d97c3a6c72bef
+211647447 | w_cyb_mantis_mechanical_back
+https://sounddb.redmodding.org/sfx/211647447
+7a2ee1ae85567ac430fbaabe9eb2a4c3cadb791b25a526dfb43a9841bd7a1686
+229860484 | w_cyb_mantis_ring
+https://sounddb.redmodding.org/sfx/229860484
+d62067a2094b7280c17aca71bce1a23e3f33071ec4a307dd08655e68693772a7
+231986293 | w_cyb_mantis_mechanicals_long
+https://sounddb.redmodding.org/sfx/231986293
+d720db65020195157307e8f54092e7b55ced4116dcd5bacfda0e719d7125a4df
+234964504 | w_cyb_mantis_whoosh_medium
+https://sounddb.redmodding.org/sfx/234964504
+aff22b2ac9cde63e1b227a6b69b7a5304bf99639579fe77ef9ff74625a4b5567
+235910631 | w_cyb_mantis_impact_flesh
+https://sounddb.redmodding.org/sfx/235910631
+1b7acb4561ca08204e22bcedb3e4b034948f0bbf2013944cfa4f98249624049b
+235966297 | w_cyb_mantis_mechanicals_short
+https://sounddb.redmodding.org/sfx/235966297
+7f7d26f98da0bd7093b354adb8406b776da341e779547c635d61836674aeb2d9
+247255498 | w_cyb_mantis_scrape_medium
+https://sounddb.redmodding.org/sfx/247255498
+56d9e9abb1a0c03bba975ca334c22eade92912c7cfcfea95884569689a66f3a0
+277754157 | lcm_falling_wind_loop
+https://sounddb.redmodding.org/sfx/277754157
+9f4832c12a281eaa1ea34b96efe497944070056d531620db9adeecab1278d787
+296561152 | w_cyb_mantis_robotic
+https://sounddb.redmodding.org/sfx/296561152
+7f1bf5f0b4e9f26f8d841c01f0ee8ea88f02a1c15bb5de31026e144ceeacebf8
+315648213 | w_cyb_mantis_impact_metal_heavy
+https://sounddb.redmodding.org/sfx/315648213
+51777360ededccfb7bc92ac46d856b8d11bacd220c82148b7252c145cc0f8128
+31737594 | w_cyb_mantis_impact_metal
+https://sounddb.redmodding.org/sfx/31737594
+f7daab49715f7b103b8cb99b7a138b7733190c4adc3120ff2d21b3deeae9ba11
+322032988 | w_cyb_mantis_glitch_in, w_cyb_mantis_mechanical_back
+https://sounddb.redmodding.org/sfx/322032988
+cdbd531c341e4c897326c2894fa09b79cfdd444a3e9d5efdf96ed0f5a0004208
+329519433 | w_cyb_mantis_whoosh
+https://sounddb.redmodding.org/sfx/329519433
+50dcc923bbce9655f0a23ab49983c83a15391a0f6a7bd22e0c6edc18b5c83c10
+340307903 | w_cyb_mantis_impact_metal_heavy
+https://sounddb.redmodding.org/sfx/340307903
+b7a6b863d3dd36236629d58e28d38a36a1cc50cd3ffc295e69a8cde17a168252
+345166877 | w_cyb_mantis_robotic
+https://sounddb.redmodding.org/sfx/345166877
+ec61c67f6854abf643571a3832d1af9f487fe9560f12bf96ee224971d7a0e518
+347221894 | w_cyb_mantis_whoosh_fast
+https://sounddb.redmodding.org/sfx/347221894
+4a5415188b2584781aa24678b8c19e8e441d2ee7c406f058a1aff6d070e3e6ac
+34866613 | w_cyb_mantis_mechanicals_short
+https://sounddb.redmodding.org/sfx/34866613
+1bcd32c5272a96f6979adda56a54fde1ff4f44bc663de989c3fc0d12941d4db8
+351330250 | w_cyb_mantis_mechanical_back
+https://sounddb.redmodding.org/sfx/351330250
+20e4d10356e4541323b5f36303c503504a44e257168e96bb62183b5379ad91f8
+351726428 | w_cyb_mantis_unequip
+https://sounddb.redmodding.org/sfx/351726428
+5cac8cfd088f61a41dc364fc6878bfd258d7c17a74251fc3d83d12f9ebfca00b
+367961761 | w_cyb_mantis_whoosh_fast
+https://sounddb.redmodding.org/sfx/367961761
+0ac9fb774a53545eb0bcf6cffe50d09d0e235ff8d801f2428950896eb03423c4
+386408817 | w_cyb_mantis_spy_perk_charged
+https://sounddb.redmodding.org/sfx/386408817
+86f0b81818d49e2bf4d10f271163356604ffdf0993863ca584bfa266cbbdb75b
+39569101 | amb_g_fx_electr_spark_robots_hand
+https://sounddb.redmodding.org/sfx/39569101
+d865b7f07e3f1eb0d5207778e4033431ca68eea12ac4346b6bb78b4d142fa9f6
+40280200 | w_cyb_mantis_mechanicals_long
+https://sounddb.redmodding.org/sfx/40280200
+e9ec6e04cfebd21fdd5e7622b06fe674cad2ccea8e047c7b9cd3fa4ba4009312
+417269392 | w_cyb_mantis_impact_metal_heavy
+https://sounddb.redmodding.org/sfx/417269392
+dc47dad305edffafbb5c65785aa64769700dbd34b9b0dc3a3975dd43be5a1340
+424196078 | w_cyb_mantis_impact_debris
+https://sounddb.redmodding.org/sfx/424196078
+4dae972503025cb336e9e798ec481636a82e192b8d12df63dc8635b665c72779
+438150279 | w_cyb_mantis_spy_perk_charged
+https://sounddb.redmodding.org/sfx/438150279
+13018d1e27ade10290e9d548eb111f5c569245349cca4b1b88cc31a20aba493d
+447131024 | w_cyb_mantis_ring
+https://sounddb.redmodding.org/sfx/447131024
+a14dbe85b63b92d5d448a14082e59a2153f8f3dd86ff94582ac0ddecb4dbb4fe
+451793351 | w_cyb_mantis_robotic
+https://sounddb.redmodding.org/sfx/451793351
+3af6b8cca4c08679083d5c3307601c620f58073f26784b99bea0138960f6637d
+45263615 | nme_fx_burning_start
+https://sounddb.redmodding.org/sfx/45263615
+519f8b914a05a26640439e8052db65624a3e86e1277c4c6e90686d8c51278569
+452746238 | w_cyb_mantis_scrape_fast
+https://sounddb.redmodding.org/sfx/452746238
+25c415c38d113065a10781c7975393cdb1f329cfd7b1786f64cc51eb921feaf6
+461346320 | w_cyb_mantis_whoosh_fast
+https://sounddb.redmodding.org/sfx/461346320
+0d6bed387480f659160c56b65717feedddbbfe9af25ed24565e550268cf76ab3
+463649841 | w_cyb_mantis_mechanicals_small
+https://sounddb.redmodding.org/sfx/463649841
+297179a447d518bbe156d5f3165f65ee5e0f77d3f47b903952e0ee56a50de5ef
+465104997 | w_cyb_mantis_spy_perk_charged
+https://sounddb.redmodding.org/sfx/465104997
+991b10b848ecc057890180ab2599705e6a757ee874fc6331d8904cbeae05a9e8
+466093094 | w_cyb_mantis_whoosh
+https://sounddb.redmodding.org/sfx/466093094
+b078521582d0f42e02105ce69a5a6d2cf43266d9d4969c4c4da9bed898982a01
+471218702 | w_cyb_mantis_ring
+https://sounddb.redmodding.org/sfx/471218702
+9dbe8909944fba5da3977063837d2fcb32bcdb086ce2451a3e2fd3b0fad5ea04
+474222684 | w_melee_gore_bones_break
+https://sounddb.redmodding.org/sfx/474222684
+d5256b70b1c41a7637c368154f3aa204684c952e14a92f4d5222199f8f60fe9c
+477846952 | w_cyb_mantis_mechanicals_short
+https://sounddb.redmodding.org/sfx/477846952
+5359e3710a7b9a6bb2fa065a00a572518dcfd1c0ad7e546b828113895c4d0f81
+478134715 | v_car_dst_fx_impact_debris_wood
+https://sounddb.redmodding.org/sfx/478134715
+597dd6c7bd2dba6f67e9dbb2d32923077e72d8db01048bd117d5a3153b024816
+486723173 | w_cyb_mantis_scrape_fast
+https://sounddb.redmodding.org/sfx/486723173
+ad74f4f0fa4bf0877885d0540d4e5980b1d2c8185792f992f3c55bded1769fbe
+506472069 | w_cyb_mantis_whoosh_fast
+https://sounddb.redmodding.org/sfx/506472069
+67154b58d9092af7ece0069a820c97e3673526d6db6bd44012c4efccbafd7681
+507639531 | w_cyb_finisher_mantis01_hit_L
+https://sounddb.redmodding.org/sfx/507639531
+4b209405a96d0f7fbcf880238b14b432d0dba15c113e79eddad5afa0d03e2153
+514774859 | w_cyb_mantis_mechanicals_long
+https://sounddb.redmodding.org/sfx/514774859
+73536ee100a1347ca220ec377726b73e36810a79bbbe25e2ed5386ce0eea8576
+516208557 | w_cyb_mantis_scrape_medium
+https://sounddb.redmodding.org/sfx/516208557
+c926b9d71f71c3e96ae1cb935169c9c138ba258e03d2df605e365fac3e91a521
+518770966 | w_cyb_finisher_mantis01_hit_final
+https://sounddb.redmodding.org/sfx/518770966
+ebf8a21e55ed068c0e5979bdb5f4b27d95a2c4432c98a6412abb43a1c2e2831c
+531281623 | w_cyb_mantis_whoosh_fast
+https://sounddb.redmodding.org/sfx/531281623
+9c516c2bef7b7be9c7c9aaa9828575823dd6f15f574eadde2baf4ea4478a6ea0
+544301346 | w_cyb_mantis_spy_perk_charged
+https://sounddb.redmodding.org/sfx/544301346
+35520387f3144e795ae6fdc315469177205cabb9500bd8da0019f416044c2d08
+557305144 | w_cyb_mantis_impact_metal
+https://sounddb.redmodding.org/sfx/557305144
+6540ec98e67f91c3b9a8563b6edab7bc107c3cc50bb5a1ab4ecb612c3b428501
+558124848 | w_cyb_finisher_mantis01_hit_L
+https://sounddb.redmodding.org/sfx/558124848
+889cb123c35278177fd6aea59e619cca6f322093487ef64ef2474f528fde5496
+563429707 | w_cyb_mantis_ring
+https://sounddb.redmodding.org/sfx/563429707
+2897b0c1e3b3bed1499d870e09d84781934efc6f6df4732e69ffa068c4bc0b55
+564563120 | w_cyb_mantis_scrape_fast
+https://sounddb.redmodding.org/sfx/564563120
+7c553d5b1b1b27c246a7cd90b35c0302b8cc3174eaed0a14ba5903f55e0c27f8
+580646130 | w_cyb_mantis_impact_metal
+https://sounddb.redmodding.org/sfx/580646130
+20eecfd392dce35d344c38b97f26ce8461a4851c1989a4ced8414308ce8bb326
+584957777 | w_cyb_mantis_robotic
+https://sounddb.redmodding.org/sfx/584957777
+f52b0a03d66e1b10f2ecf3ebe8db66acc40bb772ed0de2364e3b597f17a147b3
+585145921 | w_cyb_mantis_whoosh_fast
+https://sounddb.redmodding.org/sfx/585145921
+71dd68cf8d74227b923b8af98e57b188fdeb1ecff5e2021d501f46a670ee1de1
+597360794 | nme_fx_burning_start
+https://sounddb.redmodding.org/sfx/597360794
+36456772426c5a17841925e2b9db35d368e52dc4b03b849e308e662884b5cbea
+597540514 | w_cyb_mantis_whoosh_heavy
+https://sounddb.redmodding.org/sfx/597540514
+5b45de7178cfdd672c7ff81f2b6d9b7744847077f2daf8bd585fb969bf30c002
+606317422 | w_cyb_mantis_mechanicals_small
+https://sounddb.redmodding.org/sfx/606317422
+a082716be4dc7ae13121ee9a2df847487fe06279b12a85664e7bd7dca91c986a
+613489586 | w_cyb_mantis_blood
+https://sounddb.redmodding.org/sfx/613489586
+1639bf9ae285bb06d958f7b1dbde832736bd71bf16b419e0d862cfd4ed8e1cc0
+617160148 | w_cyb_mantis_whoosh_medium
+https://sounddb.redmodding.org/sfx/617160148
+1ea67cb5916747d5846a4dd07488f8dd7796cc788aebdf4e4feeff3989ed1a3a
+624029372 | w_cyb_mantis_blood
+https://sounddb.redmodding.org/sfx/624029372
+81717ad991efed361ca941db2556cab28aaa45e94b2afcb277d53d8945e2ebfe
+632050978 | w_cyb_mantis_ring
+https://sounddb.redmodding.org/sfx/632050978
+48e07497a3958cda9a8bba3d36d31e396015a437dbf026cc893b0cf6ed42dd48
+633137188 | w_cyb_mantis_robotic
+https://sounddb.redmodding.org/sfx/633137188
+d55fd4c4d91ef67ce2bc85141d8d46e6cb1c4141bbdcfecb138c08b41d2a9621
+633832114 | w_cyb_mantis_ring
+https://sounddb.redmodding.org/sfx/633832114
+2892cb887f2086b4a549c9e8cfa7246d476dbcfb7e2923dfada80868dfe2c8d2
+641266484 | w_cyb_mantis_whoosh_medium
+https://sounddb.redmodding.org/sfx/641266484
+7eb254fe22788ce770d9c9c2b3bc75cf598a59965122f26b4567b9cf64d54363
+650357786 | w_cyb_mantis_whoosh
+https://sounddb.redmodding.org/sfx/650357786
+78b1c9d56f2b9651755e2b13db9e12fe6a406e84361eb39162b869c570c70482
+656395245 | w_cyb_mantis_servo
+https://sounddb.redmodding.org/sfx/656395245
+d73d91f1c44826ad31763d1d7c239364de845fe8977c4caf07009755bd94cc3d
+661162686 | w_cyb_mantis_ring
+https://sounddb.redmodding.org/sfx/661162686
+adc5d57bab6c7e84dbffcf4bb6f295d0f462bb0af1eb9fc6357a5234bc9e76c9
+661281894 | w_cyb_mantis_mechanicals_short
+https://sounddb.redmodding.org/sfx/661281894
+662c9ac291dfae827de8500af58e591f9126e603de3d713543075363d275d56c
+67693528 | w_cyb_mantis_whoosh_fast
+https://sounddb.redmodding.org/sfx/67693528
+9ffbe4285b1634ba5abc765f62e6ab1d1c486381c30a9582a5f594474d03e1fc
+687768580 | w_cyb_mantis_blood
+https://sounddb.redmodding.org/sfx/687768580
+e07d7e0dbb2ba9c9288269074ccf6e02e1c87c8387945de1c5ce7e8d40ff853f
+691497081 | w_cyb_mantis_mechanicals_small
+https://sounddb.redmodding.org/sfx/691497081
+cdc1aa988ed9b10ffdab2fdf3a8024c30e7c2a18160f1efc08c30d78f016b84d
+693814595 | w_cyb_mantis_impact_debris
+https://sounddb.redmodding.org/sfx/693814595
+349e26686b1d18bb0b872cbc1c0316a0db25ca731aa20f1b389fbfda9727fa0b
+707461766 | w_cyb_mantis_ring
+https://sounddb.redmodding.org/sfx/707461766
+86dbe437c707eefe555245ed05ffc245867c00ff43a787433aecd2c2e6539c8d
+714592379 | w_melee_gore_bones_break
+https://sounddb.redmodding.org/sfx/714592379
+db8dd46c2ef62a550a641b9c0c5a4c640776a4a95f36da2a6623bb76413f766c
+715238540 | w_cyb_mantis_whoosh_medium
+https://sounddb.redmodding.org/sfx/715238540
+f9566255e87b77649cddb3a6851d9b3808c5285cb018d0f341f59677443b535f
+723236381 | w_cyb_mantis_scrape_fast
+https://sounddb.redmodding.org/sfx/723236381
+8fd95ce611b3526f500c3b9f84fd1292fd05802bd636660075bb918aa53482c6
+7248421 | w_cyb_mantis_mechanicals_long
+https://sounddb.redmodding.org/sfx/7248421
+b1cafb2895bdd6ec928a8828da685bc8ff6fda0bcac5abce1bba9d1d6069a248
+72784822 | w_cyb_mantis_scrape_fast
+https://sounddb.redmodding.org/sfx/72784822
+d0bdcf2e5d615d892e4f7681d39fb3b1c009defb52f493a62474dc43061c5343
+738451702 | w_cyb_mantis_special_attack
+https://sounddb.redmodding.org/sfx/738451702
+e88db09e41597280d3090e4451809361b57098a78e2d53f25c6af0a5268ffff8
+740224222 | w_cyb_mantis_whoosh_heavy
+https://sounddb.redmodding.org/sfx/740224222
+d9bc80e8b8cd2b120c77ed53b1b7ba9527fa5fce4555c2b3b74cd180d9e6f24f
+746541208 | w_cyb_mantis_impact_metal_heavy
+https://sounddb.redmodding.org/sfx/746541208
+13c79f93576455ff53294265630a1e4156aa2c148e401b53c433c8cd3c8bdeb8
+749988330 | w_cyb_mantis_whoosh_heavy
+https://sounddb.redmodding.org/sfx/749988330
+3f7988e08f44fa98224bc375594cb9117a0d154c39418fe47c79ac2cfb24c8d8
+75368380 | w_cyb_mantis_servo
+https://sounddb.redmodding.org/sfx/75368380
+c5de11fc48aedde30ae3168453fbc40136dc9900fcc8f2889f3f74f9ecba52c5
+758838859 | w_cyb_mantis_mechanicals_short
+https://sounddb.redmodding.org/sfx/758838859
+0ded75e23a590de7df75ab044ee630c2c16c38d1cd4f9621e1ce1e8b216ba655
+763056979 | w_cyb_mantis_whoosh_heavy
+https://sounddb.redmodding.org/sfx/763056979
+2decd100473803a1d9d6ec9602802df4457100272c4fe2712c62f782fe09020f
+771992691 | v_car_dst_fx_impact_debris_wood
+https://sounddb.redmodding.org/sfx/771992691
+133c0f5b891f70b03569f0fb04897fb707d0c88e168878403bf7e16aaf1adb73
+780347094 | w_cyb_mantis_equip
+https://sounddb.redmodding.org/sfx/780347094
+262674f626cd57315f95aa4fd0fe1d8928dddb9371b7e03224d358c11c829e86
+803073781 | w_melee_gore_bones_break
+https://sounddb.redmodding.org/sfx/803073781
+0024a70c7a6fb8a6a0b7bfd9fd8798d5013f8f052e7b135d752fcd93e0c057a9
+805242468 | v_car_dst_fx_impact_debris_wood
+https://sounddb.redmodding.org/sfx/805242468
+2cbe5299ec1f2d9b8187647f3886110b352a5d47616071673d7db39bde49d1f8
+807023234 | w_melee_gore_bones_break
+https://sounddb.redmodding.org/sfx/807023234
+cfc336be5c73e22e140e1599fd8f2a9cd7b4cf2ff7d52e62bfe3c8c5752eda6c
+807957929 | w_cyb_mantis_mechanicals_small
+https://sounddb.redmodding.org/sfx/807957929
+588ec27e4946c44389cba7681cf3384e17a1b3c3e2a7f9739229448a426a8c11
+826925529 | w_cyb_mantis_ring
+https://sounddb.redmodding.org/sfx/826925529
+cfcaa783c3f7a322d2114bda7fdba76b6d398bd5f9e5efc08314bcc582bdaa9c
+829224919 | w_cyb_finisher_mantis01_hit_final
+https://sounddb.redmodding.org/sfx/829224919
+4f0e79897d3c415b16706020ea7a47a6462325f634a7873c8a99997fbf8e58f4
+837625427 | w_cyb_mantis_robotic
+https://sounddb.redmodding.org/sfx/837625427
+fff3c0391d2fbe3f5e18c21dc90721666d3d1ef34b9775b67112dc7a77939dc1
+845036948 | w_cyb_mantis_whoosh_medium
+https://sounddb.redmodding.org/sfx/845036948
+7f9561a24331985bb746c6650c1fe00200b08c2e4e7273048ebf17ed9130eb0a
+845841117 | w_cyb_finisher_mantis01_hit_L
+https://sounddb.redmodding.org/sfx/845841117
+d515e430f5848127930cce907739a31f551db963e5832017c15f47949ec8aae6
+859737526 | w_cyb_mantis_scrape_fast
+https://sounddb.redmodding.org/sfx/859737526
+d045b8109e317e529d27648a403fbd925b561a97d79531f3ae89f396a24729bb
+868517590 | w_cyb_mantis_impact_debris
+https://sounddb.redmodding.org/sfx/868517590
+079051009f8f563a9997d4e2a1ef34ff50e57cc479503526f843f180ec6c1d89
+874950686 | w_cyb_mantis_ring
+https://sounddb.redmodding.org/sfx/874950686
+2065632c1144209eba0d5b9881a60683aa65f1564d334c989ac3f700927e9576
+881675166 | w_cyb_mantis_ring
+https://sounddb.redmodding.org/sfx/881675166
+a348c475993de2dc07fb5dc02a757c3222df914638eaec57c6bcca662442050a
+886871964 | v_car_dst_fx_impact_debris_wood
+https://sounddb.redmodding.org/sfx/886871964
+e95b933053c0788d4f0e82d4235ff5a747e125d24a5a6221c27e614cd29033a8
+897007699 | w_cyb_mantis_servo
+https://sounddb.redmodding.org/sfx/897007699
+7069d5f14dc299ae5a0f04ef36877ecfd451a86dcfacea9a65a86cdc32ee19d5
+900901789 | w_cyb_mantis_impact_flesh
+https://sounddb.redmodding.org/sfx/900901789
+f6e28e58b7a9fabbcbb602d16f2d82e984b92526cf994fa6d3daa1c5a7e14c8f
+926163008 | w_cyb_finisher_mantis01_hit_L
+https://sounddb.redmodding.org/sfx/926163008
+f859d327dfbdd673b187326ed38f6c5da555aa4d3f79d2b4803add708fa5673e
+933087623 | w_cyb_mantis_whoosh_heavy
+https://sounddb.redmodding.org/sfx/933087623
+67bc6a6e61b85c96eb500ae9f11120f53d37fdd672644644626e45b3e0e52e7d
+936825580 | w_cyb_mantis_whoosh_medium
+https://sounddb.redmodding.org/sfx/936825580
+4319a247c0d5d93f5b79a7ebc5c3c154f5861a08c5f2f9a9b5e4772158dae7a0
+940676289 | w_cyb_mantis_whoosh_fast
+https://sounddb.redmodding.org/sfx/940676289
+bf8f7b8a7e686a4dacf1c8487ad0f5221dff45cb760f1e9a85efe42ea76ace3a
+943293496 | dev_sprinkler_toxic_gas_start_loop
+https://sounddb.redmodding.org/sfx/943293496
+a787f639fe631511a4fe36897c6bd41cc21e858cadeecfe0c396692a121bcb20
+956463368 | w_cyb_mantis_impact_flesh
+https://sounddb.redmodding.org/sfx/956463368
+1772ad5ae90aeb887f13291e46b1f1002282106a4f99b26c4a00538b5b884d8d
+976980507 | w_cyb_mantis_whoosh_fast
+https://sounddb.redmodding.org/sfx/976980507
+dc7abc79272f6f1a1b1fdb2ca768113df55ed5b089775c653eb80a94f954c644
+979155490 | w_cyb_mantis_impact_debris
+https://sounddb.redmodding.org/sfx/979155490
+935e2e400d7bf3c7ecb285b732ebfad942f63d0bd193decb2ad5e010f9135d53
+979680199 | w_cyb_mantis_mechanicals_long
+https://sounddb.redmodding.org/sfx/979680199
+f971213f46e03644ceb3215f9afb8bc2f2bdb07745b0cf5aa605cb4bf655731c
+979921748 | w_cyb_mantis_mechanicals_long
+https://sounddb.redmodding.org/sfx/979921748
+ef96f50bdf0ebca33d3f5c5913fa89fb796fde860e1ab469bd97bb699213293f
+986949625 | w_cyb_mantis_whoosh_heavy
+https://sounddb.redmodding.org/sfx/986949625
+198784248eb711699c67b7f08c397e2e7195637dd6a07a92263cc09d80291e7e
+990943828 | w_cyb_mantis_scrape_fast
+https://sounddb.redmodding.org/sfx/990943828
+9ad46a3316878e84a53ee6400eb00b0ebfa4cddc31d9735b4f0438c8bd23c1f1
+994145584 | w_cyb_mantis_whoosh
+https://sounddb.redmodding.org/sfx/994145584
+7096f293aafd2da4fe9f0dc5a99998b0daedc02443f67457468d938f2a7e1f2d

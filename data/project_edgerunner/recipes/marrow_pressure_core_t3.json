@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "project_edgerunner:skeletal_anchor_t1"
+    },
+    {
+      "item": "minecraft:bone_block"
+    },
+    {
+      "item": "minecraft:bone_block"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "palladium:titanium_ingot"
+    },
+    {
+      "item": "palladium:redstone_flux_crystal"
+    }
+  ],
+  "result": {
+    "item": "project_edgerunner:marrow_pressure_core_t3",
+    "count": 1
+  }
+}

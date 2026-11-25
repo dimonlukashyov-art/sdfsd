@@ -1,0 +1,30 @@
+{
+  "category": "project_edgerunner:cyberware",
+  "name": "book.edgerunner.guide.cyberware.slot_arms.name",
+  "description": "book.edgerunner.guide.cyberware.slot_arms.description",
+  "icon": {
+    "item": "project_edgerunner:gorilla_arms"
+  },
+  "x": -17,
+  "y": 2,
+  "sort_number": 2,
+  "hide_while_locked": false,
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_0",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.cyberware.slot_arms.r5b.page0.title",
+      "show_title_separator": true,
+      "text": "book.edgerunner.guide.cyberware.slot_arms.r5b.page0.text"
+    }
+  ],
+  "parents": [
+    {
+      "draw_arrow": true,
+      "entry": "project_edgerunner:cyberware/hub"
+    }
+  ]
+}

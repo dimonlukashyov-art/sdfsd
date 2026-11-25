@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "project_edgerunner:os_core_t3"
+    },
+    {
+      "item": "palladium:lead_circuit"
+    },
+    {
+      "item": "palladium:lead_circuit"
+    },
+    {
+      "item": "palladium:quartz_flux_capacitor"
+    },
+    {
+      "item": "project_edgerunner:phase_stabilizer_t3"
+    },
+    {
+      "item": "palladium:titanium_ingot"
+    }
+  ],
+  "result": {
+    "item": "project_edgerunner:os_core_t4",
+    "count": 1
+  }
+}

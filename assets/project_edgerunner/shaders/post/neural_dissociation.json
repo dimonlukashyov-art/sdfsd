@@ -1,0 +1,7 @@
+{
+  "targets": ["neural_swap"],
+  "passes": [
+    {"name": "project_edgerunner:neural_dissociation", "intarget": "minecraft:main", "outtarget": "neural_swap"},
+    {"name": "blit", "intarget": "neural_swap", "outtarget": "minecraft:main"}
+  ]
+}

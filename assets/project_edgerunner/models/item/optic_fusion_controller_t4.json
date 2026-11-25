@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "project_edgerunner:item/optic_fusion_controller_t4_item"
+  }
+}

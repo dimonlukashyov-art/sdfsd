@@ -1,0 +1,31 @@
+{
+  "category": "project_edgerunner:cyberpsychosis",
+  "name": "book.edgerunner.guide.cyberpsychosis.management.name",
+  "description": "book.edgerunner.guide.cyberpsychosis.management.description",
+  "icon": {
+    "item": "project_edgerunner:inmunosupresores"
+  },
+  "x": 3,
+  "y": 2,
+  "sort_number": 4,
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "anchor": "op6_0",
+      "title": "book.edgerunner.guide.cyberpsychosis.management.op6.p0.title",
+      "text": "book.edgerunner.guide.cyberpsychosis.management.op6.p0.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "op6_1",
+      "title": "book.edgerunner.guide.cyberpsychosis.management.op6.p1.title",
+      "text": "book.edgerunner.guide.cyberpsychosis.management.op6.p1.text"
+    }
+  ],
+  "parents": [
+    {
+      "entry": "project_edgerunner:cyberpsychosis/overview",
+      "draw_arrow": true
+    }
+  ]
+}

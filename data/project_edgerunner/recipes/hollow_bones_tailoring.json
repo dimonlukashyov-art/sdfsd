@@ -1,0 +1,14 @@
+{
+  "type": "palladium:item_tailoring",
+  "title": { "translate": "tailoring.project_edgerunner.hollow_bones" },
+  "tool": { "item": "project_edgerunner:soldering_iron" },
+  "tool_icon": "project_edgerunner:item/soldering_iron_tool_icon_bw",
+  "category": "project_edgerunner:cyberware_tailoring",
+  "requires_unlocking": false,
+  "ingredients": [
+    { "ingredient": { "item": "project_edgerunner:hollow_lattice_t2" }, "count": 1 },
+    { "ingredient": { "item": "minecraft:phantom_membrane" }, "count": 2 },
+    { "ingredient": { "item": "minecraft:feather" }, "count": 6 }
+  ],
+  "results": { "chest": "project_edgerunner:hollow_bones" }
+}

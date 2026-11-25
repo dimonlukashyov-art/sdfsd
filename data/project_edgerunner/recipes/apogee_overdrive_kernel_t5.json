@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "project_edgerunner:falcon_overclocker_t4"
+    },
+    {
+      "item": "project_edgerunner:os_core_t5"
+    },
+    {
+      "item": "palladium:vibranium_ingot"
+    },
+    {
+      "item": "palladium:vibranium_ingot"
+    },
+    {
+      "item": "palladium:vibranium_ingot"
+    },
+    {
+      "item": "palladium:vibranium_ingot"
+    },
+    {
+      "item": "palladium:vibranium_ingot"
+    },
+    {
+      "item": "palladium:vibranium_ingot"
+    }
+  ],
+  "result": {
+    "item": "project_edgerunner:apogee_overdrive_kernel_t5",
+    "count": 1
+  }
+}

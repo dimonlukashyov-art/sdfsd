@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "palladium:lead_ingot"
+    },
+    {
+      "item": "palladium:lead_ingot"
+    },
+    {
+      "item": "palladium:lead_ingot"
+    },
+    {
+      "item": "palladium:quartz_circuit"
+    },
+    {
+      "item": "palladium:black_fabric"
+    },
+    {
+      "item": "palladium:black_fabric"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    }
+  ],
+  "result": {
+    "item": "project_edgerunner:os_frame_t1",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "project_edgerunner:subdermal_armor",
+    "project_edgerunner:countershell",
+    "project_edgerunner:proxishield"
+  ]
+}

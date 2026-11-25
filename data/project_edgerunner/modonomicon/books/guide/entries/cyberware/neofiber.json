@@ -1,0 +1,53 @@
+{
+  "category": "project_edgerunner:cyberware",
+  "name": "book.edgerunner.guide.cyberware.neofiber.name",
+  "description": "book.edgerunner.guide.cyberware.neofiber.description",
+  "icon": {
+    "item": "project_edgerunner:neofiber"
+  },
+  "x": 20,
+  "y": 4,
+  "sort_number": 20,
+  "hide_while_locked": false,
+  "parents": [
+    {
+      "entry": "project_edgerunner:cyberware/slot_nervous",
+      "draw_arrow": true
+    }
+  ],
+  "pages": [
+    {
+      "type": "modonomicon:spotlight",
+      "anchor": "r5b_0",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "item": {
+        "item": "project_edgerunner:neofiber"
+      },
+      "title": "book.edgerunner.guide.cyberware.neofiber.r5b.page0.title",
+      "text": "book.edgerunner.guide.cyberware.neofiber.r5b.page0.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_1",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.cyberware.neofiber.r5b.page1.title",
+      "text": "book.edgerunner.guide.cyberware.neofiber.r5b.page1.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_2",
+      "title": "book.edgerunner.guide.cyberware.neofiber.r5b.page2.title",
+      "text": "book.edgerunner.guide.cyberware.neofiber.r5b.page2.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_3",
+      "title": "book.edgerunner.guide.cyberware.neofiber.r5b.page3.title",
+      "text": "book.edgerunner.guide.cyberware.neofiber.r5b.page3.text"
+    }
+  ]
+}

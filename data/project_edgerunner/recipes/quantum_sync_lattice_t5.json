@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "project_edgerunner:cooldown_optimizer_t4"
+    },
+    {
+      "item": "palladium:vibranium_circuit"
+    },
+    {
+      "item": "palladium:vibranium_circuit"
+    },
+    {
+      "item": "palladium:vibranium_flux_capacitor"
+    },
+    {
+      "item": "palladium:vibranium_flux_capacitor"
+    }
+  ],
+  "result": {
+    "item": "project_edgerunner:quantum_sync_lattice_t5",
+    "count": 1
+  }
+}

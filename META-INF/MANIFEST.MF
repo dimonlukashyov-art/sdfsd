@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: Project: Edgerunner
+Specification-Vendor: Zombie
+Specification-Version: 1
+Implementation-Title: edgerunner
+Implementation-Version: 1.2.0
+Implementation-Vendor: Zombie
+Implementation-Timestamp: 2026-11-13T14:26:18+0100
+MixinConfigs: edgerunner.mixins.json
+

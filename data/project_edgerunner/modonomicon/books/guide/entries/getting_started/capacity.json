@@ -1,0 +1,56 @@
+{
+  "category": "project_edgerunner:getting_started",
+  "name": "book.edgerunner.guide.getting_started.capacity.name",
+  "description": "book.edgerunner.guide.getting_started.capacity.description",
+  "icon": {
+    "item": "project_edgerunner:david_icon"
+  },
+  "x": -8,
+  "y": 6,
+  "sort_number": 4,
+  "hide_while_locked": false,
+  "parents": [
+    {
+      "entry": "project_edgerunner:getting_started/installation",
+      "draw_arrow": true
+    }
+  ],
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "anchor": "op9_0",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.getting_started.capacity.op9.p0.title",
+      "text": "book.edgerunner.guide.getting_started.capacity.op9.p0.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "op9_1",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.getting_started.capacity.op9.p1.title",
+      "text": "book.edgerunner.guide.getting_started.capacity.op9.p1.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "op9_2",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.getting_started.capacity.op9.p2.title",
+      "text": "book.edgerunner.guide.getting_started.capacity.op9.p2.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "op9_3",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.getting_started.capacity.op9.p3.title",
+      "text": "book.edgerunner.guide.getting_started.capacity.op9.p3.text"
+    }
+  ]
+}

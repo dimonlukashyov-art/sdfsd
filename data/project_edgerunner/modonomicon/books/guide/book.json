@@ -1,0 +1,12 @@
+{
+  "name": "book.edgerunner.guide.name",
+  "tooltip": "book.edgerunner.guide.tooltip",
+  "description": "book.edgerunner.guide.description",
+  "generate_book_item": false,
+  "custom_book_item": "project_edgerunner:guide",
+  "display_mode": "node",
+  "default_title_color": 16711680,
+  "auto_add_read_conditions": false,
+  "page_display_mode": "double_page",
+  "allow_open_book_with_invalid_links": true
+}

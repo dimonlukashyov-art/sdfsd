@@ -1,0 +1,53 @@
+{
+  "category": "project_edgerunner:cyberware",
+  "name": "book.edgerunner.guide.cyberware.hollow_bones.name",
+  "description": "book.edgerunner.guide.cyberware.hollow_bones.description",
+  "icon": {
+    "item": "project_edgerunner:hollow_bones"
+  },
+  "x": -2,
+  "y": 6,
+  "sort_number": 12,
+  "hide_while_locked": false,
+  "parents": [
+    {
+      "draw_arrow": true,
+      "entry": "project_edgerunner:cyberware/skeleton_mobility_frame"
+    }
+  ],
+  "pages": [
+    {
+      "type": "modonomicon:spotlight",
+      "anchor": "r5b_0",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "item": {
+        "item": "project_edgerunner:hollow_bones"
+      },
+      "title": "book.edgerunner.guide.cyberware.hollow_bones.r5b.page0.title",
+      "text": "book.edgerunner.guide.cyberware.hollow_bones.r5b.page0.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_1",
+      "title": "book.edgerunner.guide.cyberware.hollow_bones.r5b.page1.title",
+      "text": "book.edgerunner.guide.cyberware.hollow_bones.r5b.page1.text"
+    },
+    {
+      "type": "modonomicon:crafting_recipe",
+      "anchor": "p4",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title1": "item.project_edgerunner.hollow_lattice_t2",
+      "recipe_id_1": "project_edgerunner:hollow_lattice_t2"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_3",
+      "title": "book.edgerunner.guide.cyberware.hollow_bones.r5b.page3.title",
+      "text": "book.edgerunner.guide.cyberware.hollow_bones.r5b.page3.text"
+    }
+  ]
+}

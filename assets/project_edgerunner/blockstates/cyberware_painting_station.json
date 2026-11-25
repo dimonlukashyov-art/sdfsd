@@ -1,0 +1,47 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "facing": "north",
+        "part_x": "1",
+        "part_y": "0"
+      },
+      "apply": {
+        "model": "project_edgerunner:block/cyberware_painting_station"
+      }
+    },
+    {
+      "when": {
+        "facing": "east",
+        "part_x": "1",
+        "part_y": "0"
+      },
+      "apply": {
+        "model": "project_edgerunner:block/cyberware_painting_station",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "south",
+        "part_x": "1",
+        "part_y": "0"
+      },
+      "apply": {
+        "model": "project_edgerunner:block/cyberware_painting_station",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "facing": "west",
+        "part_x": "1",
+        "part_y": "0"
+      },
+      "apply": {
+        "model": "project_edgerunner:block/cyberware_painting_station",
+        "y": 270
+      }
+    }
+  ]
+}

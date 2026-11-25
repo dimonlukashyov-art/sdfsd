@@ -1,0 +1,28 @@
+{
+  "type": "palladium:default",
+  "max_stack_size": 1,
+  "rarity": "rare",
+  "creative_mode_tab": "project_edgerunner:cyberpunk",
+  "tooltip": [
+    {
+      "color": "#AAAAAA",
+      "translate": "tooltip.project_edgerunner.item.stalker.line_0",
+      "fallback": "Stalker (Face Slot)"
+    },
+    {
+      "color": "#5555FF",
+      "translate": "tooltip.project_edgerunner.item.stalker.tier_load",
+      "fallback": "Tier: 3 | Load: 14"
+    },
+    {
+      "color": "#66CCFF",
+      "translate": "tooltip.project_edgerunner.item.stalker.line_2",
+      "fallback": "Manual scan: projects fading trails for nearby players and mobs for 60 seconds."
+    },
+    {
+      "color": "#66CCFF",
+      "translate": "tooltip.project_edgerunner.item.stalker.line_3",
+      "fallback": "Cooldown: 30 seconds after scan. Night vision during scan. Zoom: 2x / 4x / 6x / 8x."
+    }
+  ]
+}

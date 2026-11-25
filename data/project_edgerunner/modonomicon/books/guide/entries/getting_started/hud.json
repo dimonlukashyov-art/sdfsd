@@ -1,0 +1,80 @@
+{
+  "category": "project_edgerunner:getting_started",
+  "name": "book.edgerunner.guide.getting_started.hud.name",
+  "description": "book.edgerunner.guide.getting_started.hud.description",
+  "icon": {
+    "item": "project_edgerunner:basic_kiroshi_optics"
+  },
+  "x": -4,
+  "y": 6,
+  "sort_number": 7,
+  "hide_while_locked": false,
+  "parents": [
+    {
+      "entry": "project_edgerunner:getting_started/installation",
+      "draw_arrow": true
+    }
+  ],
+  "pages": [
+    {
+      "type": "modonomicon:spotlight",
+      "anchor": "op9_0",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.getting_started.hud.op9.p0.title",
+      "text": "book.edgerunner.guide.getting_started.hud.op9.p0.text",
+      "item": {
+        "item": "project_edgerunner:basic_kiroshi_optics"
+      }
+    },
+    {
+      "type": "modonomicon:image",
+      "anchor": "capture_hud_inventory",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "images": [
+        "project_edgerunner:textures/gui/guide/hud_inventory.png"
+      ],
+      "border": false
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "op9_2",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.getting_started.hud.op9.p2.title",
+      "text": "book.edgerunner.guide.getting_started.hud.op9.p2.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "op9_3",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.getting_started.hud.op9.p3.title",
+      "text": "book.edgerunner.guide.getting_started.hud.op9.p3.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "op9_4",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.getting_started.hud.op9.p4.title",
+      "text": "book.edgerunner.guide.getting_started.hud.op9.p4.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "op9_5",
+      "condition": {
+        "type": "modonomicon:mod_loaded",
+        "mod_id": "epicfight"
+      },
+      "title": "book.edgerunner.guide.getting_started.hud.op9.p5.title",
+      "text": "book.edgerunner.guide.getting_started.hud.op9.p5.text"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "palladium:quartz_circuit"
+    },
+    {
+      "item": "palladium:quartz_circuit"
+    },
+    {
+      "item": "palladium:lead_circuit"
+    },
+    {
+      "item": "minecraft:amethyst_shard"
+    },
+    {
+      "item": "minecraft:amethyst_shard"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    }
+  ],
+  "result": {
+    "item": "project_edgerunner:reflex_lattice_t2",
+    "count": 1
+  }
+}

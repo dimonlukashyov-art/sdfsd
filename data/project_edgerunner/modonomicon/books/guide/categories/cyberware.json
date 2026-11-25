@@ -1,0 +1,14 @@
+{
+  "name": "book.edgerunner.guide.cyberware.name",
+  "description": "book.edgerunner.guide.cyberware.description",
+  "icon": {
+    "item": "project_edgerunner:gorilla_arms"
+  },
+  "sort_number": 1,
+  "display_mode": "node",
+  "show_category_button": true,
+  "background": "modonomicon:textures/gui/dark_slate_seamless.png",
+  "background_width": 512,
+  "background_height": 512,
+  "background_texture_zoom_multiplier": 0.9
+}

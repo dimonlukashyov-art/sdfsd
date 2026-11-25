@@ -1,0 +1,44 @@
+{
+    "base": "project_edgerunner:textures/icons/arms#NONE#GORILLA#MANTIS.png",
+    "variables": {
+        "NONE": {
+            "type": "palladium:condition",
+            "conditions": [
+                {
+                    "type": "palladium:objective_score",
+                    "objective": "er_cw_icon_arms",
+                    "min_score": 0,
+                    "max_score": 0
+                }
+            ],
+            "true_value": "_none",
+            "false_value": ""
+        },
+        "GORILLA": {
+            "type": "palladium:condition",
+            "conditions": [
+                {
+                    "type": "palladium:objective_score",
+                    "objective": "er_cw_icon_arms",
+                    "min_score": 1,
+                    "max_score": 1
+                }
+            ],
+            "true_value": "_gorilla",
+            "false_value": ""
+        },
+        "MANTIS": {
+            "type": "palladium:condition",
+            "conditions": [
+                {
+                    "type": "palladium:objective_score",
+                    "objective": "er_cw_icon_arms",
+                    "min_score": 2,
+                    "max_score": 2
+                }
+            ],
+            "true_value": "_mantis",
+            "false_value": ""
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+  "villager_profession": "project_edgerunner:ripperdoc",
+  "level": 3,
+  "trades": [
+    {
+      "price": {
+        "item": "minecraft:emerald",
+        "count": 20
+      },
+      "price_2": {
+        "item": "minecraft:ghast_tear",
+        "count": 1
+      },
+      "for_sale": {
+        "item": "project_edgerunner:inmunosupresores",
+        "count": 1
+      },
+      "xp": 10,
+      "max_trades": 4
+    },
+    {
+      "price": {
+        "item": "minecraft:emerald",
+        "count": 18
+      },
+      "price_2": {
+        "item": "minecraft:diamond",
+        "count": 2
+      },
+      "for_sale": {
+        "item": "project_edgerunner:cyberware_internal_parts_t3",
+        "count": 1
+      },
+      "xp": 10,
+      "max_trades": 6
+    }
+  ]
+}

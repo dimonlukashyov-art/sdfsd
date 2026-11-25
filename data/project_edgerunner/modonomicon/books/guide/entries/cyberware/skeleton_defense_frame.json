@@ -1,0 +1,32 @@
+{
+  "category": "project_edgerunner:cyberware",
+  "name": "book.edgerunner.guide.cyberware.skeleton_defense_frame.name",
+  "description": "book.edgerunner.guide.cyberware.skeleton_defense_frame.description",
+  "icon": {
+    "item": "project_edgerunner:para_bellum"
+  },
+  "x": 15,
+  "y": 4,
+  "sort_number": 12,
+  "hide_while_locked": false,
+  "parents": [
+    {
+      "entry": "project_edgerunner:cyberware/slot_skeleton",
+      "draw_arrow": true
+    }
+  ],
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "anchor": "op8_0",
+      "title": "book.edgerunner.guide.cyberware.skeleton_defense_frame.op8.p0.title",
+      "text": "book.edgerunner.guide.cyberware.skeleton_defense_frame.op8.p0.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "op8_1",
+      "title": "book.edgerunner.guide.cyberware.skeleton_defense_frame.op8.p1.title",
+      "text": "book.edgerunner.guide.cyberware.skeleton_defense_frame.op8.p1.text"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "category": "project_edgerunner:getting_started",
+  "name": "book.edgerunner.guide.crafting.crafting_guide.name",
+  "description": "book.edgerunner.guide.crafting.crafting_guide.description",
+  "icon": {
+    "item": "palladium:tailoring_bench"
+  },
+  "x": 4,
+  "y": 8,
+  "sort_number": 13,
+  "hide_while_locked": false,
+  "parents": [
+    {
+      "entry": "project_edgerunner:crafting/internal_parts",
+      "draw_arrow": true
+    }
+  ],
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "anchor": "op9_0",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.crafting.crafting_guide.op9.p0.title",
+      "text": "book.edgerunner.guide.crafting.crafting_guide.op9.p0.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "op9_1",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.crafting.crafting_guide.op9.p1.title",
+      "text": "book.edgerunner.guide.crafting.crafting_guide.op9.p1.text"
+    },
+    {
+      "type": "modonomicon:crafting_recipe",
+      "anchor": "recipe_os_frame",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "recipe_id_1": "project_edgerunner:os_frame_t1",
+      "title1": "book.edgerunner.guide.crafting.crafting_guide.page2.title1"
+    },
+    {
+      "type": "modonomicon:crafting_recipe",
+      "anchor": "recipe_arms_chassis",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "recipe_id_1": "project_edgerunner:arms_chassis_t3",
+      "title1": "book.edgerunner.guide.crafting.crafting_guide.page3.title1"
+    }
+  ]
+}

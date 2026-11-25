@@ -1,0 +1,44 @@
+{
+  "category": "project_edgerunner:cyberware",
+  "name": "book.edgerunner.guide.cyberware.subdermal_armor.name",
+  "description": "book.edgerunner.guide.cyberware.subdermal_armor.description",
+  "icon": {
+    "item": "project_edgerunner:subdermal_armor"
+  },
+  "x": 22,
+  "y": 4,
+  "sort_number": 20,
+  "hide_while_locked": false,
+  "parents": [
+    {
+      "entry": "project_edgerunner:cyberware/slot_skin",
+      "draw_arrow": true
+    }
+  ],
+  "pages": [
+    {
+      "type": "modonomicon:spotlight",
+      "anchor": "r5b_0",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "item": {
+        "item": "project_edgerunner:subdermal_armor"
+      },
+      "title": "book.edgerunner.guide.cyberware.subdermal_armor.r5b.page0.title",
+      "text": "book.edgerunner.guide.cyberware.subdermal_armor.r5b.page0.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_1",
+      "title": "book.edgerunner.guide.cyberware.subdermal_armor.r5b.page1.title",
+      "text": "book.edgerunner.guide.cyberware.subdermal_armor.r5b.page1.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_2",
+      "title": "book.edgerunner.guide.cyberware.subdermal_armor.r5b.page2.title",
+      "text": "book.edgerunner.guide.cyberware.subdermal_armor.r5b.page2.text"
+    }
+  ]
+}

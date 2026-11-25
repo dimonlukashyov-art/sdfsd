@@ -1,0 +1,55 @@
+{
+  "category": "project_edgerunner:cyberware",
+  "name": "book.edgerunner.guide.cyberware.epimorphic_skeleton.name",
+  "description": "book.edgerunner.guide.cyberware.epimorphic_skeleton.description",
+  "icon": {
+    "item": "project_edgerunner:epimorphic_skeleton"
+  },
+  "x": 18,
+  "y": 6,
+  "sort_number": 22,
+  "hide_while_locked": false,
+  "parents": [
+    {
+      "draw_arrow": true,
+      "entry": "project_edgerunner:cyberware/skeleton_defense_frame"
+    }
+  ],
+  "pages": [
+    {
+      "type": "modonomicon:spotlight",
+      "anchor": "r5b_0",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "item": {
+        "item": "project_edgerunner:epimorphic_skeleton"
+      },
+      "title": "book.edgerunner.guide.cyberware.epimorphic_skeleton.r5b.page0.title",
+      "text": "book.edgerunner.guide.cyberware.epimorphic_skeleton.r5b.page0.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_1",
+      "title": "book.edgerunner.guide.cyberware.epimorphic_skeleton.r5b.page1.title",
+      "text": "book.edgerunner.guide.cyberware.epimorphic_skeleton.r5b.page1.text"
+    },
+    {
+      "type": "modonomicon:crafting_recipe",
+      "anchor": "p5",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title1": "item.project_edgerunner.regen_nanite_scaffold_t5",
+      "title2": "item.project_edgerunner.iconic_skeletal_chassis_t5",
+      "recipe_id_1": "project_edgerunner:regen_nanite_scaffold_t5",
+      "recipe_id_2": "project_edgerunner:iconic_skeletal_chassis_t5"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_3",
+      "title": "book.edgerunner.guide.cyberware.epimorphic_skeleton.r5b.page3.title",
+      "text": "book.edgerunner.guide.cyberware.epimorphic_skeleton.r5b.page3.text"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "durability_multiplier": 3,
+  "slot_protections": [
+    1,
+    1,
+    1,
+    1
+  ],
+  "enchantment_value": 1,
+  "equip_sound": "minecraft:block.anvil.place",
+  "repair_ingredient": {
+    "tag": "palladium:titanium_ingot"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "palladium:item_tailoring",
+  "title": {
+    "translate": "tailoring.project_edgerunner.proxishield"
+  },
+  "tool": {
+    "item": "project_edgerunner:soldering_iron"
+  },
+  "tool_icon": "project_edgerunner:item/soldering_iron_tool_icon_bw",
+  "category": "project_edgerunner:cyberware_tailoring",
+  "requires_unlocking": false,
+  "ingredients": [
+    {
+      "ingredient": {
+        "item": "project_edgerunner:dermal_plating_t1"
+      },
+      "count": 1
+    },
+    {
+      "ingredient": {
+        "item": "project_edgerunner:galvanic_cell_t2"
+      },
+      "count": 1
+    },
+    {
+      "ingredient": {
+        "item": "minecraft:observer"
+      },
+      "count": 1
+    },
+    {
+      "ingredient": {
+        "item": "minecraft:amethyst_shard"
+      },
+      "count": 2
+    }
+  ],
+  "results": {
+    "chest": "project_edgerunner:proxishield"
+  }
+}

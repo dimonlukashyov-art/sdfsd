@@ -1,0 +1,303 @@
+[
+  {
+    "id": "subdermal_armor",
+    "name": "Subdermal Armor",
+    "slot": "integumentary_system",
+    "tier": 1,
+    "base_load": 4,
+    "max_load": 10,
+    "summary": "Permanent subdermal armor compatible with your equipment.",
+    "stats": [
+      {
+        "id": "armor",
+        "label": "Armor",
+        "unit": "COUNT",
+        "values": [
+          2,
+          3,
+          4
+        ],
+        "icon": "minecraft:iron_chestplate",
+        "lower_is_better": false
+      }
+    ],
+    "fixed": []
+  },
+  {
+    "id": "threatevac",
+    "name": "ThreatEvac",
+    "slot": "circulatory_system",
+    "tier": 1,
+    "base_load": 4,
+    "max_load": 12,
+    "summary": "Low health increases movement speed. In combat, allows sprinting despite hunger without sprint exhaustion.",
+    "stats": [
+      {
+        "id": "speed",
+        "label": "Movement Speed",
+        "unit": "PERCENT",
+        "values": [
+          10,
+          15,
+          20
+        ],
+        "icon": "minecraft:sugar",
+        "lower_is_better": false
+      }
+    ],
+    "fixed": []
+  },
+  {
+    "id": "neofiber",
+    "name": "NeoFiber",
+    "slot": "nervous_system",
+    "tier": 2,
+    "base_load": 8,
+    "max_load": 16,
+    "summary": "Improves the shared mitigation roll and its strength, working with other mitigation implants.",
+    "stats": [
+      {
+        "id": "chance",
+        "label": "Mitigation Chance",
+        "unit": "PERCENT",
+        "values": [
+          8,
+          10,
+          12
+        ],
+        "icon": "minecraft:compass",
+        "lower_is_better": false
+      },
+      {
+        "id": "strength",
+        "label": "Additional Mitigation Strength",
+        "unit": "PERCENT",
+        "values": [
+          5,
+          8,
+          10
+        ],
+        "icon": "minecraft:netherite_chestplate",
+        "lower_is_better": false
+      }
+    ],
+    "fixed": []
+  },
+  {
+    "id": "heal_on_kill",
+    "name": "Heal-On-Kill",
+    "slot": "circulatory_system",
+    "tier": 2,
+    "base_load": 8,
+    "max_load": 18,
+    "summary": "Valid kills restore health. Excess healing becomes temporary absorption; recent injuries also allow saturation recovery.",
+    "stats": [
+      {
+        "id": "healing",
+        "label": "Health Restored",
+        "unit": "PERCENT",
+        "values": [
+          3,
+          4,
+          5
+        ],
+        "icon": "minecraft:glistering_melon_slice",
+        "lower_is_better": false
+      }
+    ],
+    "fixed": []
+  },
+  {
+    "id": "countershell",
+    "name": "Countershell",
+    "slot": "integumentary_system",
+    "tier": 2,
+    "base_load": 10,
+    "max_load": 20,
+    "summary": "Adds armor and activates temporary mitigation after taking heavy damage from attacks.",
+    "stats": [
+      {
+        "id": "armor",
+        "label": "Armor",
+        "unit": "COUNT",
+        "values": [
+          2,
+          3,
+          4
+        ],
+        "icon": "minecraft:iron_chestplate",
+        "lower_is_better": false
+      },
+      {
+        "id": "chance",
+        "label": "Mitigation Chance",
+        "unit": "PERCENT",
+        "values": [
+          20,
+          30,
+          40
+        ],
+        "icon": "minecraft:compass",
+        "lower_is_better": false
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "unit": "SECONDS",
+        "values": [
+          3,
+          4,
+          5
+        ],
+        "icon": "project_edgerunner:textures/gui/upgrades/duration.png",
+        "lower_is_better": false
+      },
+      {
+        "id": "cooldown",
+        "label": "Cooldown",
+        "unit": "SECONDS",
+        "values": [
+          8,
+          7,
+          6
+        ],
+        "icon": "minecraft:clock",
+        "lower_is_better": true
+      }
+    ],
+    "fixed": []
+  },
+  {
+    "id": "proxishield",
+    "name": "ProxiShield",
+    "slot": "integumentary_system",
+    "tier": 2,
+    "base_load": 8,
+    "max_load": 18,
+    "summary": "Reduces damage from nearby enemies. Protection is full within its radius and gradually weakens with distance.",
+    "stats": [
+      {
+        "id": "resistance",
+        "label": "Damage Resistance",
+        "unit": "PERCENT",
+        "values": [
+          8,
+          12,
+          16
+        ],
+        "icon": "minecraft:shield",
+        "lower_is_better": false
+      },
+      {
+        "id": "full_radius",
+        "label": "Full Protection Radius",
+        "unit": "BLOCKS",
+        "values": [
+          3,
+          3.5,
+          4
+        ],
+        "icon": "minecraft:firework_star",
+        "lower_is_better": false
+      }
+    ],
+    "fixed": []
+  },
+  {
+    "id": "biomonitor",
+    "name": "Biomonitor",
+    "slot": "circulatory_system",
+    "tier": 2,
+    "base_load": 10,
+    "max_load": 20,
+    "summary": "Uses available medicine at low health. Priority: Blood Pump, healing potion, regeneration potion. Offhand, then hotbar.",
+    "stats": [
+      {
+        "id": "threshold",
+        "label": "Health Threshold",
+        "unit": "PERCENT",
+        "values": [
+          40,
+          45,
+          50
+        ],
+        "icon": "minecraft:comparator",
+        "lower_is_better": false
+      },
+      {
+        "id": "efficiency",
+        "label": "Medicine Efficiency",
+        "unit": "PERCENT",
+        "values": [
+          0,
+          5,
+          10
+        ],
+        "icon": "minecraft:golden_apple",
+        "lower_is_better": false
+      },
+      {
+        "id": "cooldown",
+        "label": "Activation Interval",
+        "unit": "SECONDS",
+        "values": [
+          8,
+          7,
+          6
+        ],
+        "icon": "minecraft:clock",
+        "lower_is_better": true
+      }
+    ],
+    "fixed": []
+  },
+  {
+    "id": "microgenerator",
+    "name": "Microgenerator",
+    "slot": "hands",
+    "tier": 2,
+    "base_load": 10,
+    "max_load": 22,
+    "requires": "tacz",
+    "summary": "Reloading an empty weapon prepares an electrical shot. Wet targets conduct the discharge to other enemies.",
+    "stats": [
+      {
+        "id": "damage",
+        "label": "Electrical Damage",
+        "unit": "HP",
+        "values": [
+          4,
+          6,
+          8
+        ],
+        "icon": "minecraft:lightning_rod",
+        "lower_is_better": false
+      },
+      {
+        "id": "radius",
+        "label": "Discharge Radius",
+        "unit": "BLOCKS",
+        "values": [
+          2,
+          2.5,
+          3
+        ],
+        "icon": "minecraft:firework_star",
+        "lower_is_better": false
+      },
+      {
+        "id": "cooldown",
+        "label": "Cooldown",
+        "unit": "SECONDS",
+        "values": [
+          8,
+          7,
+          6
+        ],
+        "icon": "minecraft:clock",
+        "lower_is_better": true
+      }
+    ],
+    "fixed": []
+  }
+]

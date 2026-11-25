@@ -1,0 +1,12 @@
+{
+  "type": "geckolib:default",
+  "model": "project_edgerunner:geo/gorilla_arm_right.geo.json",
+  "texture": "project_edgerunner:textures/models/gorilla_arm_right_texture.png",
+  "animation_file": "project_edgerunner:animations/gorilla_arms.animation.json",
+  "animation_controller": [],
+  "render_type": "cutout",
+  "bones": {
+    "right_arm": "armorRightArm"
+  },
+  "hidden_body_parts": ["right_arm", "right_arm_overlay"]
+}

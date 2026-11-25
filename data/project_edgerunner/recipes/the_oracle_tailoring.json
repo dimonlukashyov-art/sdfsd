@@ -1,0 +1,41 @@
+{
+  "type": "palladium:item_tailoring",
+  "title": {
+    "translate": "tailoring.project_edgerunner.the_oracle"
+  },
+  "tool": {
+    "item": "project_edgerunner:soldering_iron"
+  },
+  "tool_icon": "project_edgerunner:item/soldering_iron_tool_icon_bw",
+  "category": "project_edgerunner:cyberware_tailoring",
+  "requires_unlocking": false,
+  "ingredients": [
+    {
+      "ingredient": {
+        "item": "project_edgerunner:basic_kiroshi_optics"
+      },
+      "count": 1
+    },
+    {
+      "ingredient": {
+        "item": "project_edgerunner:optic_fusion_controller_t4"
+      },
+      "count": 1
+    },
+    {
+      "ingredient": {
+        "item": "palladium:lead_circuit"
+      },
+      "count": 1
+    },
+    {
+      "ingredient": {
+        "item": "palladium:quartz_flux_capacitor"
+      },
+      "count": 1
+    }
+  ],
+  "results": {
+    "head": "project_edgerunner:the_oracle"
+  }
+}

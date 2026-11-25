@@ -1,0 +1,14 @@
+{
+  "type": "geckolib:default",
+  "model": "project_edgerunner:geo/reinforced_tendons_model.geo.json",
+  "texture": "project_edgerunner:textures/models/reinforced_tendons_texture.png",
+  "render_type": "cutout",
+  "bones": {
+    "head": "armorHead",
+    "body": "armorBody",
+    "right_arm": "armorRightArm",
+    "left_arm": "armorLeftArm",
+    "right_leg": "armorRightLeg",
+    "left_leg": "armorLeftLeg"
+  }
+}

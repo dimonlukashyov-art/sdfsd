@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "project_edgerunner:neural_matrix_t4"
+    },
+    {
+      "item": "project_edgerunner:latency_shunt_t4"
+    },
+    {
+      "item": "palladium:quartz_flux_capacitor"
+    },
+    {
+      "item": "palladium:titanium_ingot"
+    }
+  ],
+  "result": {
+    "item": "project_edgerunner:cooldown_optimizer_t4",
+    "count": 1
+  }
+}

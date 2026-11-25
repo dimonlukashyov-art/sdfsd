@@ -1,0 +1,51 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "facing": "north",
+        "part_x": "1",
+        "part_y": "0",
+        "part_z": "1"
+      },
+      "apply": {
+        "model": "project_edgerunner:block/ripperdoc"
+      }
+    },
+    {
+      "when": {
+        "facing": "east",
+        "part_x": "1",
+        "part_y": "0",
+        "part_z": "1"
+      },
+      "apply": {
+        "model": "project_edgerunner:block/ripperdoc",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "south",
+        "part_x": "1",
+        "part_y": "0",
+        "part_z": "1"
+      },
+      "apply": {
+        "model": "project_edgerunner:block/ripperdoc",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "facing": "west",
+        "part_x": "1",
+        "part_y": "0",
+        "part_z": "1"
+      },
+      "apply": {
+        "model": "project_edgerunner:block/ripperdoc",
+        "y": 270
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DCD",
+    "IRI",
+    "III"
+  ],
+  "key": {
+    "D": {
+      "tag": "forge:dyes"
+    },
+    "C": {
+      "item": "palladium:lead_circuit"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "project_edgerunner:cyberware_painting_station",
+    "count": 1
+  }
+}

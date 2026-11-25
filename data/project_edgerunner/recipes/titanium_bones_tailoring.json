@@ -1,0 +1,14 @@
+{
+  "type": "palladium:item_tailoring",
+  "title": { "translate": "tailoring.project_edgerunner.titanium_bones" },
+  "tool": { "item": "project_edgerunner:soldering_iron" },
+  "tool_icon": "project_edgerunner:item/soldering_iron_tool_icon_bw",
+  "category": "project_edgerunner:cyberware_tailoring",
+  "requires_unlocking": false,
+  "ingredients": [
+    { "ingredient": { "item": "project_edgerunner:skeletal_anchor_t1" }, "count": 1 },
+    { "ingredient": { "item": "minecraft:bone_block" }, "count": 1 },
+    { "ingredient": { "item": "palladium:titanium_ingot" }, "count": 2 }
+  ],
+  "results": { "chest": "project_edgerunner:titanium_bones" }
+}

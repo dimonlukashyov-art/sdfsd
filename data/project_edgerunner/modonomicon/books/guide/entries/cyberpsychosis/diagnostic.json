@@ -1,0 +1,76 @@
+{
+  "category": "project_edgerunner:cyberpsychosis",
+  "name": "book.edgerunner.guide.cyberpsychosis.diagnostic.name",
+  "description": "book.edgerunner.guide.cyberpsychosis.diagnostic.description",
+  "icon": {
+    "item": "project_edgerunner:trauma_team_diagnostic"
+  },
+  "x": -3,
+  "y": 2,
+  "sort_number": 1,
+  "pages": [
+    {
+      "type": "modonomicon:spotlight",
+      "anchor": "op6_0",
+      "item": {
+        "item": "project_edgerunner:trauma_team_diagnostic"
+      },
+      "title": "book.edgerunner.guide.cyberpsychosis.diagnostic.op6.p0.title",
+      "text": "book.edgerunner.guide.cyberpsychosis.diagnostic.op6.p0.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "op6_1",
+      "title": "book.edgerunner.guide.cyberpsychosis.diagnostic.op6.p1.title",
+      "text": "book.edgerunner.guide.cyberpsychosis.diagnostic.op6.p1.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "op6_2",
+      "title": "book.edgerunner.guide.cyberpsychosis.diagnostic.op6.p2.title",
+      "text": "book.edgerunner.guide.cyberpsychosis.diagnostic.op6.p2.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "op6_3",
+      "title": "book.edgerunner.guide.cyberpsychosis.diagnostic.op6.p3.title",
+      "text": "book.edgerunner.guide.cyberpsychosis.diagnostic.op6.p3.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "op6_4",
+      "title": "book.edgerunner.guide.cyberpsychosis.diagnostic.op6.p4.title",
+      "text": "book.edgerunner.guide.cyberpsychosis.diagnostic.op6.p4.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "op6_5",
+      "title": "book.edgerunner.guide.cyberpsychosis.diagnostic.op6.p5.title",
+      "text": "book.edgerunner.guide.cyberpsychosis.diagnostic.op6.p5.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "op6_6",
+      "title": "book.edgerunner.guide.cyberpsychosis.diagnostic.op6.p6.title",
+      "text": "book.edgerunner.guide.cyberpsychosis.diagnostic.op6.p6.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "op6_7",
+      "title": "book.edgerunner.guide.cyberpsychosis.diagnostic.op6.p7.title",
+      "text": "book.edgerunner.guide.cyberpsychosis.diagnostic.op6.p7.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "op6_8",
+      "title": "book.edgerunner.guide.cyberpsychosis.diagnostic.op6.p8.title",
+      "text": "book.edgerunner.guide.cyberpsychosis.diagnostic.op6.p8.text"
+    }
+  ],
+  "parents": [
+    {
+      "entry": "project_edgerunner:cyberpsychosis/overview",
+      "draw_arrow": true
+    }
+  ]
+}

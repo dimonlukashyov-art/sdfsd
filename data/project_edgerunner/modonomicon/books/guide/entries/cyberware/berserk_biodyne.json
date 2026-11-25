@@ -1,0 +1,138 @@
+{
+  "category": "project_edgerunner:cyberware",
+  "name": "book.edgerunner.guide.cyberware.os_berserk.page2.title",
+  "description": "book.edgerunner.guide.cyberware.berserk_biodyne.r5b.description",
+  "icon": {
+    "item": "project_edgerunner:berserk_biodyne"
+  },
+  "x": -28,
+  "y": 6,
+  "sort_number": 1,
+  "hide_while_locked": false,
+  "parents": [
+    {
+      "entry": "project_edgerunner:cyberware/berserk_moore_tech",
+      "draw_arrow": true,
+      "line_enabled": true,
+      "line_reversed": false
+    }
+  ],
+  "pages": [
+    {
+      "type": "modonomicon:spotlight",
+      "anchor": "r5b_0",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "item": {
+        "item": "project_edgerunner:berserk_biodyne"
+      },
+      "title": "book.edgerunner.guide.cyberware.os_berserk.page2.title.r5b.page0.title",
+      "text": "book.edgerunner.guide.cyberware.os_berserk.page2.title.r5b.page0.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_1",
+      "title": "book.edgerunner.guide.cyberware.os_berserk.page2.title.r5b.page1.title",
+      "text": "book.edgerunner.guide.cyberware.os_berserk.page2.title.r5b.page1.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_2",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.cyberware.os_berserk.page2.title.r5b.page2.title",
+      "show_title_separator": true,
+      "text": "book.edgerunner.guide.cyberware.os_berserk.page2.title.r5b.page2.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_3",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.cyberware.os_berserk.page2.title.r5b.page3.title",
+      "show_title_separator": true,
+      "text": "book.edgerunner.guide.cyberware.os_berserk.page2.title.r5b.page3.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_4",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.cyberware.os_berserk.page2.title.r5b.page4.title",
+      "show_title_separator": true,
+      "text": "book.edgerunner.guide.cyberware.os_berserk.page2.title.r5b.page4.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_5",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.cyberware.os_berserk.page2.title.r5b.page5.title",
+      "show_title_separator": true,
+      "text": "book.edgerunner.guide.cyberware.os_berserk.page2.title.r5b.page5.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_6",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.cyberware.os_berserk.page2.title.r5b.page6.title",
+      "show_title_separator": true,
+      "text": "book.edgerunner.guide.cyberware.os_berserk.page2.title.r5b.page6.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_7",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.cyberware.os_berserk.page2.title.r5b.page7.title",
+      "show_title_separator": true,
+      "text": "book.edgerunner.guide.cyberware.os_berserk.page2.title.r5b.page7.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_8",
+      "condition": {
+        "type": "modonomicon:mod_loaded",
+        "mod_id": "epicfight"
+      },
+      "title": "book.edgerunner.guide.cyberware.os_berserk.page2.title.r5b.page8.title",
+      "show_title_separator": true,
+      "text": "book.edgerunner.guide.cyberware.os_berserk.page2.title.r5b.page8.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_9",
+      "condition": {
+        "type": "modonomicon:mod_loaded",
+        "mod_id": "epicfight"
+      },
+      "title": "book.edgerunner.guide.cyberware.os_berserk.page2.title.r5b.page9.title",
+      "show_title_separator": true,
+      "text": "book.edgerunner.guide.cyberware.os_berserk.page2.title.r5b.page9.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_10",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.cyberware.os_berserk.page2.title.r5b.page10.title",
+      "show_title_separator": true,
+      "text": "book.edgerunner.guide.cyberware.os_berserk.page2.title.r5b.page10.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_11",
+      "title": "book.edgerunner.guide.cyberware.os_berserk.page2.title.r5b.page11.title",
+      "text": "book.edgerunner.guide.cyberware.os_berserk.page2.title.r5b.page11.text"
+    }
+  ]
+}

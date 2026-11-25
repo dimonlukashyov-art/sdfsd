@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "project_edgerunner:os_core_t4"
+    },
+    {
+      "item": "palladium:vibranium_circuit"
+    },
+    {
+      "item": "palladium:vibranium_circuit"
+    },
+    {
+      "item": "palladium:vibranium_circuit"
+    },
+    {
+      "item": "palladium:vibranium_flux_capacitor"
+    }
+  ],
+  "result": {
+    "item": "project_edgerunner:os_core_t5",
+    "count": 1
+  }
+}

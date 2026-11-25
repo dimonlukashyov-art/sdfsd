@@ -1,0 +1,54 @@
+{
+  "category": "project_edgerunner:cyberware",
+  "name": "book.edgerunner.guide.cyberware.dynalar.name",
+  "description": "book.edgerunner.guide.cyberware.dynalar.description",
+  "icon": {
+    "item": "project_edgerunner:sandevistan_dynalar"
+  },
+  "x": -30,
+  "y": 8,
+  "sort_number": 0,
+  "hide_while_locked": false,
+  "parents": [
+    {
+      "entry": "project_edgerunner:cyberware/zetatech",
+      "draw_arrow": true,
+      "line_enabled": true,
+      "line_reversed": false
+    }
+  ],
+  "pages": [
+    {
+      "type": "modonomicon:spotlight",
+      "anchor": "r5b_intro",
+      "item": {
+        "item": "project_edgerunner:sandevistan_dynalar"
+      },
+      "title": "book.edgerunner.guide.cyberware.dynalar.r5b.intro.title",
+      "text": "book.edgerunner.guide.cyberware.dynalar.r5b.intro.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_0",
+      "title": "book.edgerunner.guide.cyberware.dynalar.r5b.page0.title",
+      "text": "book.edgerunner.guide.cyberware.dynalar.r5b.page0.text"
+    },
+    {
+      "type": "modonomicon:crafting_recipe",
+      "anchor": "p2",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title1": "book.edgerunner.guide.cyberware.os_sandevistan.page10.title1",
+      "title2": "book.edgerunner.guide.cyberware.os_sandevistan.page10.title2",
+      "recipe_id_1": "project_edgerunner:phase_stabilizer_t3",
+      "recipe_id_2": "project_edgerunner:latency_shunt_t4"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_2",
+      "title": "book.edgerunner.guide.cyberware.dynalar.r5b.page2.title",
+      "text": "book.edgerunner.guide.cyberware.dynalar.r5b.page2.text"
+    }
+  ]
+}

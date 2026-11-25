@@ -1,0 +1,23 @@
+{
+  "type": "palladium:default",
+  "max_stack_size": 1,
+  "rarity": "rare",
+  "creative_mode_tab": "project_edgerunner:cyberpunk",
+  "tooltip": [
+    {
+      "color": "#AAAAAA",
+      "translate": "tooltip.project_edgerunner.item.universal_booster.line_0",
+      "fallback": "Universal Booster (Skeleton)"
+    },
+    {
+      "color": "#BF40BF",
+      "translate": "tooltip.project_edgerunner.item.universal_booster.tier_load",
+      "fallback": "Tier: 4 | Load: 25"
+    },
+    {
+      "color": "#66CCFF",
+      "translate": "tooltip.project_edgerunner.item.universal_booster.line_2",
+      "fallback": "Healing-reactive skeleton implant that turns important healing into temporary defense."
+    }
+  ]
+}

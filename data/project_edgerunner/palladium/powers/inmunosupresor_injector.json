@@ -1,0 +1,58 @@
+{
+  "name": {
+    "translate": "power.project_edgerunner.inmunosupresor_injector.name",
+    "fallback": "Immunosuppressant Injector"
+  },
+  "persistent_data": true,
+  "background": "minecraft:textures/block/warped_stem.png",
+  "ability_bar_texture": "project_edgerunner:textures/gui/ability_bar.png",
+  "icon": "minecraft:potion",
+  "hidden": true,
+  "abilities": {
+    "inmunosupresor_render_layer_idle": {
+      "type": "palladium:render_layer",
+      "hidden": true,
+      "hidden_in_bar": true,
+      "render_layer": "project_edgerunner:inmunosupresion",
+      "conditions": {
+        "enabling": [
+          {
+            "type": "palladium:true"
+          }
+        ],
+        "unlocking": []
+      }
+    },
+    "inmunosupresor_inject": {
+      "type": "kubejs:cyberpunk/inmunosupresor_inject",
+      "icon": "minecraft:potion",
+      "title": {
+        "translate": "ability.project_edgerunner.inmunosupresor_injector.inmunosupresor_inject.title",
+        "fallback": "Inject Immunosuppressant"
+      },
+      "description": {
+        "translate": "ability.project_edgerunner.inmunosupresor_injector.inmunosupresor_inject.description",
+        "fallback": "Inject one dose from the slot."
+      },
+      "hidden": true,
+      "hidden_in_bar": true,
+      "list_index": 0,
+      "gui_position": [
+        0,
+        0
+      ],
+      "conditions": {
+        "enabling": [
+          {
+            "type": "palladium:action",
+            "cooldown": 0,
+            "key_type": "key_bind",
+            "needs_empty_hand": false,
+            "allow_scrolling_when_crouching": true
+          }
+        ],
+        "unlocking": []
+      }
+    }
+  }
+}

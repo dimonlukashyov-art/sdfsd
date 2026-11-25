@@ -1,0 +1,22 @@
+{
+  "type": "geckolib:default",
+  "model": "project_edgerunner:geo/beserk_model.geo.json",
+  "texture": "project_edgerunner:textures/models/berserk_biodyne_inactive.png",
+  "render_type": "cutout",
+  "bones": {
+    "head": "armorHead",
+    "body": "armorBody",
+    "right_arm": "armorRightArm",
+    "left_arm": "armorLeftArm",
+    "right_leg": "armorRightLeg",
+    "left_leg": "armorLeftLeg"
+  },
+  "animation_file": "project_edgerunner:animations/berserk_model.animation.json",
+  "animation_controller": [
+    {
+      "name": "fluid",
+      "transition_tick_time": 0,
+      "animation": "animation.berserk.idle"
+    }
+  ]
+}

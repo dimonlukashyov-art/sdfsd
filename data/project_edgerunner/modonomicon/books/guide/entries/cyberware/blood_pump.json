@@ -1,0 +1,78 @@
+{
+  "category": "project_edgerunner:cyberware",
+  "name": "book.edgerunner.guide.cyberware.blood_pump.name",
+  "description": "book.edgerunner.guide.cyberware.blood_pump.description",
+  "icon": {
+    "item": "project_edgerunner:blood_pump"
+  },
+  "x": -12,
+  "y": 4,
+  "sort_number": 3,
+  "hide_while_locked": false,
+  "parents": [
+    {
+      "entry": "project_edgerunner:cyberware/slot_circulatory",
+      "draw_arrow": true
+    }
+  ],
+  "pages": [
+    {
+      "type": "modonomicon:spotlight",
+      "anchor": "r5b_0",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "item": {
+        "item": "project_edgerunner:blood_pump"
+      },
+      "title": "book.edgerunner.guide.cyberware.blood_pump.r5b.page0.title",
+      "text": "book.edgerunner.guide.cyberware.blood_pump.r5b.page0.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_1",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.cyberware.blood_pump.r5b.page1.title",
+      "text": "book.edgerunner.guide.cyberware.blood_pump.r5b.page1.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_2",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.cyberware.blood_pump.r5b.page2.title",
+      "show_title_separator": true,
+      "text": "book.edgerunner.guide.cyberware.blood_pump.r5b.page2.text"
+    },
+    {
+      "type": "modonomicon:crafting_recipe",
+      "anchor": "p5",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title1": "book.edgerunner.guide.cyberware.blood_pump.page2.title1",
+      "title2": "book.edgerunner.guide.cyberware.blood_pump.page2.title2",
+      "recipe_id_1": "project_edgerunner:hemo_chamber_t2",
+      "recipe_id_2": "project_edgerunner:bio_monitor_t2"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_4",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.cyberware.blood_pump.r5b.page4.title",
+      "show_title_separator": true,
+      "text": "book.edgerunner.guide.cyberware.blood_pump.r5b.page4.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_5",
+      "title": "book.edgerunner.guide.cyberware.blood_pump.r5b.page5.title",
+      "text": "book.edgerunner.guide.cyberware.blood_pump.r5b.page5.text"
+    }
+  ]
+}

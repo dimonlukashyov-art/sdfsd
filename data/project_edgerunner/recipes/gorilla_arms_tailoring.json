@@ -1,0 +1,41 @@
+{
+  "type": "palladium:item_tailoring",
+  "title": {
+    "translate": "tailoring.project_edgerunner.gorilla_arms"
+  },
+  "tool": {
+    "item": "project_edgerunner:soldering_iron"
+  },
+  "tool_icon": "project_edgerunner:item/soldering_iron_tool_icon_bw",
+  "category": "project_edgerunner:cyberware_tailoring",
+  "requires_unlocking": false,
+  "ingredients": [
+    {
+      "ingredient": {
+        "item": "project_edgerunner:arms_actuator_matrix_t4"
+      },
+      "count": 1
+    },
+    {
+      "ingredient": {
+        "item": "project_edgerunner:arms_power_core_t4"
+      },
+      "count": 1
+    },
+    {
+      "ingredient": {
+        "item": "project_edgerunner:myofiber_bundle_t2"
+      },
+      "count": 2
+    },
+    {
+      "ingredient": {
+        "item": "project_edgerunner:kinetic_actuator_t1"
+      },
+      "count": 2
+    }
+  ],
+  "results": {
+    "chest": "project_edgerunner:gorilla_arms"
+  }
+}

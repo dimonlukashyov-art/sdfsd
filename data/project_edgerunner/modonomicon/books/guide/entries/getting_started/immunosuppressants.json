@@ -1,0 +1,68 @@
+{
+  "category": "project_edgerunner:getting_started",
+  "name": "book.edgerunner.guide.getting_started.immunosuppressants.name",
+  "description": "book.edgerunner.guide.getting_started.immunosuppressants.description",
+  "icon": {
+    "item": "project_edgerunner:inmunosupresores"
+  },
+  "x": -8,
+  "y": 8,
+  "sort_number": 5,
+  "hide_while_locked": false,
+  "parents": [
+    {
+      "entry": "project_edgerunner:getting_started/capacity",
+      "draw_arrow": true
+    }
+  ],
+  "pages": [
+    {
+      "type": "modonomicon:spotlight",
+      "anchor": "op9_0",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.getting_started.immunosuppressants.op9.p0.title",
+      "text": "book.edgerunner.guide.getting_started.immunosuppressants.op9.p0.text",
+      "item": {
+        "item": "project_edgerunner:inmunosupresores"
+      }
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "op9_1",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.getting_started.immunosuppressants.op9.p1.title",
+      "text": "book.edgerunner.guide.getting_started.immunosuppressants.op9.p1.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "op9_2",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.getting_started.immunosuppressants.op9.p2.title",
+      "text": "book.edgerunner.guide.getting_started.immunosuppressants.op9.p2.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "op9_3",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.getting_started.immunosuppressants.op9.p3.title",
+      "text": "book.edgerunner.guide.getting_started.immunosuppressants.op9.p3.text"
+    },
+    {
+      "type": "modonomicon:crafting_recipe",
+      "anchor": "recipe",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title1": "book.edgerunner.guide.getting_started.immunosuppressants.recipe.title1",
+      "recipe_id_1": "project_edgerunner:immunosuppressant_renewable"
+    }
+  ]
+}

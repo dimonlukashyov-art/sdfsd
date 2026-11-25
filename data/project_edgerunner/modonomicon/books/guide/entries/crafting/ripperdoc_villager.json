@@ -1,0 +1,38 @@
+{
+  "category": "project_edgerunner:getting_started",
+  "name": "book.edgerunner.guide.crafting.ripperdoc_villager.name",
+  "description": "book.edgerunner.guide.crafting.ripperdoc_villager.description",
+  "icon": {
+    "item": "minecraft:emerald"
+  },
+  "x": 4,
+  "y": 2,
+  "sort_number": 10,
+  "hide_while_locked": false,
+  "parents": [
+    {
+      "entry": "project_edgerunner:getting_started/welcome",
+      "draw_arrow": true
+    }
+  ],
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "anchor": "op9_0",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.crafting.ripperdoc_villager.op9.p0.title",
+      "text": "book.edgerunner.guide.crafting.ripperdoc_villager.op9.p0.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "op9_1",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.crafting.ripperdoc_villager.op9.p1.title",
+      "text": "book.edgerunner.guide.crafting.ripperdoc_villager.op9.p1.text"
+    }
+  ]
+}

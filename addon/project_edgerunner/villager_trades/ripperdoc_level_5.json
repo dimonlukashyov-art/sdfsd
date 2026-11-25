@@ -1,0 +1,22 @@
+{
+  "villager_profession": "project_edgerunner:ripperdoc",
+  "level": 5,
+  "trades": [
+    {
+      "price": {
+        "item": "minecraft:emerald",
+        "count": 40
+      },
+      "price_2": {
+        "item": "minecraft:netherite_scrap",
+        "count": 1
+      },
+      "for_sale": {
+        "item": "project_edgerunner:cyberware_internal_parts_t5",
+        "count": 1
+      },
+      "xp": 30,
+      "max_trades": 3
+    }
+  ]
+}

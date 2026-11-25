@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "project_edgerunner:temporal_microdriver_t1"
+    },
+    {
+      "item": "palladium:quartz_circuit"
+    },
+    {
+      "item": "palladium:quartz_circuit"
+    },
+    {
+      "item": "palladium:lead_flux_capacitor"
+    },
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "result": {
+    "item": "project_edgerunner:temporal_regulator_t2",
+    "count": 1
+  }
+}

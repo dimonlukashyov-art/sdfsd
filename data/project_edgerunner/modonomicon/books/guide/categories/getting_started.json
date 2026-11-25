@@ -1,0 +1,8 @@
+{
+  "name": "book.edgerunner.guide.getting_started.name",
+  "description": "book.edgerunner.guide.getting_started.description",
+  "icon": { "item": "minecraft:book" },
+  "sort_number": 0,
+  "display_mode": "node",
+  "show_category_button": true
+}

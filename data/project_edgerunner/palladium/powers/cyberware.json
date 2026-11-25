@@ -1,0 +1,414 @@
+{
+  "name": {
+    "translate": "power.project_edgerunner.cyberware.name",
+    "fallback": "Cyberware"
+  },
+  "persistent_data": true,
+  "background": "minecraft:textures/block/warped_stem.png",
+  "ability_bar_texture": "project_edgerunner:textures/gui/ability_bar.png",
+  "icon": "project_edgerunner:textures/icons/david_icon.png",
+  "allow_bar_shrinking": false,
+  "hidden": false,
+  "abilities": {
+    "cyberware_os": {
+      "type": "kubejs:cyberpunk/cyberware_os",
+      "icon": "#project_edgerunner:os_slot",
+      "title": {
+        "translate": "ability.project_edgerunner.cyberware.cyberware_os.title",
+        "fallback": "Cyberware OS"
+      },
+      "bar_color": "light_gray",
+      "hidden": true,
+      "hidden_in_bar": false,
+      "list_index": 0,
+      "gui_position": [
+        0,
+        0
+      ],
+      "description": {
+        "translate": "ability.project_edgerunner.cyberware.cyberware_os.description",
+        "fallback": "Trigger OS cyberware."
+      },
+      "conditions": {
+        "enabling": [
+          {
+            "type": "palladium:action",
+            "cooldown": 0,
+            "key_type": "key_bind",
+            "needs_empty_hand": false,
+            "allow_scrolling_when_crouching": true
+          }
+        ],
+        "unlocking": []
+      }
+    },
+    "cyberware_arms": {
+      "type": "kubejs:cyberpunk/cyberware_arms",
+      "icon": "#project_edgerunner:arms_slot",
+      "title": {
+        "translate": "ability.project_edgerunner.cyberware.cyberware_arms.title",
+        "fallback": "Cyberware Arms"
+      },
+      "bar_color": "light_gray",
+      "hidden": true,
+      "hidden_in_bar": false,
+      "list_index": 1,
+      "gui_position": [
+        0,
+        0.56
+      ],
+      "description": {
+        "translate": "ability.project_edgerunner.cyberware.cyberware_arms.description",
+        "fallback": "Trigger arms cyberware."
+      },
+      "conditions": {
+        "enabling": [
+          {
+            "type": "palladium:action",
+            "cooldown": 0,
+            "key_type": "key_bind",
+            "needs_empty_hand": false,
+            "allow_scrolling_when_crouching": true
+          }
+        ],
+        "unlocking": []
+      }
+    },
+    "cyberware_face": {
+      "type": "kubejs:cyberpunk/cyberware_face",
+      "icon": "#project_edgerunner:face_slot",
+      "title": {
+        "translate": "ability.project_edgerunner.cyberware.cyberware_face.title",
+        "fallback": "Cyberware Face"
+      },
+      "bar_color": "light_gray",
+      "hidden": true,
+      "hidden_in_bar": false,
+      "list_index": 2,
+      "gui_position": [
+        0,
+        1.12
+      ],
+      "description": {
+        "translate": "ability.project_edgerunner.cyberware.cyberware_face.description",
+        "fallback": "Trigger face cyberware."
+      },
+      "conditions": {
+        "enabling": [
+          {
+            "type": "palladium:action",
+            "cooldown": 0,
+            "key_type": "key_bind",
+            "needs_empty_hand": false,
+            "allow_scrolling_when_crouching": true
+          }
+        ],
+        "unlocking": []
+      }
+    },
+    "cyberware_circulatory": {
+      "type": "kubejs:cyberpunk/cyberware_circulatory",
+      "icon": "#project_edgerunner:circulatory_slot",
+      "title": {
+        "translate": "ability.project_edgerunner.cyberware.cyberware_circulatory.title",
+        "fallback": "Cyberware Circulatory"
+      },
+      "bar_color": "light_gray",
+      "hidden": true,
+      "hidden_in_bar": false,
+      "list_index": 3,
+      "gui_position": [
+        0,
+        1.68
+      ],
+      "description": {
+        "translate": "ability.project_edgerunner.cyberware.cyberware_circulatory.description",
+        "fallback": "Trigger circulatory cyberware."
+      },
+      "conditions": {
+        "enabling": [
+          {
+            "type": "palladium:action",
+            "cooldown": 0,
+            "key_type": "key_bind",
+            "needs_empty_hand": false,
+            "allow_scrolling_when_crouching": true
+          }
+        ],
+        "unlocking": []
+      }
+    },
+    "cyberware_extra": {
+      "type": "kubejs:cyberpunk/cyberware_extra",
+      "icon": "#project_edgerunner:extra_slot",
+      "title": {
+        "translate": "ability.project_edgerunner.cyberware.cyberware_extra.title",
+        "fallback": "Cyberware Extra"
+      },
+      "bar_color": "light_gray",
+      "hidden": true,
+      "hidden_in_bar": false,
+      "list_index": 4,
+      "gui_position": [
+        0,
+        2.24
+      ],
+      "description": {
+        "translate": "ability.project_edgerunner.cyberware.cyberware_extra.description",
+        "fallback": "Trigger extra cyberware."
+      },
+      "conditions": {
+        "enabling": [
+          {
+            "type": "palladium:action",
+            "cooldown": 0,
+            "key_type": "key_bind",
+            "needs_empty_hand": false,
+            "allow_scrolling_when_crouching": true
+          }
+        ],
+        "unlocking": []
+      }
+    },
+    "cyberware_capacity_base": {
+      "type": "palladium:command",
+      "icon": "minecraft:chest",
+      "title": {
+        "translate": "ability.project_edgerunner.cyberware.cyberware_capacity_base.title",
+        "fallback": "Cyberware Capacity"
+      },
+      "description": {
+        "translate": "ability.project_edgerunner.cyberware.cyberware_capacity_base.description",
+        "fallback": "Base node. Capacity upgrades scale from each player's base capacity."
+      },
+      "hidden": false,
+      "hidden_in_bar": true,
+      "list_index": 5,
+      "gui_position": [
+        1.5,
+        0
+      ],
+      "first_tick_commands": [],
+      "last_tick_commands": [],
+      "commands": [],
+      "conditions": {
+        "enabling": [
+          {
+            "type": "palladium:true"
+          }
+        ],
+        "unlocking": []
+      }
+    },
+    "cyberware_capacity_1": {
+      "type": "palladium:command",
+      "icon": "minecraft:iron_ingot",
+      "title": {
+        "translate": "ability.project_edgerunner.cyberware.cyberware_capacity_1.title",
+        "fallback": "Cyberware Capacity I"
+      },
+      "description": {
+        "translate": "ability.project_edgerunner.cyberware.cyberware_capacity_1.description",
+        "fallback": "+8% base capacity.\nRequires Tier 1 internal parts."
+      },
+      "hidden": false,
+      "hidden_in_bar": true,
+      "list_index": 6,
+      "gui_position": [
+        1.5,
+        -0.56
+      ],
+      "first_tick_commands": [],
+      "last_tick_commands": [],
+      "commands": [],
+      "conditions": {
+        "enabling": [
+          {
+            "type": "palladium:true"
+          }
+        ],
+        "unlocking": [
+          {
+            "type": "palladium:ability_unlocked",
+            "ability": "cyberware_capacity_base"
+          },
+          {
+            "type": "palladium:item_buyable",
+            "ingredient": {
+              "item": "project_edgerunner:cyberware_internal_parts_t1"
+            },
+            "amount": 1
+          }
+        ]
+      }
+    },
+    "cyberware_capacity_2": {
+      "type": "palladium:command",
+      "icon": "minecraft:gold_ingot",
+      "title": {
+        "translate": "ability.project_edgerunner.cyberware.cyberware_capacity_2.title",
+        "fallback": "Cyberware Capacity II"
+      },
+      "description": {
+        "translate": "ability.project_edgerunner.cyberware.cyberware_capacity_2.description",
+        "fallback": "+16% base capacity.\nRequires Tier 2 internal parts."
+      },
+      "hidden": false,
+      "hidden_in_bar": true,
+      "list_index": 7,
+      "gui_position": [
+        1.5,
+        -1.12
+      ],
+      "first_tick_commands": [],
+      "last_tick_commands": [],
+      "commands": [],
+      "conditions": {
+        "enabling": [
+          {
+            "type": "palladium:true"
+          }
+        ],
+        "unlocking": [
+          {
+            "type": "palladium:ability_unlocked",
+            "ability": "cyberware_capacity_1"
+          },
+          {
+            "type": "palladium:item_buyable",
+            "ingredient": {
+              "item": "project_edgerunner:cyberware_internal_parts_t2"
+            },
+            "amount": 1
+          }
+        ]
+      }
+    },
+    "cyberware_capacity_3": {
+      "type": "palladium:command",
+      "icon": "minecraft:diamond",
+      "title": {
+        "translate": "ability.project_edgerunner.cyberware.cyberware_capacity_3.title",
+        "fallback": "Cyberware Capacity III"
+      },
+      "description": {
+        "translate": "ability.project_edgerunner.cyberware.cyberware_capacity_3.description",
+        "fallback": "+25% base capacity.\nRequires Tier 3 internal parts."
+      },
+      "hidden": false,
+      "hidden_in_bar": true,
+      "list_index": 8,
+      "gui_position": [
+        1.5,
+        -1.68
+      ],
+      "first_tick_commands": [],
+      "last_tick_commands": [],
+      "commands": [],
+      "conditions": {
+        "enabling": [
+          {
+            "type": "palladium:true"
+          }
+        ],
+        "unlocking": [
+          {
+            "type": "palladium:ability_unlocked",
+            "ability": "cyberware_capacity_2"
+          },
+          {
+            "type": "palladium:item_buyable",
+            "ingredient": {
+              "item": "project_edgerunner:cyberware_internal_parts_t3"
+            },
+            "amount": 1
+          }
+        ]
+      }
+    },
+    "cyberware_capacity_4": {
+      "type": "palladium:command",
+      "icon": "minecraft:emerald",
+      "title": {
+        "translate": "ability.project_edgerunner.cyberware.cyberware_capacity_4.title",
+        "fallback": "Cyberware Capacity IV"
+      },
+      "description": {
+        "translate": "ability.project_edgerunner.cyberware.cyberware_capacity_4.description",
+        "fallback": "+35% base capacity.\nRequires Tier 4 internal parts."
+      },
+      "hidden": false,
+      "hidden_in_bar": true,
+      "list_index": 9,
+      "gui_position": [
+        1.5,
+        -2.24
+      ],
+      "first_tick_commands": [],
+      "last_tick_commands": [],
+      "commands": [],
+      "conditions": {
+        "enabling": [
+          {
+            "type": "palladium:true"
+          }
+        ],
+        "unlocking": [
+          {
+            "type": "palladium:ability_unlocked",
+            "ability": "cyberware_capacity_3"
+          },
+          {
+            "type": "palladium:item_buyable",
+            "ingredient": {
+              "item": "project_edgerunner:cyberware_internal_parts_t4"
+            },
+            "amount": 1
+          }
+        ]
+      }
+    },
+    "cyberware_capacity_5": {
+      "type": "palladium:command",
+      "icon": "minecraft:netherite_ingot",
+      "title": {
+        "translate": "ability.project_edgerunner.cyberware.cyberware_capacity_5.title",
+        "fallback": "Cyberware Capacity V"
+      },
+      "description": {
+        "translate": "ability.project_edgerunner.cyberware.cyberware_capacity_5.description",
+        "fallback": "+50% base capacity.\nRequires Tier 5 internal parts."
+      },
+      "hidden": false,
+      "hidden_in_bar": true,
+      "list_index": 10,
+      "gui_position": [
+        1.5,
+        -2.8
+      ],
+      "first_tick_commands": [],
+      "last_tick_commands": [],
+      "commands": [],
+      "conditions": {
+        "enabling": [
+          {
+            "type": "palladium:true"
+          }
+        ],
+        "unlocking": [
+          {
+            "type": "palladium:ability_unlocked",
+            "ability": "cyberware_capacity_4"
+          },
+          {
+            "type": "palladium:item_buyable",
+            "ingredient": {
+              "item": "project_edgerunner:cyberware_internal_parts_t5"
+            },
+            "amount": 1
+          }
+        ]
+      }
+    }
+  }
+}

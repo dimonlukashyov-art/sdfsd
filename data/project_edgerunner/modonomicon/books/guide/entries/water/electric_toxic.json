@@ -1,0 +1,25 @@
+{
+  "category": "project_edgerunner:cyberware",
+  "name": "book.edgerunner.guide.water.electric_toxic.name",
+  "description": "book.edgerunner.guide.water.electric_toxic.description",
+  "icon": {
+    "item": "minecraft:slime_ball"
+  },
+  "x": 6,
+  "y": 15,
+  "sort_number": 96,
+  "hide_while_locked": true,
+  "condition": {
+    "type": "modonomicon:advancement",
+    "advancement_id": "project_edgerunner:water/electric_toxic"
+  },
+  "parents": [],
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "anchor": "conduction_idea1",
+      "title": "book.edgerunner.guide.water.electric_toxic.name",
+      "text": "book.edgerunner.guide.water.electric_toxic.text.book2.0"
+    }
+  ]
+}

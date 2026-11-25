@@ -1,0 +1,26 @@
+{
+  "category": "project_edgerunner:cyberware",
+  "name": "book.edgerunner.guide.cyberware.hub.name",
+  "description": "book.edgerunner.guide.cyberware.hub.description",
+  "icon": {
+    "item": "project_edgerunner:ripperdoc"
+  },
+  "x": 0,
+  "y": 0,
+  "sort_number": 0,
+  "hide_while_locked": false,
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "anchor": "op6_0",
+      "title": "book.edgerunner.guide.cyberware.hub.op6.p0.title",
+      "text": "book.edgerunner.guide.cyberware.hub.op6.p0.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "op6_1",
+      "title": "book.edgerunner.guide.cyberware.hub.op6.p1.title",
+      "text": "book.edgerunner.guide.cyberware.hub.op6.p1.text"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "category": "project_edgerunner:cyberpsychosis",
+  "name": "book.edgerunner.guide.cyberpsychosis.overview.name",
+  "description": "book.edgerunner.guide.cyberpsychosis.overview.description",
+  "icon": {
+    "item": "project_edgerunner:cyberpsychosis_icon"
+  },
+  "x": 0,
+  "y": 0,
+  "sort_number": 0,
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "anchor": "op6_0",
+      "title": "book.edgerunner.guide.cyberpsychosis.overview.op6.p0.title",
+      "text": "book.edgerunner.guide.cyberpsychosis.overview.op6.p0.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "op6_1",
+      "title": "book.edgerunner.guide.cyberpsychosis.overview.op6.p1.title",
+      "text": "book.edgerunner.guide.cyberpsychosis.overview.op6.p1.text"
+    }
+  ]
+}

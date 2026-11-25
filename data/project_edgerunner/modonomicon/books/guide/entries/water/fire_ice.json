@@ -1,0 +1,25 @@
+{
+  "category": "project_edgerunner:cyberware",
+  "name": "book.edgerunner.guide.water.fire_ice.name",
+  "description": "book.edgerunner.guide.water.fire_ice.description",
+  "icon": {
+    "item": "minecraft:blaze_powder"
+  },
+  "x": 4,
+  "y": 15,
+  "sort_number": 95,
+  "hide_while_locked": true,
+  "condition": {
+    "type": "modonomicon:advancement",
+    "advancement_id": "project_edgerunner:water/fire_ice"
+  },
+  "parents": [],
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "anchor": "conduction",
+      "title": "book.edgerunner.guide.water.fire_ice.name",
+      "text": "book.edgerunner.guide.water.fire_ice.text"
+    }
+  ]
+}

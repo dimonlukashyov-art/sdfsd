@@ -1,0 +1,20 @@
+{
+  "type": "palladium:default",
+  "max_stack_size": 1,
+  "rarity": "common",
+  "tooltip": [
+    {
+      "color": "#AAAAAA",
+      "translate": "tooltip.project_edgerunner.item.threatevac.line_0"
+    },
+    {
+      "color": "#BF40BF",
+      "translate": "tooltip.project_edgerunner.item.threatevac.tier_load"
+    },
+    {
+      "color": "#66CCFF",
+      "translate": "tooltip.project_edgerunner.item.threatevac.line_2"
+    }
+  ],
+  "creative_mode_tab": "project_edgerunner:cyberpunk"
+}

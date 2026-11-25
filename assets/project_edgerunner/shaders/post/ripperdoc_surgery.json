@@ -1,0 +1,15 @@
+{
+  "targets": [
+    {"name": "surgery_view", "width": 1, "height": 1},
+    {"name": "surgery_prev", "width": 1, "height": 1},
+    "surgery_composite"
+  ],
+  "passes": [
+    {"name": "project_edgerunner:ripperdoc_surgery", "intarget": "minecraft:main", "outtarget": "surgery_view",
+      "auxtargets": [{"name": "PrevSampler", "id": "surgery_prev"}]},
+    {"name": "blit", "intarget": "surgery_view", "outtarget": "surgery_prev"},
+    {"name": "project_edgerunner:ripperdoc_composite", "intarget": "minecraft:main", "outtarget": "surgery_composite",
+      "auxtargets": [{"name": "SurgerySampler", "id": "surgery_view"}]},
+    {"name": "blit", "intarget": "surgery_composite", "outtarget": "minecraft:main"}
+  ]
+}

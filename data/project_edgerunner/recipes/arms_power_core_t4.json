@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "project_edgerunner:arms_chassis_t3"
+    },
+    {
+      "item": "project_edgerunner:neural_matrix_t4"
+    },
+    {
+      "item": "palladium:quartz_flux_capacitor"
+    },
+    {
+      "item": "palladium:lead_circuit"
+    },
+    {
+      "item": "palladium:titanium_ingot"
+    }
+  ],
+  "result": {
+    "item": "project_edgerunner:arms_power_core_t4",
+    "count": 1
+  }
+}

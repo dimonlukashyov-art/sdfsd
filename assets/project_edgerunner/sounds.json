@@ -1,0 +1,3170 @@
+{
+  "sandevistan_activation": {
+    "subtitle": "subtitles.project_edgerunner.sandevistan_activation",
+    "sounds": [
+      {
+        "name": "project_edgerunner:sandevistan_activation",
+        "stream": false
+      }
+    ]
+  },
+  "sandevistan_exit": {
+    "subtitle": "subtitles.project_edgerunner.sandevistan_exit",
+    "sounds": [
+      {
+        "name": "project_edgerunner:sandevistan_exit",
+        "stream": false
+      }
+    ]
+  },
+  "postripperdoc": {
+    "subtitle": "subtitles.project_edgerunner.postripperdoc",
+    "sounds": [
+      {
+        "name": "project_edgerunner:postripperdoc",
+        "stream": false
+      }
+    ]
+  },
+  "gorilla_arms_throw": {
+    "subtitle": "subtitles.project_edgerunner.gorilla_arms_throw",
+    "sounds": [
+      {
+        "name": "project_edgerunner:gorilla-arms-throw",
+        "stream": false
+      }
+    ]
+  },
+  "ground_slam_weak": {
+    "subtitle": "subtitles.project_edgerunner.ground_slam_weak",
+    "sounds": [
+      {
+        "name": "project_edgerunner:ground-slam-weak",
+        "stream": false
+      }
+    ]
+  },
+  "ground_slam_strong": {
+    "subtitle": "subtitles.project_edgerunner.ground_slam_strong",
+    "sounds": [
+      {
+        "name": "project_edgerunner:ground-slam-strong",
+        "stream": false
+      }
+    ]
+  },
+  "immunosupresors_inject": {
+    "subtitle": "subtitles.project_edgerunner.immunosupresors_inject",
+    "sounds": [
+      {
+        "name": "project_edgerunner:immunosupresors-inject",
+        "stream": false
+      }
+    ]
+  },
+  "heal_bloodpump": {
+    "subtitle": "subtitles.project_edgerunner.heal_bloodpump",
+    "sounds": [
+      {
+        "name": "project_edgerunner:heal-bloodpump",
+        "stream": false
+      }
+    ]
+  },
+  "activate_optics": {
+    "subtitle": "subtitles.project_edgerunner.activate_optics",
+    "sounds": [
+      {
+        "name": "project_edgerunner:activate-optics",
+        "stream": false
+      }
+    ]
+  },
+  "deactivate_optics": {
+    "subtitle": "subtitles.project_edgerunner.deactivate_optics",
+    "sounds": [
+      {
+        "name": "project_edgerunner:deactivate-optics",
+        "stream": false
+      }
+    ]
+  },
+  "extend_shrink_gorilla_arms": {
+    "subtitle": "subtitles.project_edgerunner.extend_shrink_gorilla_arms",
+    "sounds": [
+      {
+        "name": "project_edgerunner:extend-shrink-gorilla-arms",
+        "stream": false
+      }
+    ]
+  },
+  "cyberpsychosis_stinger_phase": {
+    "subtitle": "subtitles.project_edgerunner.cyberpsychosis_stinger_phase",
+    "sounds": [
+      {
+        "name": "project_edgerunner:cyberpsychosis/stinger_phase/cyberpsychosis_stinger_phase_01",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/stinger_phase/cyberpsychosis_stinger_phase_02",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/stinger_phase/cyberpsychosis_stinger_phase_03",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/stinger_phase/cyberpsychosis_stinger_phase_04",
+        "stream": false
+      }
+    ]
+  },
+  "cyberpsychosis_stinger_critical": {
+    "subtitle": "subtitles.project_edgerunner.cyberpsychosis_stinger_critical",
+    "sounds": [
+      {
+        "name": "project_edgerunner:cyberpsychosis/stinger_critical/cyberpsychosis_stinger_critical_01",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/stinger_critical/cyberpsychosis_stinger_critical_02",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/stinger_critical/cyberpsychosis_stinger_critical_03",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/stinger_critical/cyberpsychosis_stinger_critical_04",
+        "stream": false
+      }
+    ]
+  },
+  "cyberpsychosis_stinger_watcher": {
+    "subtitle": "subtitles.project_edgerunner.cyberpsychosis_stinger_watcher",
+    "sounds": [
+      {
+        "name": "project_edgerunner:cyberpsychosis/stinger_watcher/cyberpsychosis_stinger_watcher_01",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/stinger_watcher/cyberpsychosis_stinger_watcher_02",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/stinger_watcher/cyberpsychosis_stinger_watcher_03",
+        "stream": false
+      }
+    ]
+  },
+  "cyberpsychosis_stinger_hallucination": {
+    "subtitle": "subtitles.project_edgerunner.cyberpsychosis_stinger_hallucination",
+    "sounds": [
+      {
+        "name": "project_edgerunner:cyberpsychosis/stinger_hallucination/cyberpsychosis_stinger_hallucination_01",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/stinger_hallucination/cyberpsychosis_stinger_hallucination_02",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/stinger_hallucination/cyberpsychosis_stinger_hallucination_03",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/stinger_hallucination/cyberpsychosis_stinger_hallucination_04",
+        "stream": false
+      }
+    ]
+  },
+  "cyberpsychosis_stinger_episode": {
+    "subtitle": "subtitles.project_edgerunner.cyberpsychosis_stinger_episode",
+    "sounds": [
+      {
+        "name": "project_edgerunner:cyberpsychosis/stinger_episode/cyberpsychosis_stinger_episode_01",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/stinger_episode/cyberpsychosis_stinger_episode_02",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/stinger_episode/cyberpsychosis_stinger_episode_03",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/stinger_episode/cyberpsychosis_stinger_episode_04",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/stinger_episode/cyberpsychosis_stinger_episode_05",
+        "stream": false
+      }
+    ]
+  },
+  "cyberpsychosis_channel_visor": {
+    "subtitle": "subtitles.project_edgerunner.cyberpsychosis_channel_visor",
+    "sounds": [
+      {
+        "name": "project_edgerunner:cyberpsychosis/channel_visor/cyberpsychosis_channel_visor_01",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/channel_visor/cyberpsychosis_channel_visor_02",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/channel_visor/cyberpsychosis_channel_visor_04",
+        "stream": false
+      }
+    ]
+  },
+  "cyberpsychosis_channel_system": {
+    "subtitle": "subtitles.project_edgerunner.cyberpsychosis_channel_system",
+    "sounds": [
+      {
+        "name": "project_edgerunner:cyberpsychosis/channel_system/cyberpsychosis_channel_system_01",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/channel_system/cyberpsychosis_channel_system_02",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/channel_system/cyberpsychosis_channel_system_03",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/channel_system/cyberpsychosis_channel_system_04",
+        "stream": false
+      }
+    ]
+  },
+  "cyberpsychosis_channel_motor": {
+    "subtitle": "subtitles.project_edgerunner.cyberpsychosis_channel_motor",
+    "sounds": [
+      {
+        "name": "project_edgerunner:cyberpsychosis/channel_motor/cyberpsychosis_channel_motor_01",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/channel_motor/cyberpsychosis_channel_motor_02",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/channel_motor/cyberpsychosis_channel_motor_03",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/channel_motor/cyberpsychosis_channel_motor_04",
+        "stream": false
+      }
+    ]
+  },
+  "cyberpsychosis_channel_sync": {
+    "subtitle": "subtitles.project_edgerunner.cyberpsychosis_channel_sync",
+    "sounds": [
+      {
+        "name": "project_edgerunner:cyberpsychosis/channel_sync/cyberpsychosis_channel_sync_01",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/channel_sync/cyberpsychosis_channel_sync_02",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/channel_sync/cyberpsychosis_channel_sync_03",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/channel_sync/cyberpsychosis_channel_sync_04",
+        "stream": false
+      }
+    ]
+  },
+  "cyberpsychosis_heartbeat": {
+    "subtitle": "subtitles.project_edgerunner.cyberpsychosis_heartbeat",
+    "sounds": [
+      {
+        "name": "project_edgerunner:cyberpsychosis/heartbeat/cyberpsychosis_heartbeat_01",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/heartbeat/cyberpsychosis_heartbeat_02",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/heartbeat/cyberpsychosis_heartbeat_03",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/heartbeat/cyberpsychosis_heartbeat_04",
+        "stream": false
+      }
+    ]
+  },
+  "cyberpsychosis_whisper": {
+    "subtitle": "subtitles.project_edgerunner.cyberpsychosis_whisper",
+    "sounds": [
+      {
+        "name": "project_edgerunner:cyberpsychosis/whisper/cyberpsychosis_whisper_01",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/whisper/cyberpsychosis_whisper_02",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/whisper/cyberpsychosis_whisper_03",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/whisper/cyberpsychosis_whisper_04",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/whisper/cyberpsychosis_whisper_05",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/whisper/cyberpsychosis_whisper_06",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/whisper/cyberpsychosis_whisper_07",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/whisper/cyberpsychosis_whisper_08",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/whisper/cyberpsychosis_whisper_09",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/whisper/cyberpsychosis_whisper_10",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/whisper/cyberpsychosis_whisper_11",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/whisper/cyberpsychosis_whisper_12",
+        "stream": false
+      }
+    ]
+  },
+  "berserk_activation": {
+    "subtitle": "subtitles.project_edgerunner.berserk_activation",
+    "sounds": [
+      {"name": "project_edgerunner:berserk/real/activate_1", "stream": true},
+      {"name": "project_edgerunner:berserk/real/activate_2", "stream": true},
+      {"name": "project_edgerunner:berserk/real/activate_3", "stream": true}
+    ]
+  },
+  "berserk_critical": {
+    "subtitle": "subtitles.project_edgerunner.berserk_critical",
+    "sounds": [
+      {
+        "name": "project_edgerunner:cyberpsychosis/stinger_critical/cyberpsychosis_stinger_critical_02",
+        "stream": false
+      },
+      {
+        "name": "project_edgerunner:cyberpsychosis/stinger_critical/cyberpsychosis_stinger_critical_04",
+        "stream": false
+      }
+    ]
+  },
+  "berserk_exit": {
+    "subtitle": "subtitles.project_edgerunner.berserk_exit",
+    "sounds": [
+      {"name": "project_edgerunner:berserk/real/deactivate_1", "stream": true},
+      {"name": "project_edgerunner:berserk/real/deactivate_2", "stream": true},
+      {"name": "project_edgerunner:berserk/real/deactivate_3", "stream": true}
+    ]
+  },
+  "berserk_moore_activation": {
+    "subtitle": "subtitles.project_edgerunner.berserk_moore_activation",
+    "sounds": [
+      {"name": "project_edgerunner:berserk/real/activate_1", "stream": true},
+      {"name": "project_edgerunner:berserk/real/activate_2", "stream": true},
+      {"name": "project_edgerunner:berserk/real/activate_3", "stream": true}
+    ]
+  },
+  "berserk_moore_exit": {
+    "subtitle": "subtitles.project_edgerunner.berserk_moore_exit",
+    "sounds": [
+      {"name": "project_edgerunner:berserk/real/deactivate_1", "stream": true},
+      {"name": "project_edgerunner:berserk/real/deactivate_2", "stream": true},
+      {"name": "project_edgerunner:berserk/real/deactivate_3", "stream": true}
+    ]
+  },
+  "berserk_biodyne_activation": {
+    "subtitle": "subtitles.project_edgerunner.berserk_biodyne_activation",
+    "sounds": [
+      {"name": "project_edgerunner:berserk/real/activate_1", "stream": true},
+      {"name": "project_edgerunner:berserk/real/activate_2", "stream": true},
+      {"name": "project_edgerunner:berserk/real/activate_3", "stream": true}
+    ]
+  },
+  "berserk_biodyne_exit": {
+    "subtitle": "subtitles.project_edgerunner.berserk_biodyne_exit",
+    "sounds": [
+      {"name": "project_edgerunner:berserk/real/deactivate_1", "stream": true},
+      {"name": "project_edgerunner:berserk/real/deactivate_2", "stream": true},
+      {"name": "project_edgerunner:berserk/real/deactivate_3", "stream": true}
+    ]
+  },
+  "berserk_zetatech_activation": {
+    "subtitle": "subtitles.project_edgerunner.berserk_zetatech_activation",
+    "sounds": [
+      {"name": "project_edgerunner:berserk/real/activate_1", "stream": true},
+      {"name": "project_edgerunner:berserk/real/activate_2", "stream": true},
+      {"name": "project_edgerunner:berserk/real/activate_3", "stream": true}
+    ]
+  },
+  "berserk_zetatech_exit": {
+    "subtitle": "subtitles.project_edgerunner.berserk_zetatech_exit",
+    "sounds": [
+      {"name": "project_edgerunner:berserk/real/deactivate_1", "stream": true},
+      {"name": "project_edgerunner:berserk/real/deactivate_2", "stream": true},
+      {"name": "project_edgerunner:berserk/real/deactivate_3", "stream": true}
+    ]
+  },
+  "berserk_militech_activation": {
+    "subtitle": "subtitles.project_edgerunner.berserk_militech_activation",
+    "sounds": [
+      {"name": "project_edgerunner:berserk/real/activate_1", "stream": true},
+      {"name": "project_edgerunner:berserk/real/activate_2", "stream": true},
+      {"name": "project_edgerunner:berserk/real/activate_3", "stream": true}
+    ]
+  },
+  "berserk_militech_exit": {
+    "subtitle": "subtitles.project_edgerunner.berserk_militech_exit",
+    "sounds": [
+      {"name": "project_edgerunner:berserk/real/deactivate_1", "stream": true},
+      {"name": "project_edgerunner:berserk/real/deactivate_2", "stream": true},
+      {"name": "project_edgerunner:berserk/real/deactivate_3", "stream": true}
+    ]
+  },
+  "mantis_deploy": {
+    "subtitle": "subtitles.project_edgerunner.mantis_deploy",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/deploy",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/deploy_2",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/deploy_3",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      }
+    ]
+  },
+  "mantis_retract": {
+    "subtitle": "subtitles.project_edgerunner.mantis_retract",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/retract",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/retract_2",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/retract_3",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      }
+    ]
+  },
+  "mantis_slash": {
+    "subtitle": "subtitles.project_edgerunner.mantis_slash",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/slash_1",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_2",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_3",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_4",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_5",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_6",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_7",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_8",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_slash_cross": {
+    "subtitle": "subtitles.project_edgerunner.mantis_slash_cross",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/slash_cross_1",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_cross_2",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_cross_3",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_cross_4",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_cross_5",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_cross_6",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_hit": {
+    "subtitle": "subtitles.project_edgerunner.mantis_hit",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/hit_1",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/hit_2",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/hit_3",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/hit_4",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_hemorrhage": {
+    "subtitle": "subtitles.project_edgerunner.mantis_hemorrhage",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/hemorrhage",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/hemorrhage_2",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/hemorrhage_3",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      }
+    ]
+  },
+  "mantis_guard": {
+    "subtitle": "subtitles.project_edgerunner.mantis_guard",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/guard",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/guard_2",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/guard_3",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      }
+    ]
+  },
+  "mantis_block": {
+    "subtitle": "subtitles.project_edgerunner.mantis_block",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/block",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/block_2",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/block_3",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      }
+    ]
+  },
+  "mantis_deflect": {
+    "subtitle": "subtitles.project_edgerunner.mantis_deflect",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/deflect_1",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/deflect_2",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/deflect_3",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      }
+    ]
+  },
+  "mantis_parry": {
+    "subtitle": "subtitles.project_edgerunner.mantis_parry",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/parry",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/parry_2",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/parry_3",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      }
+    ]
+  },
+  "mantis_charge": {
+    "subtitle": "subtitles.project_edgerunner.mantis_charge",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/charge",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/charge_2",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/charge_3",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      }
+    ]
+  },
+  "mantis_leap": {
+    "subtitle": "subtitles.project_edgerunner.mantis_leap",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/leap",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/leap_2",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/leap_3",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      }
+    ]
+  },
+  "mantis_impact": {
+    "subtitle": "subtitles.project_edgerunner.mantis_impact",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/impact",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/impact_2",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/impact_3",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      }
+    ]
+  },
+  "mantis_wall_stab": {
+    "subtitle": "subtitles.project_edgerunner.mantis_wall_stab",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/wall_stab_1",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/wall_stab_2",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/wall_stab_3",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/wall_stab_4",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      }
+    ]
+  },
+  "mantis_crimson": {
+    "subtitle": "subtitles.project_edgerunner.mantis_crimson",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/crimson",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/crimson_2",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/crimson_3",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      }
+    ]
+  },
+  "mantis_ready": {
+    "subtitle": "subtitles.project_edgerunner.mantis_ready",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/ready",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/ready_2",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      }
+    ]
+  },
+  "mantis_slash_left": {
+    "subtitle": "subtitles.project_edgerunner.mantis_slash_left",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/slash_left_1",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_left_2",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_left_3",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_left_4",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_left_5",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_left_6",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_hit_metal": {
+    "subtitle": "subtitles.project_edgerunner.mantis_hit_metal",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/hit_metal_1",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/hit_metal_2",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/hit_metal_3",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/hit_metal_4",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_execute_stab": {
+    "subtitle": "subtitles.project_edgerunner.mantis_execute_stab",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/execute_stab",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/execute_stab_2",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/execute_stab_3",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      }
+    ]
+  },
+  "mantis_guard_release": {
+    "subtitle": "subtitles.project_edgerunner.mantis_guard_release",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/guard_release",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/guard_release_2",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/guard_release_3",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      }
+    ]
+  },
+  "mantis_charge_ready": {
+    "subtitle": "subtitles.project_edgerunner.mantis_charge_ready",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/charge_ready",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/charge_ready_2",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/charge_ready_3",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      }
+    ]
+  },
+  "mantis_charge_cancel": {
+    "subtitle": "subtitles.project_edgerunner.mantis_charge_cancel",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/charge_cancel",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/charge_cancel_2",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/charge_cancel_3",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      }
+    ]
+  },
+  "mantis_denied": {
+    "subtitle": "subtitles.project_edgerunner.mantis_denied",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/denied",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/denied_2",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      }
+    ]
+  },
+  "mantis_wall_release": {
+    "subtitle": "subtitles.project_edgerunner.mantis_wall_release",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/wall_release",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/wall_release_2",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/wall_release_3",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      }
+    ]
+  },
+  "mantis_slide_brake": {
+    "subtitle": "subtitles.project_edgerunner.mantis_slide_brake",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/slide_brake",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/slide_brake_2",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/slide_brake_3",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      }
+    ]
+  },
+  "mantis_dash": {
+    "subtitle": "subtitles.project_edgerunner.mantis_dash",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/dash",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/dash_2",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/dash_3",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      }
+    ]
+  },
+  "mantis_wall_kick": {
+    "subtitle": "subtitles.project_edgerunner.mantis_wall_kick",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/wall_kick",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/wall_kick_2",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/wall_kick_3",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      }
+    ]
+  },
+  "mantis_mantle": {
+    "subtitle": "subtitles.project_edgerunner.mantis_mantle",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/mantle",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/mantle_2",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/mantle_3",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      }
+    ]
+  },
+  "mantis_wall_wood": {
+    "subtitle": "subtitles.project_edgerunner.mantis_wall_wood",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/wall_wood_1",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/wall_wood_2",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/wall_wood_3",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      }
+    ]
+  },
+  "mantis_wall_metal": {
+    "subtitle": "subtitles.project_edgerunner.mantis_wall_metal",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/wall_metal_1",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/wall_metal_2",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/wall_metal_3",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      }
+    ]
+  },
+  "mantis_thermal": {
+    "subtitle": "subtitles.project_edgerunner.mantis_thermal",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/thermal",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/thermal_2",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/thermal_3",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      }
+    ]
+  },
+  "mantis_electric": {
+    "subtitle": "subtitles.project_edgerunner.mantis_electric",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/electric",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/electric_2",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/electric_3",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      }
+    ]
+  },
+  "mantis_toxic": {
+    "subtitle": "subtitles.project_edgerunner.mantis_toxic",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/toxic",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/toxic_2",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/toxic_3",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      }
+    ]
+  },
+  "mantis_charge_loop": {
+    "subtitle": "subtitles.project_edgerunner.mantis_charge_loop",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/charge_loop",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 12,
+        "preload": true
+      }
+    ]
+  },
+  "mantis_slide_loop": {
+    "subtitle": "subtitles.project_edgerunner.mantis_slide_loop",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/slide_loop",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 12,
+        "preload": true
+      }
+    ]
+  },
+  "mantis_slide_wood_loop": {
+    "subtitle": "subtitles.project_edgerunner.mantis_slide_wood_loop",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/slide_wood_loop",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 12,
+        "preload": true
+      }
+    ]
+  },
+  "mantis_slide_metal_loop": {
+    "subtitle": "subtitles.project_edgerunner.mantis_slide_metal_loop",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/slide_metal_loop",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 12,
+        "preload": true
+      }
+    ]
+  },
+  "mantis_flight_loop": {
+    "subtitle": "subtitles.project_edgerunner.mantis_flight_loop",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/flight_loop",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 12,
+        "preload": true
+      }
+    ]
+  },
+  "mantis_hit_bone": {
+    "subtitle": "subtitles.project_edgerunner.mantis_hit_bone",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/hit_bone_1",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/hit_bone_2",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/hit_bone_3",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/hit_bone_4",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/hit_bone_5",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_recover": {
+    "subtitle": "subtitles.project_edgerunner.mantis_recover",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/recover",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/recover_2",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      },
+      {
+        "name": "project_edgerunner:mantis/recover_3",
+        "volume": 0.7,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": true
+      }
+    ]
+  },
+  "mantis_slash_fast": {
+    "subtitle": "subtitles.project_edgerunner.mantis_slash_fast",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/slash_fast_1",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_fast_2",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_fast_3",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_fast_4",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_slash_left_fast": {
+    "subtitle": "subtitles.project_edgerunner.mantis_slash_left_fast",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/slash_left_fast_1",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_left_fast_2",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_left_fast_3",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_left_fast_4",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_slash_cross_fast": {
+    "subtitle": "subtitles.project_edgerunner.mantis_slash_cross_fast",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/slash_cross_fast_1",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_cross_fast_2",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_cross_fast_3",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_cross_fast_4",
+        "volume": 0.7,
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_deploy": {
+    "subtitle": "subtitles.project_edgerunner.mantis_deploy",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/deploy_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_retract": {
+    "subtitle": "subtitles.project_edgerunner.mantis_retract",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/retract_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_slash": {
+    "subtitle": "subtitles.project_edgerunner.mantis_slash",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/slash_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_2",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_3",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_4",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_5",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_6",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_7",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_8",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_slash_left": {
+    "subtitle": "subtitles.project_edgerunner.mantis_slash_left",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/slash_left_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_left_2",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_left_3",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_left_4",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_left_5",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_left_6",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_slash_cross": {
+    "subtitle": "subtitles.project_edgerunner.mantis_slash_cross",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/slash_cross_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_cross_2",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_cross_3",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_cross_4",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_cross_5",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_cross_6",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_slash_fast": {
+    "subtitle": "subtitles.project_edgerunner.mantis_slash_fast",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/slash_fast_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_fast_2",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_fast_3",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_fast_4",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_slash_left_fast": {
+    "subtitle": "subtitles.project_edgerunner.mantis_slash_left_fast",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/slash_left_fast_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_left_fast_2",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_left_fast_3",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_left_fast_4",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_slash_cross_fast": {
+    "subtitle": "subtitles.project_edgerunner.mantis_slash_cross_fast",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/slash_cross_fast_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_cross_fast_2",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_cross_fast_3",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slash_cross_fast_4",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_hit": {
+    "subtitle": "subtitles.project_edgerunner.mantis_hit",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/hit_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/hit_2",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/hit_3",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/hit_4",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_hit_metal": {
+    "subtitle": "subtitles.project_edgerunner.mantis_hit_metal",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/hit_metal_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/hit_metal_2",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/hit_metal_3",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/hit_metal_4",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_hit_bone": {
+    "subtitle": "subtitles.project_edgerunner.mantis_hit_bone",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/hit_bone_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/hit_bone_2",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/hit_bone_3",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/hit_bone_4",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/hit_bone_5",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_execute_stab": {
+    "subtitle": "subtitles.project_edgerunner.mantis_execute_stab",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/execute_stab_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/execute_stab_2",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/execute_stab_3",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/execute_stab_4",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_hemorrhage": {
+    "subtitle": "subtitles.project_edgerunner.mantis_hemorrhage",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/hemorrhage_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/hemorrhage_2",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/hemorrhage_3",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_crimson": {
+    "subtitle": "subtitles.project_edgerunner.mantis_crimson",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/crimson_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/crimson_2",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/crimson_3",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_guard": {
+    "subtitle": "subtitles.project_edgerunner.mantis_guard",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/guard_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/guard_2",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/guard_3",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/guard_4",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/guard_5",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/guard_6",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/guard_7",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_guard_release": {
+    "subtitle": "subtitles.project_edgerunner.mantis_guard_release",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/guard_release_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/guard_release_2",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/guard_release_3",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/guard_release_4",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/guard_release_5",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/guard_release_6",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/guard_release_7",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/guard_release_8",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/guard_release_9",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_block": {
+    "subtitle": "subtitles.project_edgerunner.mantis_block",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/block_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/block_2",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/block_3",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/block_4",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_deflect": {
+    "subtitle": "subtitles.project_edgerunner.mantis_deflect",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/deflect_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/deflect_2",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/deflect_3",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/deflect_4",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_parry": {
+    "subtitle": "subtitles.project_edgerunner.mantis_parry",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/parry_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/parry_2",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/parry_3",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/parry_4",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/parry_5",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/parry_6",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/parry_7",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/parry_8",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/parry_9",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/parry_10",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/parry_11",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/parry_12",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_charge": {
+    "subtitle": "subtitles.project_edgerunner.mantis_charge",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/charge_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/charge_2",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/charge_3",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/charge_4",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_charge_ready": {
+    "subtitle": "subtitles.project_edgerunner.mantis_charge_ready",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/charge_ready_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/charge_ready_2",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/charge_ready_3",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/charge_ready_4",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_charge_cancel": {
+    "subtitle": "subtitles.project_edgerunner.mantis_charge_cancel",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/charge_cancel_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/charge_cancel_2",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/charge_cancel_3",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_ready": {
+    "subtitle": "subtitles.project_edgerunner.mantis_ready",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/ready_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/ready_2",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/ready_3",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/ready_4",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_denied": {
+    "subtitle": "subtitles.project_edgerunner.mantis_denied",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/denied_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/denied_2",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/denied_3",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/denied_4",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/denied_5",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/denied_6",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/denied_7",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/denied_8",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/denied_9",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_recover": {
+    "subtitle": "subtitles.project_edgerunner.mantis_recover",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/recover_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/recover_2",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/recover_3",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/recover_4",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/recover_5",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/recover_6",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/recover_7",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/recover_8",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/recover_9",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_leap": {
+    "subtitle": "subtitles.project_edgerunner.mantis_leap",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/leap_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/leap_2",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/leap_3",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_dash": {
+    "subtitle": "subtitles.project_edgerunner.mantis_dash",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/dash_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/dash_2",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/dash_3",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/dash_4",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/dash_5",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/dash_6",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/dash_7",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/dash_8",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/dash_9",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/dash_10",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/dash_11",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/dash_12",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/dash_13",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_impact": {
+    "subtitle": "subtitles.project_edgerunner.mantis_impact",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/impact_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/impact_2",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/impact_3",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/impact_4",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_wall_kick": {
+    "subtitle": "subtitles.project_edgerunner.mantis_wall_kick",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/wall_kick_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/wall_kick_2",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/wall_kick_3",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/wall_kick_4",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/wall_kick_5",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/wall_kick_6",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/wall_kick_7",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_mantle": {
+    "subtitle": "subtitles.project_edgerunner.mantis_mantle",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/mantle_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/mantle_2",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/mantle_3",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/mantle_4",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/mantle_5",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/mantle_6",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/mantle_7",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_wall_stab": {
+    "subtitle": "subtitles.project_edgerunner.mantis_wall_stab",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/wall_stab_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/wall_stab_2",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/wall_stab_3",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/wall_stab_4",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_wall_wood": {
+    "subtitle": "subtitles.project_edgerunner.mantis_wall_wood",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/wall_wood_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/wall_wood_2",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/wall_wood_3",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/wall_wood_4",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_wall_metal": {
+    "subtitle": "subtitles.project_edgerunner.mantis_wall_metal",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/wall_metal_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/wall_metal_2",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/wall_metal_3",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/wall_metal_4",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_wall_release": {
+    "subtitle": "subtitles.project_edgerunner.mantis_wall_release",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/wall_release_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/wall_release_2",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/wall_release_3",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/wall_release_4",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/wall_release_5",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/wall_release_6",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/wall_release_7",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_slide_brake": {
+    "subtitle": "subtitles.project_edgerunner.mantis_slide_brake",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/slide_brake_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slide_brake_2",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slide_brake_3",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slide_brake_4",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slide_brake_5",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slide_brake_6",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/slide_brake_7",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_charge_loop": {
+    "subtitle": "subtitles.project_edgerunner.mantis_charge_loop",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/charge_loop_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "mantis_direct_slide_loop": {
+    "subtitle": "subtitles.project_edgerunner.mantis_slide_loop",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/slide_loop_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "mantis_direct_slide_wood_loop": {
+    "subtitle": "subtitles.project_edgerunner.mantis_slide_wood_loop",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/slide_wood_loop_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "mantis_direct_slide_metal_loop": {
+    "subtitle": "subtitles.project_edgerunner.mantis_slide_metal_loop",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/slide_metal_loop_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "mantis_direct_flight_loop": {
+    "subtitle": "subtitles.project_edgerunner.mantis_flight_loop",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/flight_loop_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "mantis_direct_thermal": {
+    "subtitle": "subtitles.project_edgerunner.mantis_thermal",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/thermal_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/thermal_2",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/thermal_3",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_electric": {
+    "subtitle": "subtitles.project_edgerunner.mantis_electric",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/electric_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/electric_2",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "project_edgerunner:mantis/direct/electric_3",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "mantis_direct_toxic": {
+    "subtitle": "subtitles.project_edgerunner.mantis_toxic",
+    "sounds": [
+      {
+        "name": "project_edgerunner:mantis/direct/toxic_1",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "sleep_optics_scan": {
+    "subtitle": "subtitles.project_edgerunner.sleep_optics_scan",
+    "sounds": [
+      {
+        "name": "project_edgerunner:sleep/optics_scan_1"
+      },
+      {
+        "name": "project_edgerunner:sleep/optics_scan_2"
+      }
+    ]
+  },
+  "sleep_optics_grip": {
+    "subtitle": "subtitles.project_edgerunner.sleep_optics_grip",
+    "sounds": [
+      {
+        "name": "project_edgerunner:sleep/optics_grip"
+      }
+    ]
+  },
+  "sleep_optics_tear": {
+    "subtitle": "subtitles.project_edgerunner.sleep_optics_tear",
+    "sounds": [
+      {
+        "name": "project_edgerunner:sleep/optics_tear"
+      }
+    ]
+  },
+  "sleep_dissociation_breath": {
+    "subtitle": "subtitles.project_edgerunner.sleep_dissociation_breath",
+    "sounds": [
+      {
+        "name": "project_edgerunner:sleep/dissociation_breath"
+      }
+    ]
+  },
+  "sleep_dissociation_cord": {
+    "subtitle": "subtitles.project_edgerunner.sleep_dissociation_cord",
+    "sounds": [
+      {
+        "name": "project_edgerunner:sleep/dissociation_cord"
+      }
+    ]
+  },
+  "sleep_tiny_draft": {
+    "subtitle": "subtitles.project_edgerunner.sleep_tiny_draft",
+    "sounds": [{"name": "project_edgerunner:sleep/fall_wind"}]
+  },
+  "sleep_fall_wind": {
+    "subtitle": "subtitles.project_edgerunner.sleep_fall_wind",
+    "sounds": [
+      {
+        "name": "project_edgerunner:sleep/fall_wind"
+      }
+    ]
+  },
+  "sleep_room_data": {
+    "subtitle": "subtitles.project_edgerunner.sleep_room_data",
+    "sounds": [
+      {
+        "name": "project_edgerunner:sleep/room_data_1"
+      },
+      {
+        "name": "project_edgerunner:sleep/room_data_2"
+      },
+      {
+        "name": "project_edgerunner:sleep/room_data_3"
+      }
+    ]
+  },
+  "sleep_tiny_capture": {
+    "subtitle": "subtitles.project_edgerunner.sleep_tiny_capture",
+    "sounds": [
+      {
+        "name": "project_edgerunner:sleep/tiny_capture"
+      }
+    ]
+  },
+  "sleep_eyes_lunge": {
+    "subtitle": "subtitles.project_edgerunner.sleep_eyes_lunge",
+    "sounds": [
+      {
+        "name": "project_edgerunner:sleep/eyes_lunge_1"
+      },
+      {
+        "name": "project_edgerunner:sleep/eyes_lunge_2"
+      }
+    ]
+  },
+  "sleep_moon_break": {
+    "subtitle": "subtitles.project_edgerunner.sleep_moon_break",
+    "sounds": [
+      {
+        "name": "project_edgerunner:sleep/moon_break"
+      }
+    ]
+  },
+  "music_disc.moon": {
+    "sounds": [
+      {
+        "name": "project_edgerunner:records/moon",
+        "stream": true
+      }
+    ]
+  },
+  "sleep_moon_song_far": {
+    "sounds": [
+      {
+        "name": "project_edgerunner:sleep/moon_song_far",
+        "stream": true
+      }
+    ]
+  },
+  "sleep_moon_song": {
+    "subtitle": "subtitles.project_edgerunner.sleep_moon_song",
+    "sounds": [
+      {
+        "name": "project_edgerunner:sleep/moon_song",
+        "stream": true
+      }
+    ]
+  },
+  "sleep_moon_crack": {
+    "subtitle": "subtitles.project_edgerunner.sleep_moon_crack",
+    "sounds": [
+      {
+        "name": "project_edgerunner:sleep/moon_crack"
+      }
+    ]
+  },
+  "sleep_scare": {
+    "subtitle": "subtitles.project_edgerunner.sleep_scare",
+    "sounds": [
+      {
+        "name": "project_edgerunner:sleep/scare"
+      }
+    ]
+  },
+  "sleep_tiny_step": {
+    "subtitle": "subtitles.project_edgerunner.sleep_tiny_step",
+    "sounds": [
+      {
+        "name": "project_edgerunner:sleep/tiny_step"
+      }
+    ]
+  },
+  "water_electric_buzz": {"subtitle": "subtitles.project_edgerunner.water_electric_buzz", "sounds": [{"name": "minecraft:block/beacon/ambient", "attenuation_distance": 16}]},
+  "water_toxic_bubble": {"subtitle": "subtitles.project_edgerunner.water_toxic_bubble", "sounds": [{"name": "minecraft:block/bubble_column/bubble1", "attenuation_distance": 16}, {"name": "minecraft:block/bubble_column/bubble2", "attenuation_distance": 16}, {"name": "minecraft:block/bubble_column/bubble3", "attenuation_distance": 16}]}
+}

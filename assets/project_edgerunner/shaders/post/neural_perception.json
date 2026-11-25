@@ -1,0 +1,14 @@
+{
+  "targets": ["neural_mosh", "neural_prev", "neural_view"],
+  "passes": [
+    {
+      "name": "project_edgerunner:neural_mosh",
+      "intarget": "minecraft:main",
+      "outtarget": "neural_mosh",
+      "auxtargets": [{"name": "PrevSampler", "id": "neural_prev"}]
+    },
+    {"name": "blit", "intarget": "neural_mosh", "outtarget": "neural_prev"},
+    {"name": "project_edgerunner:neural_perception", "intarget": "neural_mosh", "outtarget": "neural_view"},
+    {"name": "blit", "intarget": "neural_view", "outtarget": "minecraft:main"}
+  ]
+}

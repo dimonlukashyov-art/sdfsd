@@ -1,0 +1,70 @@
+{
+    "base": "project_edgerunner:textures/icons/face#NONE#CLAIRVOYANT#DOOMSAYER#STALKER#ORACLE.png",
+    "variables": {
+        "NONE": {
+            "type": "palladium:condition",
+            "conditions": [
+                {
+                    "type": "palladium:objective_score",
+                    "objective": "er_cw_icon_face",
+                    "min_score": 0,
+                    "max_score": 0
+                }
+            ],
+            "true_value": "_none",
+            "false_value": ""
+        },
+        "CLAIRVOYANT": {
+            "type": "palladium:condition",
+            "conditions": [
+                {
+                    "type": "palladium:objective_score",
+                    "objective": "er_cw_icon_face",
+                    "min_score": 1,
+                    "max_score": 1
+                }
+            ],
+            "true_value": "_clairvoyant",
+            "false_value": ""
+        },
+        "DOOMSAYER": {
+            "type": "palladium:condition",
+            "conditions": [
+                {
+                    "type": "palladium:objective_score",
+                    "objective": "er_cw_icon_face",
+                    "min_score": 2,
+                    "max_score": 2
+                }
+            ],
+            "true_value": "_doomsayer",
+            "false_value": ""
+        },
+        "STALKER": {
+            "type": "palladium:condition",
+            "conditions": [
+                {
+                    "type": "palladium:objective_score",
+                    "objective": "er_cw_icon_face",
+                    "min_score": 3,
+                    "max_score": 3
+                }
+            ],
+            "true_value": "_stalker",
+            "false_value": ""
+        },
+        "ORACLE": {
+            "type": "palladium:condition",
+            "conditions": [
+                {
+                    "type": "palladium:objective_score",
+                    "objective": "er_cw_icon_face",
+                    "min_score": 4,
+                    "max_score": 4
+                }
+            ],
+            "true_value": "_oracle",
+            "false_value": ""
+        }
+    }
+}

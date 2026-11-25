@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "project_edgerunner:arms_chassis_t3"
+    },
+    {
+      "item": "project_edgerunner:latency_shunt_t4"
+    },
+    {
+      "item": "palladium:lead_circuit"
+    },
+    {
+      "item": "palladium:titanium_ingot"
+    },
+    {
+      "item": "palladium:titanium_ingot"
+    }
+  ],
+  "result": {
+    "item": "project_edgerunner:arms_actuator_matrix_t4",
+    "count": 1
+  }
+}

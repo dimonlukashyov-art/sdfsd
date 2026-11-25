@@ -1,0 +1,33 @@
+{
+  "type": "palladium:compound",
+  "layers": [
+    {
+      "type": "geckolib:default",
+      "model": "project_edgerunner:geo/mantis_blades_left.geo.json",
+      "texture": "project_edgerunner:textures/models/mantis_blades_left.png",
+      "animation_file": "project_edgerunner:animations/mantis_blades_left.animation.json",
+      "render_type": "cutout",
+      "bones": {
+        "left_arm": "armorLeftArm"
+      },
+      "hidden_body_parts": [
+        "left_arm",
+        "left_arm_overlay"
+      ]
+    },
+    {
+      "type": "geckolib:default",
+      "model": "project_edgerunner:geo/mantis_blades_left.geo.json",
+      "texture": "project_edgerunner:textures/models/mantis_blades_glow_left.png",
+      "animation_file": "project_edgerunner:animations/mantis_blades_left.animation.json",
+      "render_type": "glow",
+      "bones": {
+        "left_arm": "armorLeftArm"
+      },
+      "hidden_body_parts": [
+        "left_arm",
+        "left_arm_overlay"
+      ]
+    }
+  ]
+}

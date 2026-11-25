@@ -1,0 +1,20 @@
+{
+  "blend": {"func": "add", "srcrgb": "one", "dstrgb": "zero"},
+  "vertex": "blit",
+  "fragment": "project_edgerunner:neural_perception",
+  "attributes": ["Position"],
+  "samplers": [{"name": "DiffuseSampler"}],
+  "uniforms": [
+    {"name": "ProjMat", "type": "matrix4x4", "count": 16, "values": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1]},
+    {"name": "OutSize", "type": "float", "count": 2, "values": [1,1]},
+    {"name": "NeuralTime", "type": "float", "count": 1, "values": [0]},
+    {"name": "Heart", "type": "float", "count": 1, "values": [0]},
+    {"name": "FractureAmount", "type": "float", "count": 1, "values": [0]},
+    {"name": "FractureSeed", "type": "float", "count": 1, "values": [0]},
+    {"name": "DripAmount", "type": "float", "count": 1, "values": [0]},
+    {"name": "FocusAmount", "type": "float", "count": 1, "values": [0]},
+    {"name": "FocusCenter", "type": "float", "count": 2, "values": [0.5,0.5]},
+    {"name": "ThreatAmount", "type": "float", "count": 1, "values": [0]},
+    {"name": "TunnelAmount", "type": "float", "count": 1, "values": [0]}
+  ]
+}

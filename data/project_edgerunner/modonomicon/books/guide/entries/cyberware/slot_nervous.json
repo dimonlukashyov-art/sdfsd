@@ -1,0 +1,29 @@
+{
+  "category": "project_edgerunner:cyberware",
+  "name": "book.edgerunner.guide.cyberware.slot_nervous.name",
+  "description": "book.edgerunner.guide.cyberware.slot_nervous.description",
+  "icon": {
+    "item": "project_edgerunner:neofiber"
+  },
+  "x": 20,
+  "y": 2,
+  "sort_number": 10,
+  "hide_while_locked": false,
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.cyberware.slot_nervous.r5b.page0.title",
+      "text": "book.edgerunner.guide.cyberware.slot_nervous.r5b.page0.text",
+      "anchor": "r5b_0"
+    }
+  ],
+  "parents": [
+    {
+      "draw_arrow": true,
+      "entry": "project_edgerunner:cyberware/hub"
+    }
+  ]
+}

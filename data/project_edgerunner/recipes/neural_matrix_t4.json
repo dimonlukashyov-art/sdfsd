@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "palladium:lead_circuit"
+    },
+    {
+      "item": "palladium:lead_circuit"
+    },
+    {
+      "item": "project_edgerunner:bio_monitor_t2"
+    },
+    {
+      "item": "project_edgerunner:phase_stabilizer_t3"
+    },
+    {
+      "item": "palladium:titanium_ingot"
+    }
+  ],
+  "result": {
+    "item": "project_edgerunner:neural_matrix_t4",
+    "count": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "category": "project_edgerunner:cyberware",
+  "name": "book.edgerunner.guide.cyberware.slot_legs.name",
+  "description": "book.edgerunner.guide.cyberware.slot_legs.description",
+  "icon": {
+    "item": "project_edgerunner:reinforced_tendons"
+  },
+  "x": 29,
+  "y": 2,
+  "sort_number": 6,
+  "hide_while_locked": false,
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_0",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.cyberware.slot_legs.r5b.page0.title",
+      "show_title_separator": true,
+      "text": "book.edgerunner.guide.cyberware.slot_legs.r5b.page0.text"
+    }
+  ],
+  "parents": [
+    {
+      "draw_arrow": true,
+      "entry": "project_edgerunner:cyberware/hub"
+    }
+  ]
+}

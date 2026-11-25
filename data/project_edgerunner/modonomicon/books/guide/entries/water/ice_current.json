@@ -1,0 +1,25 @@
+{
+  "category": "project_edgerunner:cyberware",
+  "name": "book.edgerunner.guide.water.ice_current.name",
+  "description": "book.edgerunner.guide.water.ice_current.description",
+  "icon": {
+    "item": "minecraft:packed_ice"
+  },
+  "x": 2,
+  "y": 15,
+  "sort_number": 94,
+  "hide_while_locked": true,
+  "condition": {
+    "type": "modonomicon:advancement",
+    "advancement_id": "project_edgerunner:water/ice_current"
+  },
+  "parents": [],
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "anchor": "conduction_idea1",
+      "title": "book.edgerunner.guide.water.ice_current.name",
+      "text": "book.edgerunner.guide.water.ice_current.text.book2.0"
+    }
+  ]
+}

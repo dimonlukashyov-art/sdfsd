@@ -1,0 +1,8 @@
+{
+  "name": "book.edgerunner.guide.cyberpsychosis.name",
+  "description": "book.edgerunner.guide.cyberpsychosis.description",
+  "icon": { "item": "project_edgerunner:cyberpsychosis_icon" },
+  "sort_number": 2,
+  "display_mode": "node",
+  "show_category_button": true
+}

@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "project_edgerunner:sandevistan_warp_dancer",
+    "project_edgerunner:sandevistan_zetatech",
+    "project_edgerunner:sandevistan_dynalar",
+    "project_edgerunner:sandevistan_falcon",
+    "project_edgerunner:sandevistan_apogee",
+    "project_edgerunner:berserk_moore_tech",
+    "project_edgerunner:berserk_biodyne",
+    "project_edgerunner:berserk_zetatech",
+    "project_edgerunner:berserk_militech"
+  ]
+}

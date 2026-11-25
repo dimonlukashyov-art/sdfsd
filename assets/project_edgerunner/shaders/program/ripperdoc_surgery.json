@@ -1,0 +1,18 @@
+{
+  "blend": {"func": "add", "srcrgb": "one", "dstrgb": "zero"},
+  "vertex": "blit",
+  "fragment": "project_edgerunner:ripperdoc_surgery",
+  "attributes": ["Position"],
+  "samplers": [{"name": "PrevSampler"}],
+  "uniforms": [
+    {"name": "ProjMat", "type": "matrix4x4", "count": 16, "values": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1]},
+    {"name": "OutSize", "type": "float", "count": 2, "values": [1,1]},
+    {"name": "SurgeryTime", "type": "float", "count": 1, "values": [0]},
+    {"name": "Dream", "type": "float", "count": 1, "values": [0]},
+    {"name": "Geometry", "type": "float", "count": 1, "values": [0]},
+    {"name": "Audio", "type": "float", "count": 4, "values": [0,0,0,0]},
+    {"name": "PrevValid", "type": "float", "count": 1, "values": [0]},
+    {"name": "FrameDelta", "type": "float", "count": 1, "values": [0.016667]},
+    {"name": "ReducedMotion", "type": "float", "count": 1, "values": [0]}
+  ]
+}

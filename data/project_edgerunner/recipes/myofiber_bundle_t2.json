@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "palladium:black_fabric"
+    },
+    {
+      "item": "palladium:black_fabric"
+    },
+    {
+      "item": "palladium:black_fabric"
+    },
+    {
+      "item": "palladium:lead_ingot"
+    },
+    {
+      "item": "palladium:lead_ingot"
+    },
+    {
+      "item": "palladium:lead_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:slime_ball"
+    }
+  ],
+  "result": {
+    "item": "project_edgerunner:myofiber_bundle_t2",
+    "count": 1
+  }
+}

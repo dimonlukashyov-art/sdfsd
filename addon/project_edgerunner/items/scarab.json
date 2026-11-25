@@ -1,0 +1,23 @@
+{
+  "type": "palladium:default",
+  "max_stack_size": 1,
+  "rarity": "uncommon",
+  "creative_mode_tab": "project_edgerunner:cyberpunk",
+  "tooltip": [
+    {
+      "color": "#AAAAAA",
+      "translate": "tooltip.project_edgerunner.item.scarab.line_0",
+      "fallback": "Scarab (Skeleton)"
+    },
+    {
+      "color": "#BF40BF",
+      "translate": "tooltip.project_edgerunner.item.scarab.tier_load",
+      "fallback": "Tier: 2 | Load: 14"
+    },
+    {
+      "color": "#66CCFF",
+      "translate": "tooltip.project_edgerunner.item.scarab.line_2",
+      "fallback": "Crouch-brace skeleton implant for bunker-style defense."
+    }
+  ]
+}

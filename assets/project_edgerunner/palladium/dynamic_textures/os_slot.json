@@ -1,0 +1,135 @@
+{
+    "base": "project_edgerunner:textures/icons/os#NONE#WARP_DANCER#ZETATECH#DYNALAR#FALCON#APOGEE#MOORE_TECH#BIODYNE#BERSERK_ZETATECH#MILITECH.png",
+    "variables": {
+        "NONE": {
+            "type": "palladium:condition",
+            "conditions": [
+                {
+                    "type": "palladium:objective_score",
+                    "objective": "er_cw_icon_os",
+                    "min_score": 0,
+                    "max_score": 0
+                }
+            ],
+            "true_value": "_none",
+            "false_value": ""
+        },
+        "WARP_DANCER": {
+            "type": "palladium:condition",
+            "conditions": [
+                {
+                    "type": "palladium:objective_score",
+                    "objective": "er_cw_icon_os",
+                    "min_score": 1,
+                    "max_score": 1
+                }
+            ],
+            "true_value": "_warp_dancer",
+            "false_value": ""
+        },
+        "ZETATECH": {
+            "type": "palladium:condition",
+            "conditions": [
+                {
+                    "type": "palladium:objective_score",
+                    "objective": "er_cw_icon_os",
+                    "min_score": 2,
+                    "max_score": 2
+                }
+            ],
+            "true_value": "_zetatech",
+            "false_value": ""
+        },
+        "DYNALAR": {
+            "type": "palladium:condition",
+            "conditions": [
+                {
+                    "type": "palladium:objective_score",
+                    "objective": "er_cw_icon_os",
+                    "min_score": 3,
+                    "max_score": 3
+                }
+            ],
+            "true_value": "_dynalar",
+            "false_value": ""
+        },
+        "FALCON": {
+            "type": "palladium:condition",
+            "conditions": [
+                {
+                    "type": "palladium:objective_score",
+                    "objective": "er_cw_icon_os",
+                    "min_score": 4,
+                    "max_score": 4
+                }
+            ],
+            "true_value": "_falcon",
+            "false_value": ""
+        },
+        "APOGEE": {
+            "type": "palladium:condition",
+            "conditions": [
+                {
+                    "type": "palladium:objective_score",
+                    "objective": "er_cw_icon_os",
+                    "min_score": 5,
+                    "max_score": 5
+                }
+            ],
+            "true_value": "_apogee",
+            "false_value": ""
+        },
+        "MOORE_TECH": {
+            "type": "palladium:condition",
+            "conditions": [
+                {
+                    "type": "palladium:objective_score",
+                    "objective": "er_cw_icon_os",
+                    "min_score": 6,
+                    "max_score": 6
+                }
+            ],
+            "true_value": "_berserk_moore_tech",
+            "false_value": ""
+        },
+        "BIODYNE": {
+            "type": "palladium:condition",
+            "conditions": [
+                {
+                    "type": "palladium:objective_score",
+                    "objective": "er_cw_icon_os",
+                    "min_score": 7,
+                    "max_score": 7
+                }
+            ],
+            "true_value": "_berserk_biodyne",
+            "false_value": ""
+        },
+        "BERSERK_ZETATECH": {
+            "type": "palladium:condition",
+            "conditions": [
+                {
+                    "type": "palladium:objective_score",
+                    "objective": "er_cw_icon_os",
+                    "min_score": 8,
+                    "max_score": 8
+                }
+            ],
+            "true_value": "_berserk_zetatech",
+            "false_value": ""
+        },
+        "MILITECH": {
+            "type": "palladium:condition",
+            "conditions": [
+                {
+                    "type": "palladium:objective_score",
+                    "objective": "er_cw_icon_os",
+                    "min_score": 9,
+                    "max_score": 9
+                }
+            ],
+            "true_value": "_berserk_militech",
+            "false_value": ""
+        }
+    }
+}

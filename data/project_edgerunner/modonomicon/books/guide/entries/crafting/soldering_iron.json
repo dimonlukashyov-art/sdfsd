@@ -1,0 +1,41 @@
+{
+  "category": "project_edgerunner:getting_started",
+  "name": "book.edgerunner.guide.crafting.soldering_iron.name",
+  "description": "book.edgerunner.guide.crafting.soldering_iron.description",
+  "icon": {
+    "item": "project_edgerunner:soldering_iron"
+  },
+  "x": 4,
+  "y": 4,
+  "sort_number": 11,
+  "hide_while_locked": false,
+  "parents": [
+    {
+      "entry": "project_edgerunner:crafting/ripperdoc_villager",
+      "draw_arrow": true
+    }
+  ],
+  "pages": [
+    {
+      "type": "modonomicon:spotlight",
+      "anchor": "op9_0",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.crafting.soldering_iron.op9.p0.title",
+      "text": "book.edgerunner.guide.crafting.soldering_iron.op9.p0.text",
+      "item": {
+        "item": "project_edgerunner:soldering_iron"
+      }
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "op9_1",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.crafting.soldering_iron.op9.p1.title",
+      "text": "book.edgerunner.guide.crafting.soldering_iron.op9.p1.text"
+    }
+  ]
+}

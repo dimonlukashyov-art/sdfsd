@@ -1,0 +1,8 @@
+{
+  "pack": {
+    "id": "cyberpunk_addon_runtime",
+    "description": "Cyberpunk addon runtime resources",
+    "pack_format": 15,
+    "version": "1.2.0"
+  }
+}

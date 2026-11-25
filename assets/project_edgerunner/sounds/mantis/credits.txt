@@ -1,0 +1,340 @@
+MANTIS BLADES — CYBERPUNK 2077 / SOUNDDB
+Source: Cyberpunk 2077 audio, CD PROJEKT RED. These recordings are not CC0.
+Public preview catalog: https://sounddb.redmodding.org/sfx
+API: https://sounddb.zhincore.eu/ | Data version: 2.3.1b-2
+Downloaded previews: Opus mono 16 kHz. Export: Vorbis mono 48 kHz.
+Upsampling does not restore the quality/frequency range of game master files.
+Source IDs, URLs and SHA-256: tools/mantis_sounddb_sources.json
+Per-asset layers and source edits: output/mantis-sound-design/manifest.json
+Builder: tools/build_mantis_sounddb.py / tools/build_mantis_sounds.py
+
+Edited, retimed, layered and mastered to the model and actual contact frames.
+All audible layers in this pack originate from SoundDB; no CC0 pack layers used.
+
+USED ORIGINAL PREVIEWS
+1003784073 | w_cyb_mantis_special_attack
+https://sounddb.redmodding.org/sfx/1003784073
+1007239708 | w_cyb_mantis_scrape_medium
+https://sounddb.redmodding.org/sfx/1007239708
+100889284 | w_melee_katana_impact_block
+https://sounddb.redmodding.org/sfx/100889284
+1010779579 | w_cyb_mantis_impact_flesh_heavy
+https://sounddb.redmodding.org/sfx/1010779579
+1010943296 | w_cyb_mantis_whoosh_fast
+https://sounddb.redmodding.org/sfx/1010943296
+1021467820 | w_cyb_mantis_whoosh_medium
+https://sounddb.redmodding.org/sfx/1021467820
+1024497036 | w_cyb_mantis_mechanicals_short
+https://sounddb.redmodding.org/sfx/1024497036
+1025347304 | w_cyb_mantis_scrape_medium
+https://sounddb.redmodding.org/sfx/1025347304
+1033551514 | w_cyb_mantis_finisher
+https://sounddb.redmodding.org/sfx/1033551514
+1034158262 | w_cyb_mantis_impact_flesh
+https://sounddb.redmodding.org/sfx/1034158262
+1038728924 | w_melee_material_light_concrete
+https://sounddb.redmodding.org/sfx/1038728924
+1040147441 | w_cyb_mantis_robotic
+https://sounddb.redmodding.org/sfx/1040147441
+1061264720 | w_cyb_mantis_organic
+https://sounddb.redmodding.org/sfx/1061264720
+1069050650 | w_cyb_finisher_mantis01_hit_final
+https://sounddb.redmodding.org/sfx/1069050650
+107165914 | w_melee_material_light_concrete
+https://sounddb.redmodding.org/sfx/107165914
+107783262 | w_cyb_mantis_servo
+https://sounddb.redmodding.org/sfx/107783262
+110255283 | w_cyb_mantis_impact_flesh_heavy
+https://sounddb.redmodding.org/sfx/110255283
+120359461 | w_cyb_mantis_stab_fast
+https://sounddb.redmodding.org/sfx/120359461
+130295741 | amb_g_fx_electr_spark_robots_hand
+https://sounddb.redmodding.org/sfx/130295741
+149792555 | w_melee_gore_bones_break
+https://sounddb.redmodding.org/sfx/149792555
+159948400 | w_cyb_mantis_robotic
+https://sounddb.redmodding.org/sfx/159948400
+161479115 | amb_g_fx_electr_spark_robots_hand
+https://sounddb.redmodding.org/sfx/161479115
+170755113 | w_cyb_mantis_impact_metal
+https://sounddb.redmodding.org/sfx/170755113
+174878283 | w_cyb_mantis_whoosh_fast
+https://sounddb.redmodding.org/sfx/174878283
+176446949 | nme_fx_burning_start
+https://sounddb.redmodding.org/sfx/176446949
+176676163 | vfx_ground_electricity_area_very_small
+https://sounddb.redmodding.org/sfx/176676163
+176890528 | w_cyb_mantis_whoosh_synth
+https://sounddb.redmodding.org/sfx/176890528
+184143036 | w_cyb_mantis_stab_fast
+https://sounddb.redmodding.org/sfx/184143036
+188452656 | w_cyb_mantis_robotic
+https://sounddb.redmodding.org/sfx/188452656
+190054030 | w_cyb_finisher_mantis01_hit_R
+https://sounddb.redmodding.org/sfx/190054030
+190392613 | w_cyb_mantis_scrape_medium
+https://sounddb.redmodding.org/sfx/190392613
+191635142 | w_cyb_mantis_whoosh_fast
+https://sounddb.redmodding.org/sfx/191635142
+202296471 | w_cyb_mantis_whoosh_medium
+https://sounddb.redmodding.org/sfx/202296471
+204232501 | w_cyb_mantis_special_attack
+https://sounddb.redmodding.org/sfx/204232501
+21336701 | w_cyb_mantis_whoosh_synth_heavy
+https://sounddb.redmodding.org/sfx/21336701
+218989956 | w_cyb_mantis_organic_back
+https://sounddb.redmodding.org/sfx/218989956
+222109423 | w_melee_perks_katana_bullet_deflecting
+https://sounddb.redmodding.org/sfx/222109423
+229860484 | w_cyb_mantis_ring
+https://sounddb.redmodding.org/sfx/229860484
+234964504 | w_cyb_mantis_whoosh_medium
+https://sounddb.redmodding.org/sfx/234964504
+235910631 | w_cyb_mantis_impact_flesh
+https://sounddb.redmodding.org/sfx/235910631
+238642536 | w_cyb_mantis_organic_back
+https://sounddb.redmodding.org/sfx/238642536
+247255498 | w_cyb_mantis_scrape_medium
+https://sounddb.redmodding.org/sfx/247255498
+277754157 | lcm_falling_wind_loop
+https://sounddb.redmodding.org/sfx/277754157
+277987372 | w_cyb_mantis_scrape_medium
+https://sounddb.redmodding.org/sfx/277987372
+286485 | w_cyb_mantis_whoosh_synth
+https://sounddb.redmodding.org/sfx/286485
+296561152 | w_cyb_mantis_robotic
+https://sounddb.redmodding.org/sfx/296561152
+301408688 | w_cyb_finisher_mantis01_hit_R
+https://sounddb.redmodding.org/sfx/301408688
+315648213 | w_cyb_mantis_impact_metal_heavy
+https://sounddb.redmodding.org/sfx/315648213
+316372494 | w_cyb_mantis_glitch_in, w_cyb_mantis_mechanical_back
+https://sounddb.redmodding.org/sfx/316372494
+31737594 | w_cyb_mantis_impact_metal
+https://sounddb.redmodding.org/sfx/31737594
+329219561 | w_cyb_mantis_whoosh_synth_heavy
+https://sounddb.redmodding.org/sfx/329219561
+332407298 | w_melee_gore_bones_light
+https://sounddb.redmodding.org/sfx/332407298
+342395109 | w_melee_katana_ring_block
+https://sounddb.redmodding.org/sfx/342395109
+347221894 | w_cyb_mantis_whoosh_fast
+https://sounddb.redmodding.org/sfx/347221894
+350868210 | w_cyb_mantis_organic_back
+https://sounddb.redmodding.org/sfx/350868210
+351330250 | w_cyb_mantis_mechanical_back
+https://sounddb.redmodding.org/sfx/351330250
+351726428 | w_cyb_mantis_unequip
+https://sounddb.redmodding.org/sfx/351726428
+3541351 | w_cyb_mantis_mechanical_back
+https://sounddb.redmodding.org/sfx/3541351
+367961761 | w_cyb_mantis_whoosh_fast
+https://sounddb.redmodding.org/sfx/367961761
+371402762 | w_cyb_mantis_whoosh_synth
+https://sounddb.redmodding.org/sfx/371402762
+372085397 | w_melee_material_light_concrete
+https://sounddb.redmodding.org/sfx/372085397
+386408817 | w_cyb_mantis_spy_perk_charged
+https://sounddb.redmodding.org/sfx/386408817
+386974188 | w_cyb_mantis_whoosh_synth
+https://sounddb.redmodding.org/sfx/386974188
+389034659 | w_cyb_mantis_mechanical_back
+https://sounddb.redmodding.org/sfx/389034659
+39569101 | amb_g_fx_electr_spark_robots_hand
+https://sounddb.redmodding.org/sfx/39569101
+40280200 | w_cyb_mantis_mechanicals_long
+https://sounddb.redmodding.org/sfx/40280200
+412166148 | w_melee_katana_impact_block
+https://sounddb.redmodding.org/sfx/412166148
+417269392 | w_cyb_mantis_impact_metal_heavy
+https://sounddb.redmodding.org/sfx/417269392
+424196078 | w_cyb_mantis_impact_debris
+https://sounddb.redmodding.org/sfx/424196078
+428669665 | w_cyb_mantis_organic
+https://sounddb.redmodding.org/sfx/428669665
+451793351 | w_cyb_mantis_robotic
+https://sounddb.redmodding.org/sfx/451793351
+45263615 | nme_fx_burning_start
+https://sounddb.redmodding.org/sfx/45263615
+463649841 | w_cyb_mantis_mechanicals_small
+https://sounddb.redmodding.org/sfx/463649841
+465104997 | w_cyb_mantis_spy_perk_charged
+https://sounddb.redmodding.org/sfx/465104997
+477846952 | w_cyb_mantis_mechanicals_short
+https://sounddb.redmodding.org/sfx/477846952
+478134715 | v_car_dst_fx_impact_debris_wood
+https://sounddb.redmodding.org/sfx/478134715
+486723173 | w_cyb_mantis_scrape_fast
+https://sounddb.redmodding.org/sfx/486723173
+506472069 | w_cyb_mantis_whoosh_fast
+https://sounddb.redmodding.org/sfx/506472069
+507639531 | w_cyb_finisher_mantis01_hit_L
+https://sounddb.redmodding.org/sfx/507639531
+509823464 | w_cyb_mantis_whoosh_synth
+https://sounddb.redmodding.org/sfx/509823464
+51055654 | w_cyb_finisher_mantis01_hit_R
+https://sounddb.redmodding.org/sfx/51055654
+511232270 | w_melee_material_light_concrete
+https://sounddb.redmodding.org/sfx/511232270
+515249195 | w_melee_gore_bones_light
+https://sounddb.redmodding.org/sfx/515249195
+516208557 | w_cyb_mantis_scrape_medium
+https://sounddb.redmodding.org/sfx/516208557
+518770966 | w_cyb_finisher_mantis01_hit_final
+https://sounddb.redmodding.org/sfx/518770966
+53689728 | w_cyb_mantis_glitch_in, w_cyb_mantis_mechanical_back
+https://sounddb.redmodding.org/sfx/53689728
+544301346 | w_cyb_mantis_spy_perk_charged
+https://sounddb.redmodding.org/sfx/544301346
+557305144 | w_cyb_mantis_impact_metal
+https://sounddb.redmodding.org/sfx/557305144
+558124848 | w_cyb_finisher_mantis01_hit_L
+https://sounddb.redmodding.org/sfx/558124848
+563429707 | w_cyb_mantis_ring
+https://sounddb.redmodding.org/sfx/563429707
+564563120 | w_cyb_mantis_scrape_fast
+https://sounddb.redmodding.org/sfx/564563120
+579550220 | w_cyb_mantis_glitch_in, w_cyb_mantis_mechanical_back
+https://sounddb.redmodding.org/sfx/579550220
+580646130 | w_cyb_mantis_impact_metal
+https://sounddb.redmodding.org/sfx/580646130
+584957777 | w_cyb_mantis_robotic
+https://sounddb.redmodding.org/sfx/584957777
+585145921 | w_cyb_mantis_whoosh_fast
+https://sounddb.redmodding.org/sfx/585145921
+596178422 | w_melee_katana_ring_block
+https://sounddb.redmodding.org/sfx/596178422
+597360794 | nme_fx_burning_start
+https://sounddb.redmodding.org/sfx/597360794
+597540514 | w_cyb_mantis_whoosh_heavy
+https://sounddb.redmodding.org/sfx/597540514
+604171944 | w_cyb_mantis_finisher
+https://sounddb.redmodding.org/sfx/604171944
+606317422 | w_cyb_mantis_mechanicals_small
+https://sounddb.redmodding.org/sfx/606317422
+613489586 | w_cyb_mantis_blood
+https://sounddb.redmodding.org/sfx/613489586
+617160148 | w_cyb_mantis_whoosh_medium
+https://sounddb.redmodding.org/sfx/617160148
+61766370 | w_cyb_mantis_whoosh_synth
+https://sounddb.redmodding.org/sfx/61766370
+624029372 | w_cyb_mantis_blood
+https://sounddb.redmodding.org/sfx/624029372
+632050978 | w_cyb_mantis_ring
+https://sounddb.redmodding.org/sfx/632050978
+633137188 | w_cyb_mantis_robotic
+https://sounddb.redmodding.org/sfx/633137188
+641266484 | w_cyb_mantis_whoosh_medium
+https://sounddb.redmodding.org/sfx/641266484
+650538875 | w_cyb_mantis_whoosh_synth_heavy
+https://sounddb.redmodding.org/sfx/650538875
+656395245 | w_cyb_mantis_servo
+https://sounddb.redmodding.org/sfx/656395245
+661281894 | w_cyb_mantis_mechanicals_short
+https://sounddb.redmodding.org/sfx/661281894
+675639032 | w_cyb_mantis_stab_fast
+https://sounddb.redmodding.org/sfx/675639032
+678126764 | w_cyb_mantis_scrape_medium
+https://sounddb.redmodding.org/sfx/678126764
+687768580 | w_cyb_mantis_blood
+https://sounddb.redmodding.org/sfx/687768580
+691497081 | w_cyb_mantis_mechanicals_small
+https://sounddb.redmodding.org/sfx/691497081
+693814595 | w_cyb_mantis_impact_debris
+https://sounddb.redmodding.org/sfx/693814595
+694409968 | w_cyb_mantis_organic
+https://sounddb.redmodding.org/sfx/694409968
+707461766 | w_cyb_mantis_ring
+https://sounddb.redmodding.org/sfx/707461766
+714592379 | w_melee_gore_bones_break
+https://sounddb.redmodding.org/sfx/714592379
+715238540 | w_cyb_mantis_whoosh_medium
+https://sounddb.redmodding.org/sfx/715238540
+7248421 | w_cyb_mantis_mechanicals_long
+https://sounddb.redmodding.org/sfx/7248421
+726863187 | w_cyb_mantis_stab_fast
+https://sounddb.redmodding.org/sfx/726863187
+738451702 | w_cyb_mantis_special_attack
+https://sounddb.redmodding.org/sfx/738451702
+743225225 | w_melee_gore_bones_light
+https://sounddb.redmodding.org/sfx/743225225
+746541208 | w_cyb_mantis_impact_metal_heavy
+https://sounddb.redmodding.org/sfx/746541208
+749988330 | w_cyb_mantis_whoosh_heavy
+https://sounddb.redmodding.org/sfx/749988330
+75368380 | w_cyb_mantis_servo
+https://sounddb.redmodding.org/sfx/75368380
+758838859 | w_cyb_mantis_mechanicals_short
+https://sounddb.redmodding.org/sfx/758838859
+765220776 | w_melee_material_light_concrete
+https://sounddb.redmodding.org/sfx/765220776
+7689408 | w_cyb_mantis_whoosh_synth
+https://sounddb.redmodding.org/sfx/7689408
+771992691 | v_car_dst_fx_impact_debris_wood
+https://sounddb.redmodding.org/sfx/771992691
+775967809 | w_melee_perks_katana_bullet_deflecting
+https://sounddb.redmodding.org/sfx/775967809
+780347094 | w_cyb_mantis_equip
+https://sounddb.redmodding.org/sfx/780347094
+786823426 | w_cyb_mantis_whoosh_synth
+https://sounddb.redmodding.org/sfx/786823426
+798914278 | vfx_ground_electricity_area_very_small
+https://sounddb.redmodding.org/sfx/798914278
+803073781 | w_melee_gore_bones_break
+https://sounddb.redmodding.org/sfx/803073781
+805242468 | v_car_dst_fx_impact_debris_wood
+https://sounddb.redmodding.org/sfx/805242468
+807023234 | w_melee_gore_bones_break
+https://sounddb.redmodding.org/sfx/807023234
+807957929 | w_cyb_mantis_mechanicals_small
+https://sounddb.redmodding.org/sfx/807957929
+829224919 | w_cyb_finisher_mantis01_hit_final
+https://sounddb.redmodding.org/sfx/829224919
+837625427 | w_cyb_mantis_robotic
+https://sounddb.redmodding.org/sfx/837625427
+845036948 | w_cyb_mantis_whoosh_medium
+https://sounddb.redmodding.org/sfx/845036948
+851285740 | vfx_ground_electricity_area_very_small
+https://sounddb.redmodding.org/sfx/851285740
+857909676 | w_melee_material_light_concrete
+https://sounddb.redmodding.org/sfx/857909676
+859737526 | w_cyb_mantis_scrape_fast
+https://sounddb.redmodding.org/sfx/859737526
+873706526 | w_cyb_mantis_impact_flesh_heavy
+https://sounddb.redmodding.org/sfx/873706526
+875753048 | w_melee_material_light_concrete
+https://sounddb.redmodding.org/sfx/875753048
+884759136 | w_melee_katana_impact_block
+https://sounddb.redmodding.org/sfx/884759136
+886871964 | v_car_dst_fx_impact_debris_wood
+https://sounddb.redmodding.org/sfx/886871964
+897007699 | w_cyb_mantis_servo
+https://sounddb.redmodding.org/sfx/897007699
+900901789 | w_cyb_mantis_impact_flesh
+https://sounddb.redmodding.org/sfx/900901789
+906602696 | w_melee_perks_katana_bullet_deflecting
+https://sounddb.redmodding.org/sfx/906602696
+926163008 | w_cyb_finisher_mantis01_hit_L
+https://sounddb.redmodding.org/sfx/926163008
+928294451 | w_melee_katana_ring_block
+https://sounddb.redmodding.org/sfx/928294451
+933087623 | w_cyb_mantis_whoosh_heavy
+https://sounddb.redmodding.org/sfx/933087623
+936825580 | w_cyb_mantis_whoosh_medium
+https://sounddb.redmodding.org/sfx/936825580
+940676289 | w_cyb_mantis_whoosh_fast
+https://sounddb.redmodding.org/sfx/940676289
+943293496 | dev_sprinkler_toxic_gas_start_loop
+https://sounddb.redmodding.org/sfx/943293496
+946613387 | w_cyb_mantis_finisher
+https://sounddb.redmodding.org/sfx/946613387
+956463368 | w_cyb_mantis_impact_flesh
+https://sounddb.redmodding.org/sfx/956463368
+979155490 | w_cyb_mantis_impact_debris
+https://sounddb.redmodding.org/sfx/979155490
+979680199 | w_cyb_mantis_mechanicals_long
+https://sounddb.redmodding.org/sfx/979680199
+983056866 | w_melee_gore_bones_light
+https://sounddb.redmodding.org/sfx/983056866
+990943828 | w_cyb_mantis_scrape_fast
+https://sounddb.redmodding.org/sfx/990943828

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "project_edgerunner:basic_kiroshi_optics",
+    "project_edgerunner:clairvoyant",
+    "project_edgerunner:doomsayer",
+    "project_edgerunner:stalker",
+    "project_edgerunner:the_oracle"
+  ]
+}

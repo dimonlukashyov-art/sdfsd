@@ -1,0 +1,5 @@
+{
+  "criteria": {
+    "conduction": { "trigger": "minecraft:impossible" }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "palladium:default",
+  "max_stack_size": 64,
+  "rarity": "common",
+  "creative_mode_tab": "project_edgerunner:cyberpunk",
+  "tooltip": [
+    {
+      "color": "#AAAAAA",
+      "translate": "tooltip.project_edgerunner.item.cyberware_internal_parts_t1.line_0",
+      "fallback": "Internal cyberware upgrade material"
+    },
+    {
+      "color": "#66CCFF",
+      "translate": "tooltip.project_edgerunner.item.cyberware_internal_parts_t1.line_1",
+      "fallback": "Used to unlock internal upgrades"
+    },
+    {
+      "color": "#BF40BF",
+      "translate": "tooltip.project_edgerunner.item.cyberware_internal_parts_t1.line_2",
+      "fallback": "Compatible with Tier 1 cyberware only"
+    }
+  ]
+}

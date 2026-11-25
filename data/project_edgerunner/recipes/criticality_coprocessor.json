@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shapeless","category":"misc","ingredients":[{"item":"palladium:lead_circuit"},{"item":"palladium:quartz_flux_capacitor"},{"item":"minecraft:comparator"},{"item":"minecraft:amethyst_shard"}],"result":{"item":"project_edgerunner:criticality_coprocessor","count":1}}

@@ -1,0 +1,56 @@
+{
+  "category": "project_edgerunner:cyberware",
+  "name": "book.edgerunner.guide.cyberware.reinforced_tendons.name",
+  "description": "book.edgerunner.guide.cyberware.reinforced_tendons.description",
+  "icon": {
+    "item": "project_edgerunner:reinforced_tendons"
+  },
+  "x": 30,
+  "y": 4,
+  "sort_number": 8,
+  "hide_while_locked": false,
+  "parents": [
+    {
+      "entry": "project_edgerunner:cyberware/slot_legs",
+      "draw_arrow": true
+    }
+  ],
+  "pages": [
+    {
+      "type": "modonomicon:spotlight",
+      "anchor": "r5b_0",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "item": {
+        "item": "project_edgerunner:reinforced_tendons"
+      },
+      "title": "book.edgerunner.guide.cyberware.reinforced_tendons.r5b.page0.title",
+      "text": "book.edgerunner.guide.cyberware.reinforced_tendons.r5b.page0.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "text": "book.edgerunner.guide.cyberware.reinforced_tendons.r5b.page3.text",
+      "title": "book.edgerunner.guide.cyberware.reinforced_tendons.r5b.page3.title",
+      "anchor": "r5b_3"
+    },
+    {
+      "type": "modonomicon:text",
+      "text": "book.edgerunner.guide.cyberware.reinforced_tendons.r5b.page4.text",
+      "title": "book.edgerunner.guide.cyberware.reinforced_tendons.r5b.page4.title",
+      "anchor": "r5b_4"
+    },
+    {
+      "type": "modonomicon:text",
+      "text": "book.edgerunner.guide.cyberware.reinforced_tendons.r5b.page5.text",
+      "title": "book.edgerunner.guide.cyberware.reinforced_tendons.r5b.page5.title",
+      "anchor": "r5b_5"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_1",
+      "title": "book.edgerunner.guide.cyberware.reinforced_tendons.r5b.page1.title",
+      "text": "book.edgerunner.guide.cyberware.reinforced_tendons.r5b.page1.text"
+    }
+  ]
+}

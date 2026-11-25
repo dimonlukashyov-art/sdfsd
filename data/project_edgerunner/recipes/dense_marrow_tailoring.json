@@ -1,0 +1,14 @@
+{
+  "type": "palladium:item_tailoring",
+  "title": { "translate": "tailoring.project_edgerunner.dense_marrow" },
+  "tool": { "item": "project_edgerunner:soldering_iron" },
+  "tool_icon": "project_edgerunner:item/soldering_iron_tool_icon_bw",
+  "category": "project_edgerunner:cyberware_tailoring",
+  "requires_unlocking": false,
+  "ingredients": [
+    { "ingredient": { "item": "project_edgerunner:marrow_pressure_core_t3" }, "count": 1 },
+    { "ingredient": { "item": "minecraft:bone_block" }, "count": 3 },
+    { "ingredient": { "item": "minecraft:diamond" }, "count": 1 }
+  ],
+  "results": { "chest": "project_edgerunner:dense_marrow" }
+}

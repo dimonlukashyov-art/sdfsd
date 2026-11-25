@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "project_edgerunner:titanium_bones",
+    "project_edgerunner:bionic_joints",
+    "project_edgerunner:dense_marrow",
+    "project_edgerunner:epimorphic_skeleton",
+    "project_edgerunner:kinetic_frame",
+    "project_edgerunner:para_bellum",
+    "project_edgerunner:rara_avis",
+    "project_edgerunner:scar_coalescer",
+    "project_edgerunner:scarab",
+    "project_edgerunner:spring_joints",
+    "project_edgerunner:universal_booster",
+    "project_edgerunner:hollow_bones"
+  ]
+}

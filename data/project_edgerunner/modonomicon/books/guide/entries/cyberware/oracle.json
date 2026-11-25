@@ -1,0 +1,73 @@
+{
+  "category": "project_edgerunner:cyberware",
+  "name": "book.edgerunner.guide.cyberware.oracle.name",
+  "description": "book.edgerunner.guide.cyberware.oracle.description",
+  "icon": {
+    "item": "project_edgerunner:the_oracle"
+  },
+  "x": -22,
+  "y": 8,
+  "sort_number": 2,
+  "hide_while_locked": false,
+  "parents": [
+    {
+      "entry": "project_edgerunner:cyberware/clairvoyant",
+      "draw_arrow": true,
+      "line_enabled": true,
+      "line_reversed": false
+    },
+    {
+      "entry": "project_edgerunner:cyberware/doomsayer",
+      "draw_arrow": true,
+      "line_enabled": true,
+      "line_reversed": false
+    },
+    {
+      "entry": "project_edgerunner:cyberware/stalker",
+      "draw_arrow": true,
+      "line_enabled": true,
+      "line_reversed": false
+    }
+  ],
+  "pages": [
+    {
+      "type": "modonomicon:spotlight",
+      "anchor": "r5b_0",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "item": {
+        "item": "project_edgerunner:the_oracle"
+      },
+      "title": "book.edgerunner.guide.cyberware.oracle.r5b.page0.title",
+      "text": "book.edgerunner.guide.cyberware.oracle.r5b.page0.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_1",
+      "title": "book.edgerunner.guide.cyberware.oracle.r5b.page1.title",
+      "text": "book.edgerunner.guide.cyberware.oracle.r5b.page1.text"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_2",
+      "title": "book.edgerunner.guide.cyberware.oracle.r5b.page2.title",
+      "text": "book.edgerunner.guide.cyberware.oracle.r5b.page2.text"
+    },
+    {
+      "type": "modonomicon:crafting_recipe",
+      "anchor": "p2",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title1": "book.edgerunner.guide.cyberware.face_optics.page9.title2",
+      "recipe_id_1": "project_edgerunner:optic_fusion_controller_t4"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_4",
+      "title": "book.edgerunner.guide.cyberware.oracle.r5b.page4.title",
+      "text": "book.edgerunner.guide.cyberware.oracle.r5b.page4.text"
+    }
+  ]
+}

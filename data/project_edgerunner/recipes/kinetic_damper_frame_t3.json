@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "project_edgerunner:joint_servo_t1"
+    },
+    {
+      "item": "project_edgerunner:kinetic_actuator_t1"
+    },
+    {
+      "item": "palladium:lead_flux_capacitor"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:slime_ball"
+    }
+  ],
+  "result": {
+    "item": "project_edgerunner:kinetic_damper_frame_t3",
+    "count": 1
+  }
+}

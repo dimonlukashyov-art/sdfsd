@@ -1,0 +1,39 @@
+[
+  {
+    "body_part": "right_arm",
+    "amount": 0.11,
+    "offset": [6.9, -12.8, -3.2],
+    "offset_random": [0.05, 0.06, 0.05],
+    "motion": [1.75, 1.55, -0.42],
+    "motion_random": [0.008, 0.010, 0.008],
+    "visible_in_first_person": false
+  },
+  {
+    "body_part": "left_arm",
+    "amount": 0.11,
+    "offset": [-6.9, -12.8, -3.2],
+    "offset_random": [0.05, 0.06, 0.05],
+    "motion": [-1.75, 1.55, -0.42],
+    "motion_random": [0.008, 0.010, 0.008],
+    "visible_in_first_person": false
+  },
+  {
+    "body_part": "right_leg",
+    "amount": 0.095,
+    "offset": [5.2, -7.2, -2.7],
+    "offset_random": [0.05, 0.06, 0.05],
+    "motion": [2.35, 1.45, -0.36],
+    "motion_random": [0.007, 0.010, 0.007],
+    "visible_in_first_person": false
+  },
+  {
+    "body_part": "left_leg",
+    "amount": 0.095,
+    "offset": [-5.2, -7.2, -2.7],
+    "offset_random": [0.05, 0.06, 0.05],
+    "motion": [-2.35, 1.45, -0.36],
+    "motion_random": [0.007, 0.010, 0.007],
+    "visible_in_first_person": false
+  }
+]
+

@@ -1,0 +1,12 @@
+{
+  "type": "palladium:lightning_sparks",
+  "frequency": 1.0,
+  "amount": 30,
+  "core_color": "#067D00",
+  "glow_color": "#28850C",
+  "core_opacity": 1.0,
+  "glow_opacity": 1.0,
+  "thickness": 0.03,
+  "scale": 1.4,
+  "normal_transparency": false
+}

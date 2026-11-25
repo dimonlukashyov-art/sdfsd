@@ -1,0 +1,30 @@
+{
+  "category": "project_edgerunner:cyberware",
+  "name": "book.edgerunner.guide.cyberware.slot_circulatory.name",
+  "description": "book.edgerunner.guide.cyberware.slot_circulatory.description",
+  "icon": {
+    "item": "project_edgerunner:blood_pump"
+  },
+  "x": -9,
+  "y": 2,
+  "sort_number": 4,
+  "hide_while_locked": false,
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "anchor": "r5b_0",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "title": "book.edgerunner.guide.cyberware.slot_circulatory.r5b.page0.title",
+      "show_title_separator": true,
+      "text": "book.edgerunner.guide.cyberware.slot_circulatory.r5b.page0.text"
+    }
+  ],
+  "parents": [
+    {
+      "draw_arrow": true,
+      "entry": "project_edgerunner:cyberware/hub"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "project_edgerunner:trail_tracker_array_t3"
+    },
+    {
+      "item": "project_edgerunner:hazard_scan_kernel_t3"
+    },
+    {
+      "item": "project_edgerunner:hostile_scan_kernel_t3"
+    },
+    {
+      "item": "palladium:lead_circuit"
+    },
+    {
+      "item": "palladium:lead_circuit"
+    },
+    {
+      "item": "palladium:quartz_flux_capacitor"
+    },
+    {
+      "item": "palladium:titanium_ingot"
+    }
+  ],
+  "result": {
+    "item": "project_edgerunner:optic_fusion_controller_t4",
+    "count": 1
+  }
+}

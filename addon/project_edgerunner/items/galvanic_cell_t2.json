@@ -1,0 +1,18 @@
+{
+  "type": "palladium:default",
+  "max_stack_size": 64,
+  "rarity": "uncommon",
+  "creative_mode_tab": "project_edgerunner:cyberpunk",
+  "tooltip": [
+    {
+      "color": "#AAAAAA",
+      "translate": "tooltip.project_edgerunner.item.galvanic_cell_t2.line_0",
+      "fallback": "Intermediate Component"
+    },
+    {
+      "color": "#BF40BF",
+      "translate": "tooltip.project_edgerunner.item.galvanic_cell_t2.line_1",
+      "fallback": "Tier: 2"
+    }
+  ]
+}

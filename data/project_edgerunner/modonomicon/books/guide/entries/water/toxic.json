@@ -1,0 +1,25 @@
+{
+  "category": "project_edgerunner:cyberware",
+  "name": "book.edgerunner.guide.water.toxic.name",
+  "description": "book.edgerunner.guide.water.toxic.description",
+  "icon": {
+    "item": "minecraft:water_bucket"
+  },
+  "x": -4,
+  "y": 15,
+  "sort_number": 91,
+  "hide_while_locked": true,
+  "condition": {
+    "type": "modonomicon:advancement",
+    "advancement_id": "project_edgerunner:water/toxic"
+  },
+  "parents": [],
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "anchor": "conduction_idea1",
+      "title": "book.edgerunner.guide.water.toxic.name",
+      "text": "book.edgerunner.guide.water.toxic.text.book2.0"
+    }
+  ]
+}
